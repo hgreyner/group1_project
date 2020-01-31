@@ -356,7 +356,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1982,05 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,3,2,Brazil,H,Italy, ,788,ITA,BRA
 1982,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0,0,England,D,Draw, ,877,ESP,ENG
 1982,08 Jul 1982 - 17:15 ,Semi-finals,Camp Nou,Barcelona ,Poland,0,2,Italy,A,Italy, ,996,POL,ITA
-1982,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany,3,3,France,D,Draw, win on penalties (5 - 4) ,914,FRG,FRA
+1982,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany,3,3,France,H,Draw, win on penalties (5 - 4) ,914,FRG,FRA
 1982,10 Jul 1982 - 20:00 ,Match for third place,Jose Rico Perez,Alicante ,Poland,3,2,France,H,Poland, ,921,POL,FRA
 1982,11 Jul 1982 - 20:00 ,Final,Santiago Bernabeu,Madrid ,Italy,3,1,Germany,H,Italy, ,923,ITA,FRG
 1986,31 May 1986 - 12:00 ,Group A,Estadio Azteca,Mexico City ,Bulgaria,1,1,Italy,D,Draw, ,459,BUL,ITA
@@ -403,9 +403,9 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1986,17 Jun 1986 - 16:00 ,Round of 16,Estadio Universitario,Monterrey ,Morocco,0,1,Germany,A,Germany, ,574,MAR,FRG
 1986,18 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,England,3,0,Paraguay,H,England, ,536,ENG,PAR
 1986,18 Jun 1986 - 16:00 ,Round of 16,Estadio Corregidora,Queretaro ,Denmark,1,5,Spain,A,Spain, ,511,DEN,ESP
-1986,21 Jun 1986 - 12:00 ,Quarter-finals,Jalisco,Guadalajara ,Brazil,1,1,France,D,Draw,France win on penalties (3 - 4) ,440,BRA,FRA
-1986,21 Jun 1986 - 16:00 ,Quarter-finals,Estadio Universitario,Monterrey ,Germany,0,0,Mexico,D,Draw,Germany win on penalties (4 - 1) ,575,FRG,MEX
-1986,22 Jun 1986 - 16:00 ,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1,1,Belgium,D,Draw,Belgium win on penalties (4 - 5) ,421,ESP,BEL
+1986,21 Jun 1986 - 12:00 ,Quarter-finals,Jalisco,Guadalajara ,Brazil,1,1,France,A,Draw,France win on penalties (3 - 4) ,440,BRA,FRA
+1986,21 Jun 1986 - 16:00 ,Quarter-finals,Estadio Universitario,Monterrey ,Germany,0,0,Mexico,H,Draw,Germany win on penalties (4 - 1) ,575,FRG,MEX
+1986,22 Jun 1986 - 16:00 ,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1,1,Belgium,A,Draw,Belgium win on penalties (4 - 5) ,421,ESP,BEL
 1986,22 Jun 1986 - 12:00 ,Quarter-finals,Estadio Azteca,Mexico City ,Argentina,2,1,England,H,Argentina, ,392,ARG,ENG
 1986,25 Jun 1986 - 12:00 ,Semi-finals,Jalisco,Guadalajara ,France,0,2,Germany,A,Germany, ,564,FRA,FRG
 1986,25 Jun 1986 - 16:00 ,Semi-finals,Estadio Azteca,Mexico City ,Argentina,2,0,Belgium,H,Argentina, ,388,ARG,BEL
@@ -451,16 +451,16 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1990,23 Jun 1990 - 21:00 ,Round of 16,Stadio San Nicola,Bari ,Czech Republic,4,1,Costa Rica,H,Czech Republic, ,129,TCH,CRC
 1990,24 Jun 1990 - 17:00 ,Round of 16,Stadio delle Alpi,Turin ,Brazil,0,1,Argentina,A,Argentina, ,25,BRA,ARG
 1990,24 Jun 1990 - 21:00 ,Round of 16,Giuseppe Meazza,Milan ,Germany,2,1,Netherlands,H,Germany, ,196,FRG,NED
-1990,25 Jun 1990 - 17:00 ,Round of 16,Luigi Ferraris,Genoa ,Republic of Ireland,0,0,Romania,D,Draw,Republic of Ireland win on penalties (5 - 4) ,248,IRL,ROU
+1990,25 Jun 1990 - 17:00 ,Round of 16,Luigi Ferraris,Genoa ,Republic of Ireland,0,0,Romania,H,Draw,Republic of Ireland win on penalties (5 - 4) ,248,IRL,ROU
 1990,25 Jun 1990 - 21:00 ,Round of 16,Stadio Olimpico,Rome ,Italy,2,0,Uruguay,H,Italy, ,264,ITA,URU
 1990,26 Jun 1990 - 17:00 ,Round of 16,Marc Antonio Bentegodi,Verona ,Spain,1,2,Yugoslavia,A,Yugoslavia,Yugoslavia win after extra time ,181,ESP,YUG
 1990,26 Jun 1990 - 21:00 ,Round of 16,Renato Dall Ara,Bologna ,England,1,0,Belgium,H,England,England win after extra time ,55,ENG,BEL
-1990,30 Jun 1990 - 17:00 ,Quarter-finals,Comunale,Florence ,Yugoslavia,0,0,Argentina,D,Draw, win on penalties (2 - 3) ,31,YUG,ARG
+1990,30 Jun 1990 - 17:00 ,Quarter-finals,Comunale,Florence ,Yugoslavia,0,0,Argentina,A,Draw, win on penalties (2 - 3) ,31,YUG,ARG
 1990,30 Jun 1990 - 21:00 ,Quarter-finals,Stadio Olimpico,Rome ,Italy,1,0,Republic of Ireland,H,Italy, ,243,ITA,IRL
 1990,01 Jul 1990 - 17:00 ,Quarter-finals,Giuseppe Meazza,Milan ,Germany,1,0,Czech Republic,H,Germany, ,197,FRG,TCH
 1990,01 Jul 1990 - 21:00 ,Quarter-finals,San Paolo,Naples ,England,3,2,Cameroon,H,England,England win after extra time ,103,ENG,CMR
-1990,03 Jul 1990 - 20:00 ,Semi-finals,San Paolo,Naples ,Italy,1,1,Argentina,D,Draw, win on penalties (3 - 4) ,28,ITA,ARG
-1990,04 Jul 1990 - 20:00 ,Semi-finals,Stadio delle Alpi,Turin ,Germany,1,1,England,D,Draw, win on penalties (4 - 3) ,159,FRG,ENG
+1990,03 Jul 1990 - 20:00 ,Semi-finals,San Paolo,Naples ,Italy,1,1,Argentina,A,Draw, win on penalties (3 - 4) ,28,ITA,ARG
+1990,04 Jul 1990 - 20:00 ,Semi-finals,Stadio delle Alpi,Turin ,Germany,1,1,England,H,Draw, win on penalties (4 - 3) ,159,FRG,ENG
 1990,07 Jul 1990 - 20:00 ,Match for third place,Stadio San Nicola,Bari ,Italy,2,1,England,H,Italy, ,162,ITA,ENG
 1990,08 Jul 1990 - 20:00 ,Final,Stadio Olimpico,Rome ,Germany,1,0,Argentina,H,Germany, ,27,FRG,ARG
 1994,17 Jun 1994 - 19:30 ,Group C,Cotton Bowl,Dallas ,Spain,2,2,Korea Republic,D,Draw, ,3050,ESP,KOR
@@ -506,15 +506,15 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1994,04 Jul 1994 - 12:00 ,Round of 16,Citrus Bowl,Orlando ,Netherlands,2,0,Republic of Ireland,H,Netherlands, ,3089,NED,IRL
 1994,04 Jul 1994 - 12:30 ,Round of 16,Stanford Stadium,San Francisco ,Brazil,1,0,USA,H,Brazil, ,3090,BRA,USA
 1994,05 Jul 1994 - 13:00 ,Round of 16,Foxboro Stadium,Boston ,Nigeria,1,2,Italy,A,Italy,Italy win after extra time ,3091,NGA,ITA
-1994,05 Jul 1994 - 16:30 ,Round of 16,Giants Stadium,New York/New Jersey ,Mexico,1,1,Bulgaria,D,Draw,Bulgaria win on penalties (1 - 3) ,3092,MEX,BUL
+1994,05 Jul 1994 - 16:30 ,Round of 16,Giants Stadium,New York/New Jersey ,Mexico,1,1,Bulgaria,A,Draw,Bulgaria win on penalties (1 - 3) ,3092,MEX,BUL
 1994,09 Jul 1994 - 12:00 ,Quarter-finals,Foxboro Stadium,Boston ,Italy,2,1,Spain,H,Italy, ,3097,ITA,ESP
 1994,09 Jul 1994 - 14:30 ,Quarter-finals,Cotton Bowl,Dallas ,Netherlands,2,3,Brazil,A,Brazil, ,3098,NED,BRA
 1994,10 Jul 1994 - 12:00 ,Quarter-finals,Giants Stadium,New York/New Jersey ,Bulgaria,2,1,Germany,H,Bulgaria, ,3096,BUL,GER
-1994,10 Jul 1994 - 12:30 ,Quarter-finals,Stanford Stadium,San Francisco ,Romania,2,2,Sweden,D,Draw,Sweden win on penalties (4 - 5) ,3095,ROU,SWE
+1994,10 Jul 1994 - 12:30 ,Quarter-finals,Stanford Stadium,San Francisco ,Romania,2,2,Sweden,A,Draw,Sweden win on penalties (4 - 5) ,3095,ROU,SWE
 1994,13 Jul 1994 - 16:00 ,Semi-finals,Giants Stadium,New York/New Jersey ,Bulgaria,1,2,Italy,A,Italy, ,3100,BUL,ITA
 1994,13 Jul 1994 - 16:30 ,Semi-finals,Rose Bowl,Los Angeles ,Sweden,0,1,Brazil,A,Brazil, ,3099,SWE,BRA
 1994,16 Jul 1994 - 12:30 ,Match for third place,Rose Bowl,Los Angeles ,Sweden,4,0,Bulgaria,H,Sweden, ,3103,SWE,BUL
-1994,17 Jul 1994 - 12:30 ,Final,Rose Bowl,Los Angeles ,Brazil,0,0,Italy,D,Draw,Brazil win on penalties (3 - 2) ,3104,BRA,ITA
+1994,17 Jul 1994 - 12:30 ,Final,Rose Bowl,Los Angeles ,Brazil,0,0,Italy,H,Draw,Brazil win on penalties (3 - 2) ,3104,BRA,ITA
 1998,10 Jun 1998 - 17:30 ,Group A,Stade de France,Saint-Denis ,Brazil,2,1,Scotland,H,Brazil, ,4000,BRA,SCO
 1998,10 Jun 1998 - 21:00 ,Group A,La Mosson,Montpellier ,Morocco,2,2,Norway,D,Draw, ,8725,MAR,NOR
 1998,11 Jun 1998 - 17:30 ,Group B,Stade du Parc Lescure,Bordeaux ,Italy,2,2,Chile,D,Draw, ,8726,ITA,CHI
@@ -570,12 +570,12 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1998,29 Jun 1998 - 16:30 ,Round of 16,La Mosson,Montpellier ,Germany,2,1,Mexico,H,Germany, ,8777,GER,MEX
 1998,29 Jun 1998 - 21:00 ,Round of 16,Stade Municipal,Toulouse ,Netherlands,2,1,Yugoslavia,H,Netherlands, ,8778,NED,YUG
 1998,30 Jun 1998 - 16:30 ,Round of 16,Stade du Parc Lescure,Bordeaux ,Romania,0,1,Croatia,A,Croatia, ,8780,ROU,CRO
-1998,30 Jun 1998 - 21:00 ,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2,2,England,D,Draw,Argentina win on penalties (4 - 3) ,8779,ARG,ENG
-1998,03 Jul 1998 - 16:30 ,Quarter-finals,Stade de France,Saint-Denis ,Italy,0,0,France,D,Draw,France win on penalties (3 - 4) ,8781,ITA,FRA
+1998,30 Jun 1998 - 21:00 ,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2,2,England,H,Draw,Argentina win on penalties (4 - 3) ,8779,ARG,ENG
+1998,03 Jul 1998 - 16:30 ,Quarter-finals,Stade de France,Saint-Denis ,Italy,0,0,France,A,Draw,France win on penalties (3 - 4) ,8781,ITA,FRA
 1998,03 Jul 1998 - 21:00 ,Quarter-finals,La Beaujoire,Nantes ,Brazil,3,2,Denmark,H,Brazil, ,8782,BRA,DEN
 1998,04 Jul 1998 - 16:30 ,Quarter-finals,Stade V�lodrome,Marseilles ,Netherlands,2,1,Argentina,H,Netherlands, ,8784,NED,ARG
 1998,04 Jul 1998 - 21:00 ,Quarter-finals,Stade de Gerland,Lyon ,Germany,0,3,Croatia,A,Croatia, ,8783,GER,CRO
-1998,07 Jul 1998 - 21:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Brazil,1,1,Netherlands,D,Draw,Brazil win on penalties (4 - 2) ,8785,BRA,NED
+1998,07 Jul 1998 - 21:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Brazil,1,1,Netherlands,H,Draw,Brazil win on penalties (4 - 2) ,8785,BRA,NED
 1998,08 Jul 1998 - 21:00 ,Semi-finals,Stade de France,Saint-Denis ,France,2,1,Croatia,H,France, ,8786,FRA,CRO
 1998,11 Jul 1998 - 21:00 ,Match for third place,Parc des Princes,Paris ,Netherlands,1,2,Croatia,A,Croatia, ,8787,NED,CRO
 1998,12 Jul 1998 - 21:00 ,Final,Stade de France,Saint-Denis ,Brazil,0,3,France,A,France, ,8788,BRA,FRA
@@ -629,7 +629,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2002,14 Jun 2002 - 15:30 ,Group H,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3,2,Russia,H,Belgium, ,43950046,BEL,RUS
 2002,15 Jun 2002 - 20:30 ,Round of 16,Niigata Stadium Big Swan,Niigata ,Denmark,0,3,England,A,England, ,43950050,DEN,ENG
 2002,15 Jun 2002 - 15:30 ,Round of 16,Jeju World Cup Stadium,Jeju ,Germany,1,0,Paraguay,H,Germany, ,43950049,GER,PAR
-2002,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1,1,Republic of Ireland,D,Draw,Spain win on penalties (3 - 2) ,43950052,ESP,IRL
+2002,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1,1,Republic of Ireland,H,Draw,Spain win on penalties (3 - 2) ,43950052,ESP,IRL
 2002,16 Jun 2002 - 15:30 ,Round of 16,Oita Stadium Big Eye,Oita ,Sweden,1,2,Senegal,A,Senegal,Win on Golden Goal ,43950051,SWE,SEN
 2002,17 Jun 2002 - 20:30 ,Round of 16,Kobe Wing Stadium,Kobe ,Brazil,2,0,Belgium,H,Brazil, ,43950054,BRA,BEL
 2002,17 June 2002 - 15:30 ,Round of 16,Jeonju World Cup Stadium,Jeonju ,Mexico,0,2,USA,A,USA, ,43950053,MEX,USA
@@ -638,7 +638,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2002,21 Jun 2002 - 15:30 ,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka ,England,1,2,Brazil,A,Brazil, ,43950057,ENG,BRA
 2002,21 Jun 2002 - 20:30 ,Quarter-finals,Munsu Football Stadium,Ulsan ,Germany,1,0,USA,H,Germany, ,43950058,GER,USA
 2002,22 Jun 2002 - 20:30 ,Quarter-finals,Osaka Nagai Stadium,Osaka ,Senegal,0,1,Turkey,A,Turkey,Win on Golden Goal ,43950060,SEN,TUR
-2002,22 Jun 2002 - 15:30 ,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0,0,Korea Republic,D,Draw,Korea Republic win on penalties (3 - 5) ,43950059,ESP,KOR
+2002,22 Jun 2002 - 15:30 ,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0,0,Korea Republic,A,Draw,Korea Republic win on penalties (3 - 5) ,43950059,ESP,KOR
 2002,25 Jun 2002 - 20:30 ,Semi-finals,Seoul World Cup Stadium,Seoul ,Germany,1,0,Korea Republic,H,Germany, ,43950061,GER,KOR
 2002,26 Jun 2002 - 20:30 ,Semi-finals,Saitama Stadium 2002,Saitama ,Brazil,1,0,Turkey,H,Brazil, ,43950062,BRA,TUR
 2002,29 Jun 2002 - 20:00 ,Third place,Daegu World Cup Stadium,Daegu ,Korea Republic,2,3,Turkey,A,Turkey, ,43950063,KOR,TUR
@@ -696,17 +696,17 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2006,25 Jun 2006 - 17:00 ,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart ,England,1,0,Ecuador,H,England, ,97410051,ENG,ECU
 2006,25 Jun 2006 - 21:00 ,Round of 16,Franken-Stadion,Nuremberg ,Portugal,1,0,Netherlands,H,Portugal, ,97410052,POR,NED
 2006,26 Jun 2006 - 17:00 ,Round of 16,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1,0,Australia,H,Italy, ,97410053,ITA,AUS
-2006,26 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0,0,Ukraine,D,Draw,Ukraine win on penalties (0 - 3) ,97410054,SUI,UKR
+2006,26 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0,0,Ukraine,A,Draw,Ukraine win on penalties (0 - 3) ,97410054,SUI,UKR
 2006,27 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Dortmund",Dortmund ,Brazil,3,0,Ghana,H,Brazil, ,97410055,BRA,GHA
 2006,27 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1,3,France,A,France, ,97410056,ESP,FRA
-2006,30 Jun 2006 - 17:00 ,Quarter-finals,Olympiastadion,Berlin ,Germany,1,1,Argentina,D,Draw,Germany win on penalties (4 - 2) ,97410057,GER,ARG
+2006,30 Jun 2006 - 17:00 ,Quarter-finals,Olympiastadion,Berlin ,Germany,1,1,Argentina,H,Draw,Germany win on penalties (4 - 2) ,97410057,GER,ARG
 2006,30 Jun 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Hamburg",Hamburg ,Italy,3,0,Ukraine,H,Italy, ,97410058,ITA,UKR
-2006,01 Jul 2006 - 17:00 ,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0,0,Portugal,D,Draw,Portugal win on penalties (1 - 3) ,97410059,ENG,POR
+2006,01 Jul 2006 - 17:00 ,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0,0,Portugal,A,Draw,Portugal win on penalties (1 - 3) ,97410059,ENG,POR
 2006,01 Jul 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Brazil,0,1,France,A,France, ,97410060,BRA,FRA
 2006,04 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,0,2,Italy,A,Italy,Italy win after extra time ,97410061,GER,ITA
 2006,05 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Munich",Munich ,Portugal,0,1,France,A,France, ,97410062,POR,FRA
 2006,08 Jul 2006 - 21:00 ,Third place,Gottlieb-Daimler-Stadion,Stuttgart ,Germany,3,1,Portugal,H,Germany, ,97410063,GER,POR
-2006,09 Jul 2006 - 20:00 ,Final,Olympiastadion,Berlin ,Italy,1,1,France,D,Draw,Italy win on penalties (5 - 3) ,97410064,ITA,FRA
+2006,09 Jul 2006 - 20:00 ,Final,Olympiastadion,Berlin ,Italy,1,1,France,H,Draw,Italy win on penalties (5 - 3) ,97410064,ITA,FRA
 2010,11 Jun 2010 - 16:00 ,Group A,Soccer City Stadium,Johannesburg ,South Africa,1,1,Mexico,D,Draw, ,300061454,RSA,MEX
 2010,11 Jun 2010 - 20:30 ,Group A,Cape Town Stadium,Cape Town ,Uruguay,0,0,France,D,Draw, ,300061453,URU,FRA
 2010,12 Jun 2010 - 13:30 ,Group B,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,2,0,Greece,H,Korea Republic, ,300061459,KOR,GRE
@@ -761,10 +761,10 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2010,27 Jun 2010 - 20:30 ,Round of 16,Soccer City Stadium,Johannesburg ,Argentina,3,1,Mexico,H,Argentina, ,300061502,ARG,MEX
 2010,28 Jun 2010 - 16:00 ,Round of 16,Durban Stadium,Durban ,Netherlands,2,1,Slovakia,H,Netherlands, ,300111113,NED,SVK
 2010,28 Jun 2010 - 20:30 ,Round of 16,Ellis Park Stadium,Johannesburg ,Brazil,3,0,Chile,H,Brazil, ,300061500,BRA,CHI
-2010,29 Jun 2010 - 16:00 ,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0,0,Japan,D,Draw,Paraguay win on penalties (5 - 3) ,300061497,PAR,JPN
+2010,29 Jun 2010 - 16:00 ,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0,0,Japan,H,Draw,Paraguay win on penalties (5 - 3) ,300061497,PAR,JPN
 2010,29 Jun 2010 - 20:30 ,Round of 16,Cape Town Stadium,Cape Town ,Spain,1,0,Portugal,H,Spain, ,300061498,ESP,POR
 2010,02 Jul 2010 - 16:00 ,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2,1,Brazil,H,Netherlands, ,300061507,NED,BRA
-2010,02 Jul 2010 - 20:30 ,Quarter-finals,Soccer City Stadium,Johannesburg ,Uruguay,1,1,Ghana,D,Draw,Uruguay win on penalties (4 - 2) ,300061508,URU,GHA
+2010,02 Jul 2010 - 20:30 ,Quarter-finals,Soccer City Stadium,Johannesburg ,Uruguay,1,1,Ghana,H,Draw,Uruguay win on penalties (4 - 2) ,300061508,URU,GHA
 2010,03 Jul 2010 - 16:00 ,Quarter-finals,Cape Town Stadium,Cape Town ,Argentina,0,4,Germany,A,Germany, ,300061505,ARG,GER
 2010,03 Jul 2010 - 20:30 ,Quarter-finals,Ellis Park Stadium,Johannesburg ,Paraguay,0,1,Spain,A,Spain, ,300061506,PAR,ESP
 2010,06 Jul 2010 - 20:30 ,Semi-finals,Cape Town Stadium,Cape Town ,Uruguay,2,3,Netherlands,A,Netherlands, ,300061512,URU,NED
@@ -822,16 +822,17 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,04 Jul 2014 - 13:00 ,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0,1,Germany,A,Germany, ,300186485,FRA,GER
 2014,29 Jun 2014 - 13:00 ,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2,1,Mexico,H,Netherlands, ,300186508,NED,MEX
 2014,01 Jul 2014 - 17:00 ,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2,1,USA,H,Belgium,Belgium win after extra time ,300186497,BEL,USA
-2014,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,D,Draw,Brazil win on penalties (3 - 2) ,300186487,BRA,CHI
+2014,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1,1,Chile,H,Draw,Brazil win on penalties (3 - 2) ,300186487,BRA,CHI
 2014,28 Jun 2014 - 17:00 ,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2,0,Uruguay,H,Colombia, ,300186491,COL,URU
-2014,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,D,Draw,Costa Rica win on penalties (5 - 3) ,300186459,CRC,GRE
+2014,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1,1,Greece,H,Draw,Costa Rica win on penalties (5 - 3) ,300186459,CRC,GRE
 2014,30 Jun 2014 - 13:00 ,Round of 16,Estadio Nacional,Brasilia ,France,2,0,Nigeria,H,France, ,300186462,FRA,NGA
 2014,30 Jun 2014 - 17:00 ,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2,1,Algeria,H,Germany,Germany win after extra time ,300186460,GER,ALG
 2014,01 Jul 2014 - 13:00 ,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1,0,Switzerland,H,Argentina,Argentina win after extra time ,300186503,ARG,SUI
 2014,04 Jul 2014 - 17:00 ,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2,1,Colombia,H,Brazil, ,300186461,BRA,COL
 2014,05 Jul 2014 - 13:00 ,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1,0,Belgium,H,Argentina, ,300186504,ARG,BEL
-2014,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,D,Draw,Netherlands win on penalties (4 - 3) ,300186488,NED,CRC
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0,0,Costa Rica,H,Draw,Netherlands win on penalties (4 - 3) ,300186488,NED,CRC
 2014,08 Jul 2014 - 17:00 ,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1,7,Germany,A,Germany, ,300186474,BRA,GER
-2014,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,D,Draw,Argentina win on penalties (2 - 4) ,300186490,NED,ARG
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0,0,Argentina,A,Draw,Argentina win on penalties (2 - 4) ,300186490,NED,ARG
 2014,12 Jul 2014 - 17:00 ,Play-off for third place,Estadio Nacional,Brasilia ,Brazil,0,3,Netherlands,A,Netherlands, ,300186502,BRA,NED
 2014,13 Jul 2014 - 16:00 ,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1,0,Argentina,H,Germany,Germany win after extra time ,300186501,GER,ARG
+,,,,,,,,,,,,,,
