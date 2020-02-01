@@ -1,3 +1,5 @@
+Please Navigate to group_project/Master branch to find the FINAL PROJECT. THANKS!
+
 # What Factors go into to Winning a World Cup
 
 ## Members?
