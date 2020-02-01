@@ -1,0 +1,859 @@
+,Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Results,Winning Team,Win conditions,MatchID,Home Team Initials,Away Team Initials,City Temperature,Home Team Average Temperature,Away Team Average Temperature,Winning Team Average Temperature
+0,1930.0,13 Jul 1930 - 15:00 ,Group 1,Pocitos,Montevideo ,France,4.0,1.0,Mexico,H,France, ,1096.0,FRA,MEX,11,13.0,21.0,13.0
+1,1954.0,19 Jun 1954 - 17:10 ,Group 1,Charmilles,Geneva ,France,3.0,2.0,Mexico,H,France, ,1275.0,FRA,MEX,23,13.0,21.0,13.0
+2,1938.0,05 Jun 1938 - 17:00 ,First round,Stade Olympique,Colombes ,France,3.0,1.0,Belgium,H,France, ,1146.0,FRA,BEL,25,13.0,10.0,13.0
+3,1986.0,28 Jun 1986 - 12:00 ,Match for third place,Cuauhtemoc,Puebla ,France,4.0,2.0,Belgium,H,France,France win after extra time ,422.0,FRA,BEL,24,13.0,10.0,13.0
+4,1958.0,08 Jun 1958 - 19:00 ,Group 2,Idrottsparken,Norrk�Ping ,France,7.0,3.0,Paraguay,H,France, ,1386.0,FRA,PAR,29,13.0,23.0,13.0
+5,1998.0,28 Jun 1998 - 16:30 ,Round of 16,Stade Felix Bollaert,Lens ,France,1.0,0.0,Paraguay,H,France,France win after extra time ,8776.0,FRA,PAR,22,13.0,23.0,13.0
+6,1958.0,15 Jun 1958 - 19:00 ,Group 2,Eyravallen,Orebro ,France,2.0,1.0,Scotland,H,France, ,1387.0,FRA,SCO,22,13.0,8.45,13.0
+7,1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Idrottsparken,Norrk�Ping ,France,4.0,0.0,Northern Ireland,H,France, ,1385.0,FRA,NIR,29,13.0,9.3,13.0
+8,1982.0,04 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,France,4.0,1.0,Northern Ireland,H,France, ,920.0,FRA,NIR,34,13.0,9.3,13.0
+9,1958.0,28 Jun 1958 - 17:00 ,Match for third place,Nya Ullevi,Gothenburg ,France,6.0,3.0,Germany,H,France, ,1382.0,FRA,FRG,21,13.0,9.0,13.0
+10,1978.0,10 Jun 1978 - 15:10 ,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata ,France,3.0,1.0,Hungary,H,France, ,2344.0,FRA,HUN,12,13.0,11.0,13.0
+11,1982.0,21 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,4.0,1.0,Kuwait,H,France, ,919.0,FRA,KUW,32,13.0,26.0,13.0
+12,1998.0,12 Jun 1998 - 21:00 ,Group C,Stade V�lodrome,Marseilles ,France,3.0,0.0,South Africa,H,France, ,8730.0,FRA,RSA,25,13.0,17.0,13.0
+13,1998.0,18 Jun 1998 - 21:00 ,Group C,Stade de France,Saint-Denis ,France,4.0,0.0,Saudi Arabia,H,France, ,8745.0,FRA,KSA,22,13.0,26.0,13.0
+14,1998.0,24 Jun 1998 - 16:00 ,Group C,Stade de Gerland,Lyon ,France,2.0,1.0,Denmark,H,France, ,8762.0,FRA,DEN,26,13.0,-16.0,13.0
+15,1998.0,08 Jul 1998 - 21:00 ,Semi-finals,Stade de France,Saint-Denis ,France,2.0,1.0,Croatia,H,France, ,8786.0,FRA,CRO,22,13.0,12.0,13.0
+16,2014.0,15 Jun 2014 - 16:00 ,Group E,Estadio Beira-Rio,Porto Alegre ,France,3.0,0.0,Honduras,H,France, ,300186496.0,FRA,HON,21,13.0,25.0,13.0
+17,2014.0,30 Jun 2014 - 13:00 ,Round of 16,Estadio Nacional,Brasilia ,France,2.0,0.0,Nigeria,H,France, ,300186462.0,FRA,NGA,28,13.0,27.0,13.0
+18,1998.0,12 Jul 1998 - 21:00 ,Final,Stade de France,Saint-Denis ,Brazil,0.0,3.0,France,A,France, ,8788.0,BRA,FRA,22,25.0,13.0,13.0
+19,2006.0,01 Jul 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Brazil,0.0,1.0,France,A,France, ,97410060.0,BRA,FRA,23,25.0,13.0,13.0
+20,1982.0,28 Jun 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,0.0,1.0,France,A,France, ,767.0,AUT,FRA,34,7.0,13.0,13.0
+21,1986.0,09 Jun 1986 - 12:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,Hungary,0.0,3.0,France,A,France, ,567.0,HUN,FRA,28,11.0,13.0,13.0
+22,2014.0,20 Jun 2014 - 16:00 ,Group E,Arena Fonte Nova,Salvador ,Switzerland,2.0,5.0,France,A,France, ,300186514.0,SUI,FRA,25,8.0,13.0,13.0
+23,2006.0,27 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1.0,3.0,France,A,France, ,97410056.0,ESP,FRA,21,14.0,13.0,13.0
+24,1986.0,17 Jun 1986 - 12:00 ,Round of 16,Estadio Ol�mpico Universitario,Mexico City ,Italy,0.0,2.0,France,A,France, ,568.0,ITA,FRA,25,13.0,13.0,13.0
+25,2006.0,05 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Munich",Munich ,Portugal,0.0,1.0,France,A,France, ,97410062.0,POR,FRA,20,15.0,13.0,13.0
+26,1986.0,01 Jun 1986 - 16:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,Canada,0.0,1.0,France,A,France, ,468.0,CAN,FRA,28,-3.0,13.0,13.0
+27,2006.0,23 Jun 2006 - 21:00 ,Group G,"FIFA World Cup Stadium, Cologne",Cologne ,Togo,0.0,2.0,France,A,France, ,97410045.0,TOG,FRA,24,27.0,13.0,13.0
+28,1966.0,13 Jul 1966 - 19:30 ,Group 1,Wembley Stadium,London ,France,1.0,1.0,Mexico,D,Draw, ,1650.0,FRA,MEX,24,13.0,21.0,
+29,1966.0,19 Jul 1966 - 16:30 ,Group 1,Wembley Stadium,London ,Uruguay,0.0,0.0,Mexico,D,Draw, ,1689.0,URU,MEX,24,17.0,21.0,
+30,2014.0,17 Jun 2014 - 16:00 ,Group A,Estadio Castelao,Fortaleza ,Brazil,0.0,0.0,Mexico,D,Draw, ,300186509.0,BRA,MEX,28,25.0,21.0,
+31,1986.0,21 Jun 1986 - 16:00 ,Quarter-finals,Estadio Universitario,Monterrey ,Germany,0.0,0.0,Mexico,H,Draw,Germany win on penalties (4 - 1) ,575.0,FRG,MEX,36,9.0,21.0,
+32,1994.0,28 Jun 1994 - 12:30 ,Group E,RFK Stadium,Washington Dc ,Italy,1.0,1.0,Mexico,D,Draw, ,3078.0,ITA,MEX,36,13.0,21.0,
+33,1998.0,20 Jun 1998 - 17:30 ,Group E,Stade du Parc Lescure,Bordeaux ,Belgium,2.0,2.0,Mexico,D,Draw, ,8750.0,BEL,MEX,32,10.0,21.0,
+34,1998.0,25 Jun 1998 - 16:00 ,Group E,Stade Geoffroy Guichard,Saint-Etienne ,Netherlands,2.0,2.0,Mexico,D,Draw, ,8766.0,NED,MEX,24,10.0,21.0,
+35,2010.0,11 Jun 2010 - 16:00 ,Group A,Soccer City Stadium,Johannesburg ,South Africa,1.0,1.0,Mexico,D,Draw, ,300061454.0,RSA,MEX,22,17.0,21.0,
+36,1986.0,11 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,2.0,2.0,Belgium,D,Draw, ,429.0,PAR,BEL,19,23.0,10.0,
+37,1986.0,22 Jun 1986 - 16:00 ,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1.0,1.0,Belgium,A,Draw,Belgium win on penalties (4 - 5) ,421.0,ESP,BEL,24,14.0,10.0,
+38,1954.0,17 Jun 1954 - 18:10 ,Group 4,St. Jakob,Basel ,England,4.0,4.0,Belgium,D,Draw, ,1240.0,ENG,BEL,23,8.45,10.0,
+39,1998.0,13 Jun 1998 - 21:00 ,Group E,Stade de France,Saint-Denis ,Netherlands,0.0,0.0,Belgium,D,Draw, ,8733.0,NED,BEL,22,10.0,10.0,
+40,2002.0,10 Jun 2002 - 18:00 ,Group H,Oita Stadium Big Eye,Oita ,Tunisia,1.0,1.0,Belgium,D,Draw, ,43950031.0,TUN,BEL,21,21.0,10.0,
+41,2002.0,04 June 2002 - 18:00 ,Group H,Saitama Stadium 2002,Saitama ,Japan,2.0,2.0,Belgium,D,Draw, ,43950013.0,JPN,BEL,29,12.0,10.0,
+42,1950.0,29 Jun 1950 - 15:30 ,Group 3,Durival de Brito,Curitiba ,Sweden,2.0,2.0,Paraguay,D,Draw, ,1228.0,SWE,PAR,23,3.0,23.0,
+43,1998.0,19 Jun 1998 - 21:00 ,Group D,Stade Geoffroy Guichard,Saint-Etienne ,Spain,0.0,0.0,Paraguay,D,Draw, ,8748.0,ESP,PAR,24,14.0,23.0,
+44,2010.0,14 Jun 2010 - 20:30 ,Group F,Cape Town Stadium,Cape Town ,Italy,1.0,1.0,Paraguay,D,Draw, ,300061484.0,ITA,PAR,19,13.0,23.0,
+45,1986.0,07 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Mexico,1.0,1.0,Paraguay,D,Draw, ,680.0,MEX,PAR,25,21.0,23.0,
+46,1958.0,08 Jun 1958 - 19:00 ,Group 2,Arosvallen,Vasteras ,Yugoslavia,1.0,1.0,Scotland,D,Draw, ,1434.0,YUG,SCO,22,8.9,8.45,
+47,1982.0,22 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Russia,2.0,2.0,Scotland,D,Draw, ,1071.0,URS,SCO,32,-3.0,8.45,
+48,1982.0,17 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Yugoslavia,0.0,0.0,Northern Ireland,D,Draw, ,1044.0,YUG,NIR,35,8.9,9.3,
+49,1982.0,01 Jul 1982 - 17:15 ,Group 4,Vicente Calderon,Madrid ,Austria,2.0,2.0,Northern Ireland,D,Draw, ,771.0,AUT,NIR,34,7.0,9.3,
+50,1958.0,15 Jun 1958 - 19:00 ,Group 1,Malmo Stadion,Malm� ,Germany,2.0,2.0,Northern Ireland,D,Draw, ,1389.0,FRG,NIR,21,9.0,9.3,
+51,1986.0,03 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Algeria,1.0,1.0,Northern Ireland,D,Draw, ,379.0,ALG,NIR,28,24.0,9.3,
+52,1982.0,21 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,1.0,1.0,Northern Ireland,D,Draw, ,959.0,HON,NIR,35,25.0,9.3,
+53,1974.0,03 Jul 1974 - 19:30 ,Group A,Parkstadion,Gelsenkirchen ,Argentina,1.0,1.0,Germany,D,Draw, ,1946.0,ARG,GDR,22,15.0,9.0,
+54,1974.0,18 Jun 1974 - 19:30 ,Group 1,Olympiastadion,Berlin West ,Chile,1.0,1.0,Germany,D,Draw, ,2004.0,CHI,GDR,26,9.0,9.0,
+55,1986.0,04 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Uruguay,1.0,1.0,Germany,D,Draw, ,585.0,URU,FRG,24,17.0,9.0,
+56,1938.0,04 Jun 1938 - 17:00 ,First round,Parc des Princes,Paris ,Switzerland,1.0,1.0,Germany,D,Draw, ,1165.0,SUI,GER,25,8.0,9.0,
+57,1982.0,22 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1.0,1.0,Hungary,D,Draw, ,779.0,BEL,HUN,31,10.0,11.0,
+58,1982.0,17 Jun 1982 - 17:45 ,Group 4,Jose Zorrilla,Valladolid ,Czech Republic,1.0,1.0,Kuwait,D,Draw, ,1012.0,TCH,KUW,32,8.0,26.0,
+59,1982.0,24 Jun 1982 - 17:15 ,Group 4,Jose Zorrilla,Valladolid ,France,1.0,1.0,Czech Republic,D,Draw, ,922.0,FRA,TCH,32,13.0,8.0,
+60,1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Stade du Parc Lescure,Bordeaux ,Brazil,1.0,1.0,Czech Republic,D,Draw, ,1152.0,BRA,TCH,32,25.0,8.0,
+61,1962.0,02 Jun 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Brazil,0.0,0.0,Czech Republic,D,Draw, ,1462.0,BRA,TCH,17,25.0,8.0,
+62,1958.0,11 Jun 1958 - 19:00 ,Group 1,Olympia Stadium,Helsingborg ,Germany,2.0,2.0,Czech Republic,D,Draw, ,1391.0,FRG,TCH,21,9.0,8.0,
+63,1986.0,05 Jun 1986 - 12:00 ,Group C,Nou Camp - Estadio Le�n,Leon ,France,1.0,1.0,Russia,D,Draw, ,571.0,FRA,URS,28,13.0,-3.0,
+64,1970.0,31 May 1970 - 12:00 ,Group 1,Estadio Azteca,Mexico City ,Mexico,0.0,0.0,Russia,D,Draw, ,1902.0,MEX,URS,25,21.0,-3.0,
+65,1982.0,04 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,0.0,0.0,Russia,D,Draw, ,1058.0,POL,URS,30,8.0,-3.0,
+66,2014.0,26 Jun 2014 - 17:00 ,Group H,Arena da Baixada,Curitiba ,Algeria,1.0,1.0,Russia,D,Draw, ,300186506.0,ALG,RUS,23,24.0,-3.0,
+67,2002.0,02 Jun 2002 - 16:30 ,Group B,Busan Asiad Main Stadium,Busan ,Paraguay,2.0,2.0,South Africa,D,Draw, ,43950006.0,PAR,RSA,48,23.0,17.0,
+68,2006.0,14 Jun 2006 - 18:00 ,Group H,"FIFA World Cup Stadium, Munich",Munich ,Tunisia,2.0,2.0,Saudi Arabia,D,Draw, ,97410016.0,TUN,KSA,20,21.0,26.0,
+69,1998.0,24 Jun 1998 - 16:00 ,Group C,Stade du Parc Lescure,Bordeaux ,South Africa,2.0,2.0,Saudi Arabia,D,Draw, ,8764.0,RSA,KSA,32,17.0,26.0,
+70,1998.0,18 Jun 1998 - 17:30 ,Group C,Stade Municipal,Toulouse ,South Africa,1.0,1.0,Denmark,D,Draw, ,8746.0,RSA,DEN,30,17.0,-16.0,
+71,2006.0,18 Jun 2006 - 15:00 ,Group F,Franken-Stadion,Nuremberg ,Japan,0.0,0.0,Croatia,D,Draw, ,97410028.0,JPN,CRO,20,12.0,12.0,
+72,2002.0,06 Jun 2002 - 15:30 ,Group A,Daegu World Cup Stadium,Daegu ,Denmark,1.0,1.0,Senegal,D,Draw, ,43950020.0,DEN,SEN,28,-16.0,28.0,
+73,2002.0,06 Jun 2002 - 20:30 ,Group A,Busan Asiad Main Stadium,Busan ,France,0.0,0.0,Uruguay,D,Draw, ,43950018.0,FRA,URU,48,13.0,17.0,
+74,1966.0,11 Jul 1966 - 19:30 ,Group 1,Wembley Stadium,London ,England,0.0,0.0,Uruguay,D,Draw, ,1636.0,ENG,URU,24,8.45,17.0,
+75,1974.0,19 Jun 1974 - 19:30 ,Group 3,Niedersachsenstadion,Hanover ,Bulgaria,1.0,1.0,Uruguay,D,Draw, ,1996.0,BUL,URU,21,11.0,17.0,
+76,1986.0,13 Jun 1986 - 12:00 ,Group E,Neza,Nezahualcoyotl ,Scotland,0.0,0.0,Uruguay,D,Draw, ,712.0,SCO,URU,25,8.45,17.0,
+77,2002.0,11 June 2002 - 15:30 ,Group A,Suwon World Cup Stadium,Suwon ,Senegal,3.0,3.0,Uruguay,D,Draw, ,43950034.0,SEN,URU,22,28.0,17.0,
+78,2006.0,13 Jun 2006 - 18:00 ,Group G,Gottlieb-Daimler-Stadion,Stuttgart ,France,0.0,0.0,Switzerland,D,Draw, ,97410013.0,FRA,SUI,22,13.0,8.0,
+79,1994.0,18 Jun 1994 - 11:30 ,Group A,Pontiac Silverdome,Detroit ,USA,1.0,1.0,Switzerland,D,Draw, ,3051.0,USA,SUI,30,8.55,8.0,
+80,1950.0,28 Jun 1950 - 15:00 ,Group 1,Pacaembu,Sao Paulo ,Brazil,2.0,2.0,Switzerland,D,Draw, ,1188.0,BRA,SUI,26,25.0,8.0,
+81,2006.0,18 Jun 2006 - 21:00 ,Group G,Zentralstadion,Leipzig ,France,1.0,1.0,Korea Republic,D,Draw, ,97410029.0,FRA,KOR,22,13.0,11.5,
+82,1994.0,17 Jun 1994 - 19:30 ,Group C,Cotton Bowl,Dallas ,Spain,2.0,2.0,Korea Republic,D,Draw, ,3050.0,ESP,KOR,34,14.0,11.5,
+83,2002.0,22 Jun 2002 - 15:30 ,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0.0,0.0,Korea Republic,A,Draw,Korea Republic win on penalties (3 - 5) ,43950059.0,ESP,KOR,27,14.0,11.5,
+84,2014.0,17 Jun 2014 - 18:00 ,Group H,Arena Pantanal,Cuiaba ,Russia,1.0,1.0,Korea Republic,D,Draw, ,300186499.0,RUS,KOR,36,-3.0,11.5,
+85,1998.0,25 Jun 1998 - 16:00 ,Group E,Parc des Princes,Paris ,Belgium,1.0,1.0,Korea Republic,D,Draw, ,8765.0,BEL,KOR,25,10.0,11.5,
+86,2010.0,22 Jun 2010 - 20:30 ,Group B,Durban Stadium,Durban ,Nigeria,2.0,2.0,Korea Republic,D,Draw, ,300111115.0,NGA,KOR,22,27.0,11.5,
+87,2010.0,25 Jun 2010 - 20:30 ,Group H,Free State Stadium,Mangaung/Bloemfontein ,Switzerland,0.0,0.0,Honduras,D,Draw, ,300061492.0,SUI,HON,22,8.0,25.0,
+88,1982.0,16 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,1.0,1.0,Honduras,D,Draw, ,901.0,ESP,HON,27,14.0,25.0,
+89,2014.0,16 Jun 2014 - 16:00 ,Group F,Arena da Baixada,Curitiba ,Iran,0.0,0.0,Nigeria,D,Draw, ,300186505.0,IRN,NGA,23,19.0,27.0,
+90,1998.0,30 Jun 1998 - 21:00 ,Round of 16,Stade Geoffroy Guichard,Saint-Etienne ,Argentina,2.0,2.0,England,H,Draw,Argentina win on penalties (4 - 3) ,8779.0,ARG,ENG,24,15.0,8.45,
+91,1958.0,11 Jun 1958 - 19:00 ,Group 4,Nya Ullevi,Gothenburg ,Brazil,0.0,0.0,England,D,Draw, ,1339.0,BRA,ENG,21,25.0,8.45,
+92,2006.0,20 Jun 2006 - 21:00 ,Group B,"FIFA World Cup Stadium, Cologne",Cologne ,Sweden,2.0,2.0,England,D,Draw, ,97410035.0,SWE,ENG,24,3.0,8.45,
+93,1982.0,29 Jun 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany,0.0,0.0,England,D,Draw, ,879.0,FRG,ENG,34,9.0,8.45,
+94,1990.0,04 Jul 1990 - 20:00 ,Semi-finals,Stadio delle Alpi,Turin ,Germany,1.0,1.0,England,H,Draw, win on penalties (4 - 3) ,159.0,FRG,ENG,31,9.0,8.45,
+95,1982.0,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0.0,0.0,England,D,Draw, ,877.0,ESP,ENG,34,14.0,8.45,
+96,1958.0,08 Jun 1958 - 19:00 ,Group 4,Nya Ullevi,Gothenburg ,Russia,2.0,2.0,England,D,Draw, ,1372.0,URS,ENG,21,-3.0,8.45,
+97,2014.0,24 Jun 2014 - 13:00 ,Group D,Estadio Mineirao,Belo Horizonte ,Costa Rica,0.0,0.0,England,D,Draw, ,300186484.0,CRC,ENG,28,26.0,8.45,
+98,2002.0,12 Jun 2002 - 15:30 ,Group F,Osaka Nagai Stadium,Osaka ,Nigeria,0.0,0.0,England,D,Draw, ,43950038.0,NGA,ENG,27,27.0,8.45,
+99,1990.0,19 Jun 1990 - 17:00 ,Group D,Giuseppe Meazza,Milan ,Germany,1.0,1.0,Colombia,D,Draw, ,114.0,FRG,COL,29,9.0,25.0,
+100,1962.0,03 Jun 1962 - 15:00 ,Group 1,Carlos Dittborn,Arica ,Russia,4.0,4.0,Colombia,D,Draw, ,1478.0,URS,COL,17,-3.0,25.0,
+101,1990.0,18 Jun 1990 - 21:00 ,Group B,San Paolo,Naples ,Argentina,1.0,1.0,Romania,D,Draw, ,29.0,ARG,ROU,29,15.0,10.0,
+102,1938.0,05 Jun 1938 - 17:00 ,First round,Stade Municipal,Toulouse ,Cuba,3.0,3.0,Romania,D,Draw, ,1156.0,CUB,ROU,30,26.0,10.0,
+103,1990.0,25 Jun 1990 - 17:00 ,Round of 16,Luigi Ferraris,Genoa ,Republic of Ireland,0.0,0.0,Romania,H,Draw,Republic of Ireland win on penalties (5 - 4) ,248.0,IRL,ROU,30,9.3,10.0,
+104,1978.0,07 Jun 1978 - 16:45 ,Group 4,Estadio Ol�mpico Chateau Carreras,Cordoba ,Scotland,1.0,1.0,Iran,D,Draw, ,2408.0,SCO,IRN,16,8.45,19.0,
+105,1954.0,19 Jun 1954 - 17:00 ,Group 1,La Pontaise,Lausanne ,Brazil,1.0,1.0,Yugoslavia,D,Draw, ,1252.0,BRA,YUG,22,25.0,8.9,
+106,1974.0,13 Jun 1974 - 17:00 ,Group 2,Waldstadion,Frankfurt/Main ,Brazil,0.0,0.0,Yugoslavia,D,Draw, ,1986.0,BRA,YUG,23,25.0,8.9,
+107,1958.0,15 Jun 1958 - 19:00 ,Group 2,Tunavallen,Eskilstuna ,Paraguay,3.0,3.0,Yugoslavia,D,Draw, ,1426.0,PAR,YUG,22,23.0,8.9,
+108,1998.0,21 Jun 1998 - 14:30 ,Group F,Stade Felix Bollaert,Lens ,Germany,2.0,2.0,Yugoslavia,D,Draw, ,8753.0,GER,YUG,22,9.0,8.9,
+109,1974.0,22 Jun 1974 - 16:00 ,Group 2,Waldstadion,Frankfurt/Main ,Scotland,1.0,1.0,Yugoslavia,D,Draw, ,2175.0,SCO,YUG,23,8.45,8.9,
+110,2014.0,22 Jun 2014 - 18:00 ,Group G,Arena Amazonia,Manaus ,USA,2.0,2.0,Portugal,D,Draw, ,300186483.0,USA,POR,31,8.55,15.0,
+111,2006.0,01 Jul 2006 - 17:00 ,Quarter-finals,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,England,0.0,0.0,Portugal,A,Draw,Portugal win on penalties (1 - 3) ,97410059.0,ENG,POR,22,8.45,15.0,
+112,2010.0,15 Jun 2010 - 16:00 ,Group G,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Ivory Coast,0.0,0.0,Portugal,D,Draw, ,300061489.0,CIV,POR,13,26.35,15.0,
+113,2010.0,18 Jun 2010 - 20:30 ,Group C,Cape Town Stadium,Cape Town ,England,0.0,0.0,Algeria,D,Draw, ,300061464.0,ENG,ALG,19,8.45,24.0,
+114,2010.0,02 Jul 2010 - 20:30 ,Quarter-finals,Soccer City Stadium,Johannesburg ,Uruguay,1.0,1.0,Ghana,H,Draw,Uruguay win on penalties (4 - 2) ,300061508.0,URU,GHA,22,17.0,27.0,
+115,2014.0,21 Jun 2014 - 16:00 ,Group G,Estadio Castelao,Fortaleza ,Germany,2.0,2.0,Ghana,D,Draw, ,300186493.0,GER,GHA,28,9.0,27.0,
+116,1978.0,18 Jun 1978 - 19:15 ,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,0.0,0.0,Brazil,D,Draw, ,2196.0,ARG,BRA,18,15.0,25.0,
+117,1978.0,03 Jun 1978 - 13:45 ,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata ,Sweden,1.0,1.0,Brazil,D,Draw, ,2253.0,SWE,BRA,12,3.0,25.0,
+118,2010.0,25 Jun 2010 - 16:00 ,Group G,Durban Stadium,Durban ,Portugal,0.0,0.0,Brazil,D,Draw, ,300111111.0,POR,BRA,22,15.0,25.0,
+119,1974.0,18 Jun 1974 - 19:30 ,Group 2,Waldstadion,Frankfurt/Main ,Scotland,0.0,0.0,Brazil,D,Draw, ,1985.0,SCO,BRA,23,8.45,25.0,
+120,1994.0,23 Jun 1994 - 19:30 ,Group C,Foxboro Stadium,Boston ,Korea Republic,0.0,0.0,Bolivia,D,Draw, ,3065.0,KOR,BOL,32,11.5,21.0,
+121,2010.0,11 Jun 2010 - 20:30 ,Group A,Cape Town Stadium,Cape Town ,Uruguay,0.0,0.0,France,D,Draw, ,300061453.0,URU,FRA,19,17.0,13.0,
+122,1986.0,21 Jun 1986 - 12:00 ,Quarter-finals,Jalisco,Guadalajara ,Brazil,1.0,1.0,France,A,Draw,France win on penalties (3 - 4) ,440.0,BRA,FRA,28,25.0,13.0,
+123,1982.0,08 Jul 1982 - 21:00 ,Semi-finals,Ramon Sanchez Pizjuan,Seville ,Germany,3.0,3.0,France,H,Draw, win on penalties (5 - 4) ,914.0,FRG,FRA,29,9.0,13.0,
+124,1998.0,03 Jul 1998 - 16:30 ,Quarter-finals,Stade de France,Saint-Denis ,Italy,0.0,0.0,France,A,Draw,France win on penalties (3 - 4) ,8781.0,ITA,FRA,22,13.0,13.0,
+125,2006.0,09 Jul 2006 - 20:00 ,Final,Olympiastadion,Berlin ,Italy,1.0,1.0,France,H,Draw,Italy win on penalties (5 - 3) ,97410064.0,ITA,FRA,26,13.0,13.0,
+126,2014.0,25 Jun 2014 - 17:00 ,Group E,Estadio do Maracana,Rio De Janeiro ,Ecuador,0.0,0.0,France,D,Draw, ,300186515.0,ECU,FRA,30,22.0,13.0,
+127,1990.0,30 Jun 1990 - 17:00 ,Quarter-finals,Comunale,Florence ,Yugoslavia,0.0,0.0,Argentina,A,Draw, win on penalties (2 - 3) ,31.0,YUG,ARG,33,8.9,15.0,
+128,1962.0,06 Jun 1962 - 15:00 ,Group 4,Estadio El Teniente-Codelco,Rancagua ,Hungary,0.0,0.0,Argentina,D,Draw, ,1451.0,HUN,ARG,15,11.0,15.0,
+129,2002.0,12 Jun 2002 - 15:30 ,Group F,Miyagi Stadium,Rifu ,Sweden,1.0,1.0,Argentina,D,Draw, ,43950037.0,SWE,ARG,26,3.0,15.0,
+130,1966.0,16 Jul 1966 - 15:00 ,Group 2,Villa Park,Birmingham ,Germany,0.0,0.0,Argentina,D,Draw, ,1579.0,FRG,ARG,21,9.0,15.0,
+131,2006.0,30 Jun 2006 - 17:00 ,Quarter-finals,Olympiastadion,Berlin ,Germany,1.0,1.0,Argentina,H,Draw,Germany win on penalties (4 - 2) ,97410057.0,GER,ARG,26,9.0,15.0,
+132,1986.0,05 Jun 1986 - 12:00 ,Group A,Cuauhtemoc,Puebla ,Italy,1.0,1.0,Argentina,D,Draw, ,394.0,ITA,ARG,24,13.0,15.0,
+133,1990.0,03 Jul 1990 - 20:00 ,Semi-finals,San Paolo,Naples ,Italy,1.0,1.0,Argentina,A,Draw, win on penalties (3 - 4) ,28.0,ITA,ARG,29,13.0,15.0,
+134,2006.0,21 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Netherlands,0.0,0.0,Argentina,D,Draw, ,97410037.0,NED,ARG,23,10.0,15.0,
+135,2014.0,09 Jul 2014 - 17:00 ,Semi-finals,Arena de Sao Paulo,Sao Paulo ,Netherlands,0.0,0.0,Argentina,A,Draw,Argentina win on penalties (2 - 4) ,300186490.0,NED,ARG,26,10.0,15.0,
+136,1982.0,18 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Peru,D,Draw, ,994.0,ITA,PER,21,13.0,20.0,
+137,1978.0,07 Jun 1978 - 16:45 ,Group 4,San Martin,Mendoza ,Netherlands,0.0,0.0,Peru,D,Draw, ,2394.0,NED,PER,13,10.0,20.0,
+138,1994.0,10 Jul 1994 - 12:30 ,Quarter-finals,Stanford Stadium,San Francisco ,Romania,2.0,2.0,Sweden,A,Draw,Sweden win on penalties (4 - 5) ,3095.0,ROU,SWE,23,10.0,3.0,
+139,1994.0,28 Jun 1994 - 16:00 ,Group B,Pontiac Silverdome,Detroit ,Brazil,1.0,1.0,Sweden,D,Draw, ,3080.0,BRA,SWE,30,25.0,3.0,
+140,2002.0,02 Jun 2002 - 18:30 ,Group F,Saitama Stadium 2002,Saitama ,England,1.0,1.0,Sweden,D,Draw, ,43950005.0,ENG,SWE,29,8.45,3.0,
+141,1974.0,19 Jun 1974 - 19:30 ,Group 3,Westfalenstadion,Dortmund ,Netherlands,0.0,0.0,Sweden,D,Draw, ,2097.0,NED,SWE,22,10.0,3.0,
+142,1994.0,19 Jun 1994 - 19:30 ,Group B,Rose Bowl,Los Angeles ,Cameroon,2.0,2.0,Sweden,D,Draw, ,3056.0,CMR,SWE,33,25.0,3.0,
+143,2006.0,10 Jun 2006 - 18:00 ,Group B,"FIFA World Cup Stadium, Dortmund",Dortmund ,Trinidad and Tobago,0.0,0.0,Sweden,D,Draw, ,97410004.0,TRI,SWE,22,25.75,3.0,
+144,1998.0,26 Jun 1998 - 21:00 ,Group G,Stade de France,Saint-Denis ,Romania,1.0,1.0,Tunisia,D,Draw, ,8769.0,ROU,TUN,22,10.0,21.0,
+145,1978.0,10 Jun 1978 - 16:45 ,Group 2,Estadio Ol�mpico Chateau Carreras,Cordoba ,Germany,0.0,0.0,Tunisia,D,Draw, ,2352.0,FRG,TUN,16,9.0,21.0,
+146,2014.0,28 Jun 2014 - 13:00 ,Round of 16,Estadio Mineirao,Belo Horizonte ,Brazil,1.0,1.0,Chile,H,Draw,Brazil win on penalties (3 - 2) ,300186487.0,BRA,CHI,28,25.0,9.0,
+147,1998.0,11 Jun 1998 - 17:30 ,Group B,Stade du Parc Lescure,Bordeaux ,Italy,2.0,2.0,Chile,D,Draw, ,8726.0,ITA,CHI,32,13.0,9.0,
+148,1966.0,15 Jul 1966 - 19:30 ,Group 4,Ayresome Park,Middlesbrough ,Korea Republic,1.0,1.0,Chile,D,Draw, ,1609.0,PRK,CHI,17,11.5,9.0,
+149,1974.0,22 Jun 1974 - 16:00 ,Group 1,Olympiastadion,Berlin West ,Australia,0.0,0.0,Chile,D,Draw, ,1953.0,AUS,CHI,26,22.0,9.0,
+150,2006.0,17 Jun 2006 - 21:00 ,Group E,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1.0,1.0,USA,D,Draw, ,97410025.0,ITA,USA,21,13.0,8.55,
+151,2010.0,12 Jun 2010 - 20:30 ,Group C,Royal Bafokeng Sports Palace,Phokeng ,England,1.0,1.0,USA,D,Draw, ,300061466.0,ENG,USA,23,8.45,8.55,
+152,2002.0,10 Jun 2002 - 15:30 ,Group D,Daegu World Cup Stadium,Daegu ,Korea Republic,1.0,1.0,USA,D,Draw, ,43950030.0,KOR,USA,28,11.5,8.55,
+153,2010.0,18 Jun 2010 - 16:00 ,Group C,Ellis Park Stadium,Johannesburg ,Slovenia,2.0,2.0,USA,D,Draw, ,300061463.0,SVN,USA,22,10.0,8.55,
+154,1998.0,12 Jun 1998 - 14:30 ,Group D,La Mosson,Montpellier ,Paraguay,0.0,0.0,Bulgaria,D,Draw, ,8728.0,PAR,BUL,32,23.0,11.0,
+155,1974.0,15 Jun 1974 - 16:00 ,Group 3,Rheinstadion,D�Sseldorf ,Sweden,0.0,0.0,Bulgaria,D,Draw, ,1995.0,SWE,BUL,29,3.0,11.0,
+156,1962.0,07 Jun 1962 - 15:00 ,Group 4,Estadio El Teniente-Codelco,Rancagua ,England,0.0,0.0,Bulgaria,D,Draw, ,1464.0,ENG,BUL,15,8.45,11.0,
+157,1994.0,05 Jul 1994 - 16:30 ,Round of 16,Giants Stadium,New York/New Jersey ,Mexico,1.0,1.0,Bulgaria,A,Draw,Bulgaria win on penalties (1 - 3) ,3092.0,MEX,BUL,34,21.0,11.0,
+158,1986.0,05 Jun 1986 - 16:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Korea Republic,1.0,1.0,Bulgaria,D,Draw, ,460.0,KOR,BUL,25,11.5,11.0,
+159,1950.0,09 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Uruguay,2.0,2.0,Spain,D,Draw, ,1207.0,URU,ESP,26,17.0,14.0,
+160,1990.0,13 Jun 1990 - 17:00 ,Group E,Dacia Arena,Udine ,Uruguay,0.0,0.0,Spain,D,Draw, ,180.0,URU,ESP,24,17.0,14.0,
+161,1978.0,07 Jun 1978 - 13:45 ,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata ,Brazil,0.0,0.0,Spain,D,Draw, ,2246.0,BRA,ESP,12,25.0,14.0,
+162,1994.0,21 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Germany,1.0,1.0,Spain,D,Draw, ,3060.0,GER,ESP,30,9.0,14.0,
+163,1934.0,31 May 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,1.0,Spain,D,Draw, ,1122.0,ITA,ESP,33,13.0,14.0,
+164,1974.0,19 Jun 1974 - 19:30 ,Group 4,Neckarstadion,Stuttgart ,Argentina,1.0,1.0,Italy,D,Draw, ,1949.0,ARG,ITA,22,15.0,13.0,
+165,1970.0,06 Jun 1970 - 16:00 ,Group 2,Cuauhtemoc,Puebla ,Uruguay,0.0,0.0,Italy,D,Draw, ,1884.0,URU,ITA,24,17.0,13.0,
+166,1994.0,17 Jul 1994 - 12:30 ,Final,Rose Bowl,Los Angeles ,Brazil,0.0,0.0,Italy,H,Draw,Brazil win on penalties (3 - 2) ,3104.0,BRA,ITA,33,25.0,13.0,
+167,1962.0,31 May 1962 - 15:00 ,Group 2,Nacional,Santiago De Chile ,Germany,0.0,0.0,Italy,D,Draw, ,1507.0,FRG,ITA,32,9.0,13.0,
+168,1978.0,14 Jun 1978 - 13:45 ,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Germany,0.0,0.0,Italy,D,Draw, ,2349.0,FRG,ITA,19,9.0,13.0,
+169,2002.0,13 Jun 2002 - 20:30 ,Group G,Oita Stadium Big Eye,Oita ,Mexico,1.0,1.0,Italy,D,Draw, ,43950043.0,MEX,ITA,21,21.0,13.0,
+170,1986.0,31 May 1986 - 12:00 ,Group A,Estadio Azteca,Mexico City ,Bulgaria,1.0,1.0,Italy,D,Draw, ,459.0,BUL,ITA,25,11.0,13.0,
+171,1978.0,01 Jun 1978 - 15:00 ,Group 2,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Germany,0.0,0.0,Poland,D,Draw, ,2351.0,FRG,POL,19,9.0,8.0,
+172,1982.0,14 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,0.0,0.0,Poland,D,Draw, ,995.0,ITA,POL,21,13.0,8.0,
+173,1986.0,02 Jun 1986 - 16:00 ,Group F,Estadio Universitario,Monterrey ,Morocco,0.0,0.0,Poland,D,Draw, ,674.0,MAR,POL,36,18.0,8.0,
+174,1998.0,07 Jul 1998 - 21:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Brazil,1.0,1.0,Netherlands,H,Draw,Brazil win on penalties (4 - 2) ,8785.0,BRA,NED,25,25.0,10.0,
+175,1978.0,18 Jun 1978 - 16:45 ,Group A,Estadio Ol�mpico Chateau Carreras,Cordoba ,Germany,2.0,2.0,Netherlands,D,Draw, ,2348.0,FRG,NED,16,9.0,10.0,
+176,1990.0,16 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,0.0,0.0,Netherlands,D,Draw, ,160.0,ENG,NED,35,8.45,10.0,
+177,1990.0,21 Jun 1990 - 21:00 ,Group F,Della Favorita,Palermo ,Republic of Ireland,1.0,1.0,Netherlands,D,Draw, ,228.0,IRL,NED,32,9.3,10.0,
+178,1998.0,23 Jun 1998 - 16:00 ,Group B,La Beaujoire,Nantes ,Chile,1.0,1.0,Cameroon,D,Draw, ,8760.0,CHI,CMR,28,9.0,25.0,
+179,1982.0,23 Jun 1982 - 17:15 ,Group 1,Estadio Municipal de Bala�dos,Vigo ,Italy,1.0,1.0,Cameroon,D,Draw, ,828.0,ITA,CMR,21,13.0,25.0,
+180,1982.0,15 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Peru,0.0,0.0,Cameroon,D,Draw, ,833.0,PER,CMR,23,20.0,25.0,
+181,1982.0,19 Jun 1982 - 19:15 ,Group 1,Riazor,La Coru�A ,Poland,0.0,0.0,Cameroon,D,Draw, ,834.0,POL,CMR,23,8.0,25.0,
+182,2002.0,01 Jun 2002 - 15:30 ,Group E,Niigata Stadium Big Swan,Niigata ,Republic of Ireland,1.0,1.0,Cameroon,D,Draw, ,43950002.0,IRL,CMR,24,9.3,25.0,
+183,2014.0,29 Jun 2014 - 17:00 ,Round of 16,Arena Pernambuco,Recife ,Costa Rica,1.0,1.0,Greece,H,Draw,Costa Rica win on penalties (5 - 3) ,300186459.0,CRC,GRE,28,26.0,15.0,
+184,2014.0,19 Jun 2014 - 19:00 ,Group C,Estadio das Dunas,Natal ,Japan,0.0,0.0,Greece,D,Draw, ,300186454.0,JPN,GRE,29,12.0,15.0,
+185,2010.0,29 Jun 2010 - 16:00 ,Round of 16,Loftus Versfeld Stadium,Tshwane/Pretoria ,Paraguay,0.0,0.0,Japan,H,Draw,Paraguay win on penalties (5 - 3) ,300061497.0,PAR,JPN,26,23.0,12.0,
+186,1998.0,17 Jun 1998 - 17:30 ,Group B,Stade Geoffroy Guichard,Saint-Etienne ,Chile,1.0,1.0,Austria,D,Draw, ,8743.0,CHI,AUT,24,9.0,7.0,
+187,1958.0,15 Jun 1958 - 19:00 ,Group 4,Ryavallen,Boras ,England,2.0,2.0,Austria,D,Draw, ,1327.0,ENG,AUT,24,8.45,7.0,
+188,1998.0,11 Jun 1998 - 21:00 ,Group B,Stade Municipal,Toulouse ,Cameroon,1.0,1.0,Austria,D,Draw, ,8727.0,CMR,AUT,30,25.0,7.0,
+189,2006.0,22 Jun 2006 - 21:00 ,Group F,Gottlieb-Daimler-Stadion,Stuttgart ,Croatia,2.0,2.0,Australia,D,Draw, ,97410044.0,CRO,AUS,22,12.0,22.0,
+190,2010.0,19 Jun 2010 - 16:00 ,Group D,Royal Bafokeng Sports Palace,Phokeng ,Ghana,1.0,1.0,Australia,D,Draw, ,300061469.0,GHA,AUS,23,27.0,22.0,
+191,1970.0,07 Jun 1970 - 12:00 ,Group 2,Luis Dosal,Toluca ,Sweden,1.0,1.0,Israel,D,Draw, ,1880.0,SWE,ISR,19,3.0,20.0,
+192,1970.0,11 Jun 1970 - 16:00 ,Group 2,Luis Dosal,Toluca ,Italy,0.0,0.0,Israel,D,Draw, ,1877.0,ITA,ISR,19,13.0,20.0,
+193,2014.0,05 Jul 2014 - 17:00 ,Quarter-finals,Arena Fonte Nova,Salvador ,Netherlands,0.0,0.0,Costa Rica,H,Draw,Netherlands win on penalties (4 - 3) ,300186488.0,NED,CRC,25,10.0,26.0,
+194,1958.0,08 Jun 1958 - 19:00 ,Group 3,Jarnvallen,Sandviken ,Hungary,1.0,1.0,Wales,D,Draw, ,1407.0,HUN,WAL,24,11.0,8.45,
+195,1958.0,15 Jun 1958 - 14:00 ,Group 3,Rasunda Stadium,Solna ,Sweden,0.0,0.0,Wales,D,Draw, ,1438.0,SWE,WAL,21,3.0,8.45,
+196,1958.0,11 Jun 1958 - 19:00 ,Group 3,Rasunda Stadium,Solna ,Mexico,1.0,1.0,Wales,D,Draw, ,1418.0,MEX,WAL,21,21.0,8.45,
+197,2010.0,24 Jun 2010 - 16:00 ,Group F,Peter Mokaba Stadium,Polokwane ,Paraguay,0.0,0.0,New Zealand,D,Draw, ,300061479.0,PAR,NZL,21,23.0,10.0,
+198,2010.0,20 Jun 2010 - 16:00 ,Group F,Mbombela Stadium,Nelspruit ,Italy,1.0,1.0,New Zealand,D,Draw, ,300061482.0,ITA,NZL,23,13.0,10.0,
+199,1986.0,06 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,England,0.0,0.0,Morocco,D,Draw, ,533.0,ENG,MAR,36,8.45,18.0,
+200,1970.0,11 Jun 1970 - 16:00 ,Group 4,Nou Camp - Estadio Le�n,Leon ,Bulgaria,1.0,1.0,Morocco,D,Draw, ,1779.0,BUL,MAR,28,11.0,18.0,
+201,1998.0,16 Jun 1998 - 17:30 ,Group A,Stade du Parc Lescure,Bordeaux ,Scotland,1.0,1.0,Norway,D,Draw, ,8741.0,SCO,NOR,32,8.45,1.0,
+202,1998.0,10 Jun 1998 - 21:00 ,Group A,La Mosson,Montpellier ,Morocco,2.0,2.0,Norway,D,Draw, ,8725.0,MAR,NOR,32,18.0,1.0,
+203,1994.0,28 Jun 1994 - 12:30 ,Group E,Giants Stadium,New York/New Jersey ,Republic of Ireland,0.0,0.0,Norway,D,Draw, ,3077.0,IRL,NOR,34,9.3,1.0,
+204,2002.0,09 Jun 2002 - 18:00 ,Group C,Incheon Football Stadium,Incheon ,Costa Rica,1.0,1.0,Turkey,D,Draw, ,43950028.0,CRC,TUR,27,26.0,12.0,
+205,1990.0,12 Jun 1990 - 21:00 ,Group F,Della Favorita,Palermo ,Netherlands,1.0,1.0,Egypt,D,Draw, ,151.0,NED,EGY,32,10.0,23.0,
+206,1990.0,17 Jun 1990 - 17:00 ,Group F,Della Favorita,Palermo ,Republic of Ireland,0.0,0.0,Egypt,D,Draw, ,152.0,IRL,EGY,32,9.3,23.0,
+207,2006.0,26 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Cologne",Cologne ,Switzerland,0.0,0.0,Ukraine,A,Draw,Ukraine win on penalties (0 - 3) ,97410054.0,SUI,UKR,24,8.0,9.0,
+208,2002.0,05 Jun 2002 - 20:30 ,Group E,Kashima Stadium,Ibaraki ,Germany,1.0,1.0,Republic of Ireland,D,Draw, ,43950017.0,GER,IRL,26,9.0,9.3,
+209,2002.0,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1.0,1.0,Republic of Ireland,H,Draw,Spain win on penalties (3 - 2) ,43950052.0,ESP,IRL,22,14.0,9.3,
+210,1990.0,11 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,1.0,1.0,Republic of Ireland,D,Draw, ,161.0,ENG,IRL,35,8.45,9.3,
+211,2006.0,16 Jun 2006 - 21:00 ,Group D,"FIFA World Cup Stadium, Hanover",Hanover ,Mexico,0.0,0.0,Angola,D,Draw, ,97410023.0,MEX,ANG,21,21.0,22.0,
+212,2006.0,21 Jun 2006 - 16:00 ,Group D,Zentralstadion,Leipzig ,Iran,1.0,1.0,Angola,D,Draw, ,97410040.0,IRN,ANG,22,19.0,22.0,
+213,2010.0,15 Jun 2010 - 13:30 ,Group F,Royal Bafokeng Sports Palace,Phokeng ,New Zealand,1.0,1.0,Slovakia,D,Draw, ,300061483.0,NZL,SVK,23,10.0,8.0,
+214,2010.0,17 Jun 2010 - 20:30 ,Group A,Peter Mokaba Stadium,Polokwane ,France,0.0,2.0,Mexico,A,Mexico, ,300061451.0,FRA,MEX,21,13.0,21.0,21.0
+215,1998.0,13 Jun 1998 - 17:30 ,Group E,Stade de Gerland,Lyon ,Korea Republic,1.0,3.0,Mexico,A,Mexico, ,8732.0,KOR,MEX,26,11.5,21.0,21.0
+216,1986.0,03 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Belgium,1.0,2.0,Mexico,A,Mexico, ,428.0,BEL,MEX,25,10.0,21.0,21.0
+217,1986.0,11 Jun 1986 - 12:00 ,Group B,Estadio Azteca,Mexico City ,Iraq,0.0,1.0,Mexico,A,Mexico, ,627.0,IRQ,MEX,25,23.0,21.0,21.0
+218,2002.0,03 Jun 2002 - 15:30 ,Group G,Niigata Stadium Big Swan,Niigata ,Croatia,0.0,1.0,Mexico,A,Mexico, ,43950009.0,CRO,MEX,24,12.0,21.0,21.0
+219,2014.0,23 Jun 2014 - 17:00 ,Group A,Arena Pernambuco,Recife ,Croatia,1.0,3.0,Mexico,A,Mexico, ,300186452.0,CRO,MEX,28,12.0,21.0,21.0
+220,1970.0,11 Jun 1970 - 16:00 ,Group 1,Estadio Azteca,Mexico City ,Mexico,1.0,0.0,Belgium,H,Mexico, ,1752.0,MEX,BEL,25,21.0,10.0,21.0
+221,1962.0,07 Jun 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Mexico,3.0,1.0,Czech Republic,H,Mexico, ,1544.0,MEX,TCH,17,21.0,8.0,21.0
+222,2006.0,11 Jun 2006 - 18:00 ,Group D,Franken-Stadion,Nuremberg ,Mexico,3.0,1.0,Iran,H,Mexico, ,97410007.0,MEX,IRN,20,21.0,19.0,21.0
+223,1986.0,15 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,Mexico,2.0,0.0,Bulgaria,H,Mexico, ,463.0,MEX,BUL,25,21.0,11.0,21.0
+224,1970.0,07 Jun 1970 - 12:00 ,Group 1,Estadio Azteca,Mexico City ,Mexico,4.0,0.0,El Salvador,H,Mexico, ,1820.0,MEX,SLV,25,21.0,25.0,21.0
+225,2014.0,13 Jun 2014 - 13:00 ,Group A,Estadio das Dunas,Natal ,Mexico,1.0,0.0,Cameroon,H,Mexico, ,300186492.0,MEX,CMR,29,21.0,25.0,21.0
+226,2002.0,09 Jun 2002 - 15:30 ,Group G,Miyagi Stadium,Rifu ,Mexico,2.0,1.0,Ecuador,H,Mexico, ,43950027.0,MEX,ECU,26,21.0,22.0,21.0
+227,1994.0,24 Jun 1994 - 12:30 ,Group E,Citrus Bowl,Orlando ,Mexico,2.0,1.0,Republic of Ireland,H,Mexico, ,3066.0,MEX,IRL,35,21.0,9.3,21.0
+228,1950.0,28 Jun 1950 - 15:00 ,Group 1,Eucaliptos,Porto Alegre ,Yugoslavia,4.0,1.0,Mexico,H,Yugoslavia, ,1225.0,YUG,MEX,21,8.9,21.0,8.9
+229,1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Nacional,Santiago De Chile ,Yugoslavia,1.0,0.0,Germany,H,Yugoslavia, ,1511.0,YUG,FRG,32,8.9,9.0,8.9
+230,1962.0,02 Jun 1962 - 15:00 ,Group 1,Carlos Dittborn,Arica ,Yugoslavia,3.0,1.0,Uruguay,H,Yugoslavia, ,1564.0,YUG,URU,17,8.9,17.0,8.9
+231,1950.0,25 Jun 1950 - 15:00 ,Group 1,Independencia,Belo Horizonte ,Yugoslavia,3.0,0.0,Switzerland,H,Yugoslavia, ,1230.0,YUG,SUI,28,8.9,8.0,8.9
+232,1962.0,07 Jun 1962 - 15:00 ,Group 1,Carlos Dittborn,Arica ,Yugoslavia,5.0,0.0,Colombia,H,Yugoslavia, ,1480.0,YUG,COL,17,8.9,25.0,8.9
+233,1990.0,14 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,Yugoslavia,1.0,0.0,Colombia,H,Yugoslavia, ,120.0,YUG,COL,26,8.9,25.0,8.9
+234,1998.0,14 Jun 1998 - 17:30 ,Group F,Stade Geoffroy Guichard,Saint-Etienne ,Yugoslavia,1.0,0.0,Iran,H,Yugoslavia, ,8735.0,YUG,IRN,24,8.9,19.0,8.9
+235,1998.0,25 Jun 1998 - 21:00 ,Group F,La Beaujoire,Nantes ,USA,0.0,1.0,Yugoslavia,A,Yugoslavia, ,8768.0,USA,YUG,28,8.55,8.9,8.9
+236,1990.0,26 Jun 1990 - 17:00 ,Round of 16,Marc Antonio Bentegodi,Verona ,Spain,1.0,2.0,Yugoslavia,A,Yugoslavia,Yugoslavia win after extra time ,181.0,ESP,YUG,25,14.0,8.9,8.9
+237,1982.0,24 Jun 1982 - 21:00 ,Group 5,La Romareda,Zaragoza ,Honduras,0.0,1.0,Yugoslavia,A,Yugoslavia, ,962.0,HON,YUG,35,25.0,8.9,8.9
+238,1930.0,14 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,2.0,1.0,Brazil,H,Yugoslavia, ,1093.0,YUG,BRA,11,8.9,25.0,8.9
+239,1930.0,17 Jul 1930 - 12:45 ,Group 2,Parque Central,Montevideo ,Yugoslavia,4.0,0.0,Bolivia,H,Yugoslavia, ,1092.0,YUG,BOL,11,8.9,21.0,8.9
+240,1954.0,16 Jun 1954 - 18:00 ,Group 1,La Pontaise,Lausanne ,Yugoslavia,1.0,0.0,France,H,Yugoslavia, ,1276.0,YUG,FRA,22,8.9,13.0,8.9
+241,1958.0,11 Jun 1958 - 19:00 ,Group 2,Arosvallen,Vasteras ,Yugoslavia,3.0,2.0,France,H,Yugoslavia, ,1388.0,YUG,FRA,22,8.9,13.0,8.9
+242,1974.0,18 Jun 1974 - 19:30 ,Group 2,Parkstadion,Gelsenkirchen ,Yugoslavia,9.0,0.0,Zaire,H,Yugoslavia, ,2186.0,YUG,ZAI,22,8.9,21.4,8.9
+243,1990.0,19 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,Yugoslavia,4.0,1.0,United Arab Emirates,H,Yugoslavia, ,364.0,YUG,UAE,26,8.9,29.0,8.9
+244,1930.0,19 Jul 1930 - 15:00 ,Group 1,Estadio Centenario,Montevideo ,Argentina,6.0,3.0,Mexico,H,Argentina, ,1086.0,ARG,MEX,11,15.0,21.0,15.0
+245,2006.0,24 Jun 2006 - 21:00 ,Round of 16,Zentralstadion,Leipzig ,Argentina,2.0,1.0,Mexico,H,Argentina,Argentina win after extra time ,97410050.0,ARG,MEX,22,15.0,21.0,15.0
+246,2010.0,27 Jun 2010 - 20:30 ,Round of 16,Soccer City Stadium,Johannesburg ,Argentina,3.0,1.0,Mexico,H,Argentina, ,300061502.0,ARG,MEX,22,15.0,21.0,15.0
+247,1986.0,25 Jun 1986 - 16:00 ,Semi-finals,Estadio Azteca,Mexico City ,Argentina,2.0,0.0,Belgium,H,Argentina, ,388.0,ARG,BEL,25,15.0,10.0,15.0
+248,2014.0,05 Jul 2014 - 13:00 ,Quarter-finals,Estadio Nacional,Brasilia ,Argentina,1.0,0.0,Belgium,H,Argentina, ,300186504.0,ARG,BEL,28,15.0,10.0,15.0
+249,1958.0,11 Jun 1958 - 19:00 ,Group 1,Orjans Vall,Halmstad ,Argentina,3.0,1.0,Northern Ireland,H,Argentina, ,1324.0,ARG,NIR,20,15.0,9.3,15.0
+250,1986.0,29 Jun 1986 - 12:00 ,Final,Estadio Azteca,Mexico City ,Argentina,3.0,2.0,Germany,H,Argentina, ,393.0,ARG,FRG,25,15.0,9.0,15.0
+251,1978.0,02 Jun 1978 - 19:15 ,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,2.0,1.0,Hungary,H,Argentina, ,2199.0,ARG,HUN,19,15.0,11.0,15.0
+252,1982.0,18 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,4.0,1.0,Hungary,H,Argentina, ,752.0,ARG,HUN,29,15.0,11.0,15.0
+253,1990.0,13 Jun 1990 - 21:00 ,Group B,San Paolo,Naples ,Argentina,2.0,0.0,Russia,H,Argentina, ,30.0,ARG,URS,29,15.0,-3.0,15.0
+254,1998.0,26 Jun 1998 - 16:00 ,Group H,Stade du Parc Lescure,Bordeaux ,Argentina,1.0,0.0,Croatia,H,Argentina, ,8772.0,ARG,CRO,32,15.0,12.0,15.0
+255,1986.0,16 Jun 1986 - 16:00 ,Round of 16,Cuauhtemoc,Puebla ,Argentina,1.0,0.0,Uruguay,H,Argentina, ,398.0,ARG,URU,24,15.0,17.0,15.0
+256,1966.0,19 Jul 1966 - 19:30 ,Group 2,Hillsborough,Sheffield ,Argentina,2.0,0.0,Switzerland,H,Argentina, ,1582.0,ARG,SUI,19,15.0,8.0,15.0
+257,2014.0,01 Jul 2014 - 13:00 ,Round of 16,Arena de Sao Paulo,Sao Paulo ,Argentina,1.0,0.0,Switzerland,H,Argentina,Argentina win after extra time ,300186503.0,ARG,SUI,26,15.0,8.0,15.0
+258,1986.0,02 Jun 1986 - 12:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Argentina,3.0,1.0,Korea Republic,H,Argentina, ,395.0,ARG,KOR,25,15.0,11.5,15.0
+259,2010.0,17 Jun 2010 - 13:30 ,Group B,Soccer City Stadium,Johannesburg ,Argentina,4.0,1.0,Korea Republic,H,Argentina, ,300061458.0,ARG,KOR,22,15.0,11.5,15.0
+260,1994.0,25 Jun 1994 - 16:00 ,Group D,Foxboro Stadium,Boston ,Argentina,2.0,1.0,Nigeria,H,Argentina, ,3071.0,ARG,NGA,32,15.0,27.0,15.0
+261,2002.0,02 Jun 2002 - 14:30 ,Group F,Kashima Stadium,Ibaraki ,Argentina,1.0,0.0,Nigeria,H,Argentina, ,43950007.0,ARG,NGA,26,15.0,27.0,15.0
+262,2010.0,12 Jun 2010 - 16:00 ,Group B,Ellis Park Stadium,Johannesburg ,Argentina,1.0,0.0,Nigeria,H,Argentina, ,300061460.0,ARG,NGA,22,15.0,27.0,15.0
+263,1986.0,22 Jun 1986 - 12:00 ,Quarter-finals,Estadio Azteca,Mexico City ,Argentina,2.0,1.0,England,H,Argentina, ,392.0,ARG,ENG,25,15.0,8.45,15.0
+264,2014.0,21 Jun 2014 - 13:00 ,Group F,Estadio Mineirao,Belo Horizonte ,Argentina,1.0,0.0,Iran,H,Argentina, ,300186466.0,ARG,IRN,28,15.0,19.0,15.0
+265,1930.0,15 Jul 1930 - 16:00 ,Group 1,Parque Central,Montevideo ,Argentina,1.0,0.0,France,H,Argentina, ,1085.0,ARG,FRA,11,15.0,13.0,15.0
+266,1978.0,06 Jun 1978 - 19:15 ,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,2.0,1.0,France,H,Argentina, ,2197.0,ARG,FRA,19,15.0,13.0,15.0
+267,1990.0,24 Jun 1990 - 17:00 ,Round of 16,Stadio delle Alpi,Turin ,Brazil,0.0,1.0,Argentina,A,Argentina, ,25.0,BRA,ARG,31,25.0,15.0,15.0
+268,2014.0,25 Jun 2014 - 13:00 ,Group F,Estadio Beira-Rio,Porto Alegre ,Nigeria,2.0,3.0,Argentina,A,Argentina, ,300186458.0,NGA,ARG,21,27.0,15.0,15.0
+269,2010.0,22 Jun 2010 - 20:30 ,Group B,Peter Mokaba Stadium,Polokwane ,Greece,0.0,2.0,Argentina,A,Argentina, ,300061455.0,GRE,ARG,21,15.0,15.0,15.0
+270,1978.0,21 Jun 1978 - 19:15 ,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,6.0,0.0,Peru,H,Argentina, ,2201.0,ARG,PER,18,15.0,20.0,15.0
+271,1930.0,22 Jul 1930 - 14:45 ,Group 1,Estadio Centenario,Montevideo ,Argentina,3.0,1.0,Chile,H,Argentina, ,1084.0,ARG,CHI,11,15.0,9.0,15.0
+272,1930.0,26 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Argentina,6.0,1.0,USA,H,Argentina, ,1088.0,ARG,USA,11,15.0,8.55,15.0
+273,1962.0,30 May 1962 - 15:00 ,Group 4,Estadio El Teniente-Codelco,Rancagua ,Argentina,1.0,0.0,Bulgaria,H,Argentina, ,1447.0,ARG,BUL,15,15.0,11.0,15.0
+274,1986.0,10 Jun 1986 - 12:00 ,Group A,Estadio Ol�mpico Universitario,Mexico City ,Argentina,2.0,0.0,Bulgaria,H,Argentina, ,389.0,ARG,BUL,25,15.0,11.0,15.0
+275,1966.0,13 Jul 1966 - 19:30 ,Group 2,Villa Park,Birmingham ,Argentina,2.0,1.0,Spain,H,Argentina, ,1578.0,ARG,ESP,21,15.0,14.0,15.0
+276,1974.0,23 Jun 1974 - 16:00 ,Group 4,Olympiastadion,Munich ,Argentina,4.0,1.0,Haiti,H,Argentina, ,1947.0,ARG,HAI,20,15.0,27.0,15.0
+277,1978.0,14 Jun 1978 - 19:15 ,Group B,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Argentina,2.0,0.0,Poland,H,Argentina, ,2202.0,ARG,POL,18,15.0,8.0,15.0
+278,1978.0,25 Jun 1978 - 15:00 ,Final,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Argentina,3.0,1.0,Netherlands,H,Argentina,Argentina win after extra time ,2198.0,ARG,NED,19,15.0,10.0,15.0
+279,1982.0,23 Jun 1982 - 21:00 ,Group 3,Jose Rico Perez,Alicante ,Argentina,2.0,0.0,El Salvador,H,Argentina, ,751.0,ARG,SLV,29,15.0,25.0,15.0
+280,1994.0,21 Jun 1994 - 12:30 ,Group D,Foxboro Stadium,Boston ,Argentina,4.0,0.0,Greece,H,Argentina, ,3059.0,ARG,GRE,32,15.0,15.0,15.0
+281,1998.0,14 Jun 1998 - 14:30 ,Group H,Stade Municipal,Toulouse ,Argentina,1.0,0.0,Japan,H,Argentina, ,8734.0,ARG,JPN,30,15.0,12.0,15.0
+282,1998.0,21 Jun 1998 - 17:30 ,Group H,Parc des Princes,Paris ,Argentina,5.0,0.0,Jamaica,H,Argentina, ,8752.0,ARG,JAM,25,15.0,26.0,15.0
+283,2006.0,10 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Hamburg",Hamburg ,Argentina,2.0,1.0,Ivory Coast,H,Argentina, ,97410005.0,ARG,CIV,22,15.0,26.35,15.0
+284,2006.0,16 Jun 2006 - 15:00 ,Group C,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Argentina,6.0,0.0,Serbia,H,Argentina, ,97410021.0,ARG,SCG,22,15.0,11.0,15.0
+285,2014.0,15 Jun 2014 - 19:00 ,Group F,Estadio do Maracana,Rio De Janeiro ,Argentina,2.0,1.0,Bosnia and Herzegovina,H,Argentina, ,300186477.0,ARG,BIH,30,15.0,9.85,15.0
+286,1930.0,16 Jul 1930 - 14:45 ,Group 1,Parque Central,Montevideo ,Chile,3.0,0.0,Mexico,H,Chile, ,1095.0,CHI,MEX,11,9.0,21.0,9.0
+287,1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Carlos Dittborn,Arica ,Chile,2.0,1.0,Russia,H,Chile, ,1474.0,CHI,URS,17,9.0,-3.0,9.0
+288,1962.0,30 May 1962 - 15:00 ,Group 2,Nacional,Santiago De Chile ,Chile,3.0,1.0,Switzerland,H,Chile, ,1473.0,CHI,SUI,32,9.0,8.0,9.0
+289,2010.0,21 Jun 2010 - 16:00 ,Group H,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Chile,1.0,0.0,Switzerland,H,Chile, ,300061493.0,CHI,SUI,13,9.0,8.0,9.0
+290,1962.0,16 Jun 1962 - 14:30 ,Match for third place,Nacional,Santiago De Chile ,Chile,1.0,0.0,Yugoslavia,H,Chile, ,1475.0,CHI,YUG,32,9.0,8.9,9.0
+291,1930.0,19 Jul 1930 - 12:50 ,Group 1,Estadio Centenario,Montevideo ,Chile,1.0,0.0,France,H,Chile, ,1094.0,CHI,FRA,11,9.0,13.0,9.0
+292,2014.0,18 Jun 2014 - 16:00 ,Group B,Estadio do Maracana,Rio De Janeiro ,Spain,0.0,2.0,Chile,A,Chile, ,300186498.0,ESP,CHI,30,14.0,9.0,9.0
+293,2010.0,16 Jun 2010 - 13:30 ,Group H,Mbombela Stadium,Nelspruit ,Honduras,0.0,1.0,Chile,A,Chile, ,300061495.0,HON,CHI,23,25.0,9.0,9.0
+294,1950.0,02 Jul 1950 - 15:00 ,Group 2,Ilha do Retiro,Recife ,Chile,5.0,2.0,USA,H,Chile, ,1194.0,CHI,USA,28,9.0,8.55,9.0
+295,1962.0,02 Jun 1962 - 15:00 ,Group 2,Nacional,Santiago De Chile ,Chile,2.0,0.0,Italy,H,Chile, ,1472.0,CHI,ITA,32,9.0,13.0,9.0
+296,2014.0,13 Jun 2014 - 18:00 ,Group B,Arena Pantanal,Cuiaba ,Chile,3.0,1.0,Australia,H,Chile, ,300186473.0,CHI,AUS,36,9.0,22.0,9.0
+297,1950.0,24 Jun 1950 - 15:00 ,Group 1,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,4.0,0.0,Mexico,H,Brazil, ,1187.0,BRA,MEX,30,25.0,21.0,25.0
+298,1954.0,16 Jun 1954 - 18:00 ,Group 1,Charmilles,Geneva ,Brazil,5.0,0.0,Mexico,H,Brazil, ,1249.0,BRA,MEX,23,25.0,21.0,25.0
+299,1962.0,30 May 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Brazil,2.0,0.0,Mexico,H,Brazil, ,1461.0,BRA,MEX,17,25.0,21.0,25.0
+300,2002.0,17 Jun 2002 - 20:30 ,Round of 16,Kobe Wing Stadium,Kobe ,Brazil,2.0,0.0,Belgium,H,Brazil, ,43950054.0,BRA,BEL,25,25.0,10.0,25.0
+301,1982.0,18 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4.0,1.0,Scotland,H,Brazil, ,790.0,BRA,SCO,29,25.0,8.45,25.0
+302,1990.0,20 Jun 1990 - 21:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,1.0,0.0,Scotland,H,Brazil, ,74.0,BRA,SCO,31,25.0,8.45,25.0
+303,1998.0,10 Jun 1998 - 17:30 ,Group A,Stade de France,Saint-Denis ,Brazil,2.0,1.0,Scotland,H,Brazil, ,4000.0,BRA,SCO,22,25.0,8.45,25.0
+304,1974.0,26 Jun 1974 - 19:30 ,Group A,Niedersachsenstadion,Hanover ,Brazil,1.0,0.0,Germany,H,Brazil, ,1982.0,BRA,GDR,21,25.0,9.0,25.0
+305,1938.0,14 Jun 1938 - 18:00 ,Quarter-finals,Stade du Parc Lescure,Bordeaux ,Brazil,2.0,1.0,Czech Republic,H,Brazil, ,1153.0,BRA,TCH,32,25.0,8.0,25.0
+306,1962.0,17 Jun 1962 - 14:30 ,Final,Nacional,Santiago De Chile ,Brazil,3.0,1.0,Czech Republic,H,Brazil, ,1463.0,BRA,TCH,32,25.0,8.0,25.0
+307,1970.0,03 Jun 1970 - 16:00 ,Group 3,Jalisco,Guadalajara ,Brazil,4.0,1.0,Czech Republic,H,Brazil, ,1770.0,BRA,TCH,28,25.0,8.0,25.0
+308,1958.0,15 Jun 1958 - 19:00 ,Group 4,Nya Ullevi,Gothenburg ,Brazil,2.0,0.0,Russia,H,Brazil, ,1344.0,BRA,URS,21,25.0,-3.0,25.0
+309,1982.0,14 Jun 1982 - 21:00 ,Group 6,Ramon Sanchez Pizjuan,Seville ,Brazil,2.0,1.0,Russia,H,Brazil, ,791.0,BRA,URS,29,25.0,-3.0,25.0
+310,1994.0,20 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Brazil,2.0,0.0,Russia,H,Brazil, ,3057.0,BRA,RUS,23,25.0,-3.0,25.0
+311,1998.0,03 Jul 1998 - 21:00 ,Quarter-finals,La Beaujoire,Nantes ,Brazil,3.0,2.0,Denmark,H,Brazil, ,8782.0,BRA,DEN,28,25.0,-16.0,25.0
+312,2006.0,13 Jun 2006 - 21:00 ,Group F,Olympiastadion,Berlin ,Brazil,1.0,0.0,Croatia,H,Brazil, ,97410011.0,BRA,CRO,26,25.0,12.0,25.0
+313,2014.0,12 Jun 2014 - 17:00 ,Group A,Arena de Sao Paulo,Sao Paulo ,Brazil,3.0,1.0,Croatia,H,Brazil, ,300186456.0,BRA,CRO,26,25.0,12.0,25.0
+314,1970.0,17 Jun 1970 - 16:00 ,Semi-finals,Jalisco,Guadalajara ,Brazil,3.0,1.0,Uruguay,H,Brazil, ,1771.0,BRA,URU,28,25.0,17.0,25.0
+315,2010.0,15 Jun 2010 - 20:30 ,Group G,Ellis Park Stadium,Johannesburg ,Brazil,2.0,1.0,Korea Republic,H,Brazil, ,300061490.0,BRA,PRK,22,25.0,11.5,25.0
+316,1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Estadio Sausalito,Vina Del Mar ,Brazil,3.0,1.0,England,H,Brazil, ,1459.0,BRA,ENG,17,25.0,8.45,25.0
+317,1970.0,07 Jun 1970 - 12:00 ,Group 3,Jalisco,Guadalajara ,Brazil,1.0,0.0,England,H,Brazil, ,1764.0,BRA,ENG,28,25.0,8.45,25.0
+318,2014.0,04 Jul 2014 - 17:00 ,Quarter-finals,Estadio Castelao,Fortaleza ,Brazil,2.0,1.0,Colombia,H,Brazil, ,300186461.0,BRA,COL,28,25.0,25.0,25.0
+319,1970.0,10 Jun 1970 - 16:00 ,Group 3,Jalisco,Guadalajara ,Brazil,3.0,2.0,Romania,H,Brazil, ,1769.0,BRA,ROU,28,25.0,10.0,25.0
+320,1950.0,01 Jul 1950 - 15:00 ,Group 1,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,2.0,0.0,Yugoslavia,H,Brazil, ,1191.0,BRA,YUG,30,25.0,8.9,25.0
+321,1986.0,06 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Brazil,1.0,0.0,Algeria,H,Brazil, ,377.0,BRA,ALG,28,25.0,24.0,25.0
+322,2006.0,27 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Dortmund",Dortmund ,Brazil,3.0,0.0,Ghana,H,Brazil, ,97410055.0,BRA,GHA,22,25.0,27.0,25.0
+323,1974.0,30 Jun 1974 - 16:00 ,Group A,Niedersachsenstadion,Hanover ,Argentina,1.0,2.0,Brazil,A,Brazil, ,1945.0,ARG,BRA,21,15.0,25.0,25.0
+324,1982.0,02 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Argentina,1.0,3.0,Brazil,A,Brazil, ,750.0,ARG,BRA,30,15.0,25.0,25.0
+325,1994.0,13 Jul 1994 - 16:30 ,Semi-finals,Rose Bowl,Los Angeles ,Sweden,0.0,1.0,Brazil,A,Brazil, ,3099.0,SWE,BRA,33,3.0,25.0,25.0
+326,2002.0,30 Jun 2002 - 20:00 ,Final,International Stadium Yokohama,Yokohama ,Germany,0.0,2.0,Brazil,A,Brazil, ,43950064.0,GER,BRA,25,9.0,25.0,25.0
+327,1986.0,01 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Spain,0.0,1.0,Brazil,A,Brazil, ,439.0,ESP,BRA,28,14.0,25.0,25.0
+328,2002.0,21 Jun 2002 - 15:30 ,Quarter-finals,Shizuoka Stadium Ecopa,Shizuoka ,England,1.0,2.0,Brazil,A,Brazil, ,43950057.0,ENG,BRA,26,8.45,25.0,25.0
+329,1986.0,12 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Northern Ireland,0.0,3.0,Brazil,A,Brazil, ,441.0,NIR,BRA,28,9.3,25.0,25.0
+330,1974.0,22 Jun 1974 - 16:00 ,Group 2,Parkstadion,Gelsenkirchen ,Zaire,0.0,3.0,Brazil,A,Brazil, ,1987.0,ZAI,BRA,22,21.4,25.0,25.0
+331,1994.0,09 Jul 1994 - 14:30 ,Quarter-finals,Cotton Bowl,Dallas ,Netherlands,2.0,3.0,Brazil,A,Brazil, ,3098.0,NED,BRA,34,10.0,25.0,25.0
+332,2002.0,13 Jun 2002 - 15:30 ,Group C,Suwon World Cup Stadium,Suwon ,Costa Rica,2.0,5.0,Brazil,A,Brazil, ,43950041.0,CRC,BRA,22,26.0,25.0,25.0
+333,2014.0,23 Jun 2014 - 17:00 ,Group A,Estadio Nacional,Brasilia ,Cameroon,1.0,4.0,Brazil,A,Brazil, ,300186472.0,CMR,BRA,28,25.0,25.0,25.0
+334,2006.0,22 Jun 2006 - 21:00 ,Group F,"FIFA World Cup Stadium, Dortmund",Dortmund ,Japan,1.0,4.0,Brazil,A,Brazil, ,97410043.0,JPN,BRA,22,12.0,25.0,25.0
+335,1930.0,20 Jul 1930 - 13:00 ,Group 2,Estadio Centenario,Montevideo ,Brazil,4.0,0.0,Bolivia,H,Brazil, ,1091.0,BRA,BOL,11,25.0,21.0,25.0
+336,1958.0,24 Jun 1958 - 19:00 ,Semi-finals,Rasunda Stadium,Solna ,Brazil,5.0,2.0,France,H,Brazil, ,1340.0,BRA,FRA,21,25.0,13.0,25.0
+337,1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Jalisco,Guadalajara ,Brazil,4.0,2.0,Peru,H,Brazil, ,1768.0,BRA,PER,28,25.0,20.0,25.0
+338,1978.0,14 Jun 1978 - 16:45 ,Group B,San Martin,Mendoza ,Brazil,3.0,0.0,Peru,H,Brazil, ,2251.0,BRA,PER,13,25.0,20.0,25.0
+339,1938.0,19 Jun 1938 - 17:00 ,Match for third place,Stade du Parc Lescure,Bordeaux ,Brazil,4.0,2.0,Sweden,H,Brazil, ,1151.0,BRA,SWE,32,25.0,3.0,25.0
+340,1950.0,09 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,7.0,1.0,Sweden,H,Brazil, ,1189.0,BRA,SWE,30,25.0,3.0,25.0
+341,1958.0,29 Jun 1958 - 15:00 ,Final,Rasunda Stadium,Solna ,Brazil,5.0,2.0,Sweden,H,Brazil, ,1343.0,BRA,SWE,21,25.0,3.0,25.0
+342,1990.0,10 Jun 1990 - 21:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,2.0,1.0,Sweden,H,Brazil, ,75.0,BRA,SWE,31,25.0,3.0,25.0
+343,1962.0,13 Jun 1962 - 14:30 ,Semi-finals,Nacional,Santiago De Chile ,Brazil,4.0,2.0,Chile,H,Brazil, ,1458.0,BRA,CHI,32,25.0,9.0,25.0
+344,1998.0,27 Jun 1998 - 21:00 ,Round of 16,Parc des Princes,Paris ,Brazil,4.0,1.0,Chile,H,Brazil, ,8773.0,BRA,CHI,25,25.0,9.0,25.0
+345,2010.0,28 Jun 2010 - 20:30 ,Round of 16,Ellis Park Stadium,Johannesburg ,Brazil,3.0,0.0,Chile,H,Brazil, ,300061500.0,BRA,CHI,22,25.0,9.0,25.0
+346,1994.0,04 Jul 1994 - 12:30 ,Round of 16,Stanford Stadium,San Francisco ,Brazil,1.0,0.0,USA,H,Brazil, ,3090.0,BRA,USA,23,25.0,8.55,25.0
+347,1966.0,12 Jul 1966 - 19:30 ,Group 3,Goodison Park,Liverpool ,Brazil,2.0,0.0,Bulgaria,H,Brazil, ,1596.0,BRA,BUL,18,25.0,11.0,25.0
+348,1950.0,13 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,6.0,1.0,Spain,H,Brazil, ,1186.0,BRA,ESP,30,25.0,14.0,25.0
+349,1962.0,06 Jun 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Brazil,2.0,1.0,Spain,H,Brazil, ,1460.0,BRA,ESP,17,25.0,14.0,25.0
+350,1970.0,21 Jun 1970 - 12:00 ,Final,Estadio Azteca,Mexico City ,Brazil,4.0,1.0,Italy,H,Brazil, ,1765.0,BRA,ITA,25,25.0,13.0,25.0
+351,1978.0,24 Jun 1978 - 15:00 ,Match for third place,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Brazil,2.0,1.0,Italy,H,Brazil, ,2247.0,BRA,ITA,19,25.0,13.0,25.0
+352,1938.0,05 Jun 1938 - 17:30 ,First round,Stade de la Meinau,Strasbourg ,Brazil,6.0,5.0,Poland,H,Brazil,Brazil win after extra time ,1150.0,BRA,POL,23,25.0,8.0,25.0
+353,1978.0,21 Jun 1978 - 16:45 ,Group B,San Martin,Mendoza ,Brazil,3.0,1.0,Poland,H,Brazil, ,2252.0,BRA,POL,13,25.0,8.0,25.0
+354,1986.0,16 Jun 1986 - 12:00 ,Round of 16,Jalisco,Guadalajara ,Brazil,4.0,0.0,Poland,H,Brazil, ,444.0,BRA,POL,28,25.0,8.0,25.0
+355,1994.0,24 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Brazil,3.0,0.0,Cameroon,H,Brazil, ,3067.0,BRA,CMR,23,25.0,25.0,25.0
+356,2010.0,20 Jun 2010 - 20:30 ,Group G,Soccer City Stadium,Johannesburg ,Brazil,3.0,1.0,Ivory Coast,H,Brazil, ,300061488.0,BRA,CIV,22,25.0,26.35,25.0
+357,1958.0,08 Jun 1958 - 19:00 ,Group 4,Rimnersvallen,Udevalla ,Brazil,3.0,0.0,Austria,H,Brazil, ,1326.0,BRA,AUT,,25.0,7.0,25.0
+358,1978.0,11 Jun 1978 - 13:45 ,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata ,Brazil,1.0,0.0,Austria,H,Brazil, ,2215.0,BRA,AUT,12,25.0,7.0,25.0
+359,2006.0,18 Jun 2006 - 18:00 ,Group F,"FIFA World Cup Stadium, Munich",Munich ,Brazil,2.0,0.0,Australia,H,Brazil, ,97410027.0,BRA,AUS,20,25.0,22.0,25.0
+360,1990.0,16 Jun 1990 - 17:00 ,Group C,Stadio delle Alpi,Turin ,Brazil,1.0,0.0,Costa Rica,H,Brazil, ,73.0,BRA,CRC,31,25.0,26.0,25.0
+361,1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Nya Ullevi,Gothenburg ,Brazil,1.0,0.0,Wales,H,Brazil, ,1345.0,BRA,WAL,21,25.0,8.45,25.0
+362,1982.0,23 Jun 1982 - 21:00 ,Group 6,Benito Villamarin,Seville ,Brazil,4.0,0.0,New Zealand,H,Brazil, ,789.0,BRA,NZL,29,25.0,10.0,25.0
+363,1998.0,16 Jun 1998 - 21:00 ,Group A,La Beaujoire,Nantes ,Brazil,3.0,0.0,Morocco,H,Brazil, ,8742.0,BRA,MAR,28,25.0,18.0,25.0
+364,2002.0,03 June 2002 - 18:00 ,Group C,Munsu Football Stadium,Ulsan ,Brazil,2.0,1.0,Turkey,H,Brazil, ,43950010.0,BRA,TUR,25,25.0,12.0,25.0
+365,2002.0,26 Jun 2002 - 20:30 ,Semi-finals,Saitama Stadium 2002,Saitama ,Brazil,1.0,0.0,Turkey,H,Brazil, ,43950062.0,BRA,TUR,29,25.0,12.0,25.0
+366,2002.0,08 Jun 2002 - 20:30 ,Group C,Jeju World Cup Stadium,Jeju ,Brazil,4.0,0.0,China PR,H,Brazil, ,43950026.0,BRA,CHN,28,25.0,6.95,25.0
+367,1958.0,15 Jun 1958 - 19:00 ,Group 3,Jarnvallen,Sandviken ,Hungary,4.0,0.0,Mexico,H,Hungary, ,1403.0,HUN,MEX,24,11.0,21.0,11.0
+368,1954.0,20 Jun 1954 - 16:50 ,Group 2,St. Jakob,Basel ,Hungary,8.0,3.0,Germany,H,Hungary, ,1277.0,HUN,FRG,23,11.0,9.0,11.0
+369,1954.0,30 Jun 1954 - 18:00 ,Semi-finals,La Pontaise,Lausanne ,Hungary,4.0,2.0,Uruguay,H,Hungary,Hungary win after extra time ,1295.0,HUN,URU,22,11.0,17.0,11.0
+370,1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Victor Boucquey,Lille ,Hungary,2.0,0.0,Switzerland,H,Hungary, ,1175.0,HUN,SUI,22,11.0,8.0,11.0
+371,1954.0,17 Jun 1954 - 18:00 ,Group 2,Hardturm,Zurich ,Hungary,9.0,0.0,Korea Republic,H,Hungary, ,1294.0,HUN,KOR,23,11.0,11.5,11.0
+372,1962.0,31 May 1962 - 15:00 ,Group 4,Estadio El Teniente-Codelco,Rancagua ,Hungary,2.0,1.0,England,H,Hungary, ,1490.0,HUN,ENG,15,11.0,8.45,11.0
+373,1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Wankdorf Stadium,Berne ,Hungary,4.0,2.0,Brazil,H,Hungary, ,1248.0,HUN,BRA,23,11.0,25.0,11.0
+374,1966.0,15 Jul 1966 - 19:30 ,Group 3,Goodison Park,Liverpool ,Hungary,3.0,1.0,Brazil,H,Hungary, ,1597.0,HUN,BRA,18,11.0,25.0,11.0
+375,1938.0,16 Jun 1938 - 18:00 ,Semi-finals,Parc des Princes,Paris ,Hungary,5.0,1.0,Sweden,H,Hungary, ,1176.0,HUN,SWE,25,11.0,3.0,11.0
+376,1962.0,03 Jun 1962 - 15:00 ,Group 4,Estadio El Teniente-Codelco,Rancagua ,Hungary,6.0,1.0,Bulgaria,H,Hungary, ,1470.0,HUN,BUL,15,11.0,11.0,11.0
+377,1966.0,20 Jul 1966 - 19:30 ,Group 3,Old Trafford Stadium,Manchester ,Hungary,3.0,1.0,Bulgaria,H,Hungary, ,1599.0,HUN,BUL,20,11.0,11.0,11.0
+378,1982.0,15 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Hungary,10.0,1.0,El Salvador,H,Hungary, ,896.0,HUN,SLV,31,11.0,25.0,11.0
+379,1934.0,27 May 1934 - 16:30 ,Preliminary round,Giorgio Ascarelli,Naples ,Hungary,4.0,2.0,Egypt,H,Hungary, ,1119.0,HUN,EGY,29,11.0,23.0,11.0
+380,1938.0,05 Jun 1938 - 17:00 ,First round,Velodrome Municipale,Reims ,Hungary,6.0,0.0,Dutch East Indies,H,Hungary, ,1173.0,HUN,INH,20,11.0,23.65,11.0
+381,1986.0,06 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Hungary,2.0,0.0,Canada,H,Hungary, ,475.0,HUN,CAN,31,11.0,-3.0,11.0
+382,1950.0,02 Jul 1950 - 15:40 ,Group 1,Eucaliptos,Porto Alegre ,Switzerland,2.0,1.0,Mexico,H,Switzerland, ,1222.0,SUI,MEX,21,8.0,21.0,8.0
+383,1938.0,09 Jun 1938 - 18:00 ,First round,Parc des Princes,Paris ,Switzerland,4.0,2.0,Germany,H,Switzerland, ,1166.0,SUI,GER,25,8.0,9.0,8.0
+384,1994.0,22 Jun 1994 - 16:00 ,Group A,Pontiac Silverdome,Detroit ,Romania,1.0,4.0,Switzerland,A,Switzerland, ,3062.0,ROU,SUI,30,10.0,8.0,8.0
+385,2010.0,16 Jun 2010 - 16:00 ,Group H,Durban Stadium,Durban ,Spain,0.0,1.0,Switzerland,A,Switzerland, ,300111112.0,ESP,SUI,22,14.0,8.0,8.0
+386,2014.0,25 Jun 2014 - 16:00 ,Group E,Arena Amazonia,Manaus ,Honduras,0.0,3.0,Switzerland,A,Switzerland, ,300186482.0,HON,SUI,31,25.0,8.0,8.0
+387,2006.0,19 Jun 2006 - 15:00 ,Group G,"FIFA World Cup Stadium, Dortmund",Dortmund ,Togo,0.0,2.0,Switzerland,A,Switzerland, ,97410030.0,TOG,SUI,22,27.0,8.0,8.0
+388,2006.0,23 Jun 2006 - 21:00 ,Group G,"FIFA World Cup Stadium, Hanover",Hanover ,Switzerland,2.0,0.0,Korea Republic,H,Switzerland, ,97410046.0,SUI,KOR,21,8.0,11.5,8.0
+389,1954.0,17 Jun 1954 - 17:50 ,Group 4,La Pontaise,Lausanne ,Switzerland,2.0,1.0,Italy,H,Switzerland, ,1300.0,SUI,ITA,22,8.0,13.0,8.0
+390,1954.0,23 Jun 1954 - 18:00 ,Group 4,St. Jakob,Basel ,Switzerland,4.0,1.0,Italy,H,Switzerland, ,1301.0,SUI,ITA,23,8.0,13.0,8.0
+391,1934.0,27 May 1934 - 16:30 ,Preliminary round,San Siro,Milan ,Switzerland,3.0,2.0,Netherlands,H,Switzerland, ,1133.0,SUI,NED,29,8.0,10.0,8.0
+392,2014.0,15 Jun 2014 - 13:00 ,Group E,Estadio Nacional,Brasilia ,Switzerland,2.0,1.0,Ecuador,H,Switzerland, ,300186494.0,SUI,ECU,28,8.0,22.0,8.0
+393,1958.0,08 Jun 1958 - 14:00 ,Group 3,Rasunda Stadium,Solna ,Sweden,3.0,0.0,Mexico,H,Sweden, ,1415.0,SWE,MEX,21,3.0,21.0,3.0
+394,2006.0,15 Jun 2006 - 21:00 ,Group B,Olympiastadion,Berlin ,Sweden,1.0,0.0,Paraguay,H,Sweden, ,97410020.0,SWE,PAR,26,3.0,23.0,3.0
+395,1958.0,24 Jun 1958 - 19:00 ,Semi-finals,Nya Ullevi,Gothenburg ,Sweden,3.0,1.0,Germany,H,Sweden, ,1390.0,SWE,FRG,21,3.0,9.0,3.0
+396,1958.0,12 Jun 1958 - 19:00 ,Group 3,Rasunda Stadium,Solna ,Sweden,2.0,1.0,Hungary,H,Sweden, ,1406.0,SWE,HUN,21,3.0,11.0,3.0
+397,1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Rasunda Stadium,Solna ,Sweden,2.0,0.0,Russia,H,Sweden, ,1437.0,SWE,URS,21,3.0,-3.0,3.0
+398,1994.0,24 Jun 1994 - 19:30 ,Group B,Pontiac Silverdome,Detroit ,Sweden,3.0,1.0,Russia,H,Sweden, ,3068.0,SWE,RUS,30,3.0,-3.0,3.0
+399,1970.0,10 Jun 1970 - 16:00 ,Group 2,Cuauhtemoc,Puebla ,Sweden,1.0,0.0,Uruguay,H,Sweden, ,1922.0,SWE,URU,24,3.0,17.0,3.0
+400,1974.0,23 Jun 1974 - 16:00 ,Group 3,Rheinstadion,D�Sseldorf ,Sweden,3.0,0.0,Uruguay,H,Sweden, ,2181.0,SWE,URU,29,3.0,17.0,3.0
+401,2002.0,07 Jun 2002 - 15:30 ,Group F,Kobe Wing Stadium,Kobe ,Sweden,2.0,1.0,Nigeria,H,Sweden, ,43950021.0,SWE,NGA,25,3.0,27.0,3.0
+402,1974.0,03 Jul 1974 - 19:30 ,Group B,Rheinstadion,D�Sseldorf ,Sweden,2.0,1.0,Yugoslavia,H,Sweden, ,2182.0,SWE,YUG,29,3.0,8.9,3.0
+403,1934.0,27 May 1934 - 16:30 ,Preliminary round,Littorale,Bologna ,Sweden,3.0,2.0,Argentina,H,Sweden, ,1102.0,SWE,ARG,26,3.0,15.0,3.0
+404,1994.0,03 Jul 1994 - 12:00 ,Round of 16,Cotton Bowl,Dallas ,Saudi Arabia,1.0,3.0,Sweden,A,Sweden, ,3087.0,KSA,SWE,34,26.0,3.0,3.0
+405,1994.0,16 Jul 1994 - 12:30 ,Match for third place,Rose Bowl,Los Angeles ,Sweden,4.0,0.0,Bulgaria,H,Sweden, ,3103.0,SWE,BUL,33,3.0,11.0,3.0
+406,1950.0,16 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Sweden,3.0,1.0,Spain,H,Sweden, ,1206.0,SWE,ESP,26,3.0,14.0,3.0
+407,1950.0,25 Jun 1950 - 15:00 ,Group 3,Pacaembu,Sao Paulo ,Sweden,3.0,2.0,Italy,H,Sweden, ,1219.0,SWE,ITA,26,3.0,13.0,3.0
+408,1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Fort Carree,Antibes ,Sweden,8.0,0.0,Cuba,H,Sweden, ,1158.0,SWE,CUB,27,3.0,26.0,3.0
+409,1978.0,06 Jun 1978 - 16:45 ,Group 2,Estadio Ol�mpico Chateau Carreras,Cordoba ,Germany,6.0,0.0,Mexico,H,Germany, ,2350.0,FRG,MEX,16,9.0,21.0,9.0
+410,1998.0,29 Jun 1998 - 16:30 ,Round of 16,La Mosson,Montpellier ,Germany,2.0,1.0,Mexico,H,Germany, ,8777.0,GER,MEX,32,9.0,21.0,9.0
+411,1934.0,27 May 1934 - 16:30 ,Preliminary round,Giovanni Berta,Florence ,Germany,5.0,2.0,Belgium,H,Germany, ,1108.0,GER,BEL,33,9.0,10.0,9.0
+412,1994.0,02 Jul 1994 - 12:00 ,Round of 16,Soldier Field,Chicago ,Germany,3.0,2.0,Belgium,H,Germany, ,3085.0,GER,BEL,30,9.0,10.0,9.0
+413,2002.0,15 Jun 2002 - 15:30 ,Round of 16,Jeju World Cup Stadium,Jeju ,Germany,1.0,0.0,Paraguay,H,Germany, ,43950049.0,GER,PAR,28,9.0,23.0,9.0
+414,1986.0,08 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Germany,2.0,1.0,Scotland,H,Germany, ,580.0,FRG,SCO,24,9.0,8.45,9.0
+415,1986.0,25 Jun 1986 - 12:00 ,Semi-finals,Jalisco,Guadalajara ,France,0.0,2.0,Germany,A,Germany, ,564.0,FRA,FRG,28,13.0,9.0,9.0
+416,2014.0,04 Jul 2014 - 13:00 ,Quarter-finals,Estadio do Maracana,Rio De Janeiro ,France,0.0,1.0,Germany,A,Germany, ,300186485.0,FRA,GER,30,13.0,9.0,9.0
+417,2014.0,26 Jun 2014 - 13:00 ,Group G,Arena Pernambuco,Recife ,USA,0.0,1.0,Germany,A,Germany, ,300186469.0,USA,GER,28,8.55,9.0,9.0
+418,1974.0,26 Jun 1974 - 16:00 ,Group B,Rheinstadion,D�Sseldorf ,Yugoslavia,0.0,2.0,Germany,A,Germany, ,2066.0,YUG,FRG,29,8.9,9.0,9.0
+419,1958.0,08 Jun 1958 - 19:00 ,Group 1,Malmo Stadion,Malm� ,Argentina,1.0,3.0,Germany,A,Germany, ,1323.0,ARG,FRG,21,15.0,9.0,9.0
+420,2010.0,03 Jul 2010 - 16:00 ,Quarter-finals,Cape Town Stadium,Cape Town ,Argentina,0.0,4.0,Germany,A,Germany, ,300061505.0,ARG,GER,19,15.0,9.0,9.0
+421,2010.0,10 Jul 2010 - 20:30 ,Match for third place,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2.0,3.0,Germany,A,Germany, ,300061510.0,URU,GER,13,17.0,9.0,9.0
+422,2014.0,08 Jul 2014 - 17:00 ,Semi-finals,Estadio Mineirao,Belo Horizonte ,Brazil,1.0,7.0,Germany,A,Germany, ,300186474.0,BRA,GER,28,25.0,9.0,9.0
+423,1974.0,22 June 1974 - 19:30 ,Group 1,Volksparkstadion,Hamburg ,Germany,1.0,0.0,Germany,H,Germany, ,2062.0,GDR,FRG,22,9.0,9.0,9.0
+424,1974.0,03 Jul 1974 - 17:00 ,Group B,Waldstadion,Frankfurt/Main ,Poland,0.0,1.0,Germany,A,Germany, ,2064.0,POL,FRG,23,8.0,9.0,9.0
+425,1974.0,18 Jun 1974 - 16:00 ,Group 1,Volksparkstadion,Hamburg ,Australia,0.0,3.0,Germany,A,Germany, ,1954.0,AUS,FRG,22,22.0,9.0,9.0
+426,1974.0,07 July 1974 - 16:00 ,Final,Olympiastadion,Munich ,Netherlands,1.0,2.0,Germany,A,Germany, ,2063.0,NED,FRG,20,10.0,9.0,9.0
+427,1986.0,17 Jun 1986 - 16:00 ,Round of 16,Estadio Universitario,Monterrey ,Morocco,0.0,1.0,Germany,A,Germany, ,574.0,MAR,FRG,36,18.0,9.0,9.0
+428,2002.0,11 Jun 2002 - 20:30 ,Group E,Shizuoka Stadium Ecopa,Shizuoka ,Cameroon,0.0,2.0,Germany,A,Germany, ,43950035.0,CMR,GER,26,25.0,9.0,9.0
+429,2006.0,20 Jun 2006 - 16:00 ,Group A,Olympiastadion,Berlin ,Ecuador,0.0,3.0,Germany,A,Germany, ,97410033.0,ECU,GER,26,22.0,9.0,9.0
+430,2010.0,23 Jun 2010 - 20:30 ,Group D,Soccer City Stadium,Johannesburg ,Ghana,0.0,1.0,Germany,A,Germany, ,300061468.0,GHA,GER,22,27.0,9.0,9.0
+431,1954.0,04 Jul 1954 - 17:00 ,Final,Wankdorf Stadium,Berne ,Germany,3.0,2.0,Hungary,H,Germany, ,1278.0,FRG,HUN,23,9.0,11.0,9.0
+432,1990.0,01 Jul 1990 - 17:00 ,Quarter-finals,Giuseppe Meazza,Milan ,Germany,1.0,0.0,Czech Republic,H,Germany, ,197.0,FRG,TCH,29,9.0,8.0,9.0
+433,1966.0,25 Jul 1966 - 19:30 ,Semi-finals,Goodison Park,Liverpool ,Germany,2.0,1.0,Russia,H,Germany, ,1659.0,FRG,URS,18,9.0,-3.0,9.0
+434,2002.0,01 Jun 2002 - 20:30 ,Group E,Sapporo Dome,Sapporo ,Germany,8.0,0.0,Saudi Arabia,H,Germany, ,43950004.0,GER,KSA,21,9.0,26.0,9.0
+435,1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Hillsborough,Sheffield ,Germany,4.0,0.0,Uruguay,H,Germany, ,1660.0,FRG,URU,19,9.0,17.0,9.0
+436,1970.0,20 Jun 1970 - 16:00 ,Match for third place,Estadio Azteca,Mexico City ,Germany,1.0,0.0,Uruguay,H,Germany, ,1843.0,FRG,URU,25,9.0,17.0,9.0
+437,1962.0,03 Jun 1962 - 15:00 ,Group 2,Nacional,Santiago De Chile ,Germany,2.0,1.0,Switzerland,H,Germany, ,1510.0,FRG,SUI,32,9.0,8.0,9.0
+438,1966.0,12 Jul 1966 - 19:30 ,Group 2,Hillsborough,Sheffield ,Germany,5.0,0.0,Switzerland,H,Germany, ,1656.0,FRG,SUI,19,9.0,8.0,9.0
+439,1994.0,27 Jun 1994 - 16:00 ,Group C,Cotton Bowl,Dallas ,Germany,3.0,2.0,Korea Republic,H,Germany, ,3076.0,GER,KOR,34,9.0,11.5,9.0
+440,2002.0,25 Jun 2002 - 20:30 ,Semi-finals,Seoul World Cup Stadium,Seoul ,Germany,1.0,0.0,Korea Republic,H,Germany, ,43950061.0,GER,KOR,29,9.0,11.5,9.0
+441,1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Nou Camp - Estadio Le�n,Leon ,Germany,3.0,2.0,England,H,Germany,Germany win after extra time ,1811.0,FRG,ENG,28,9.0,8.45,9.0
+442,2010.0,27 Jun 2010 - 16:00 ,Round of 16,Free State Stadium,Mangaung/Bloemfontein ,Germany,4.0,1.0,England,H,Germany, ,300061501.0,GER,ENG,22,9.0,8.45,9.0
+443,1998.0,25 Jun 1998 - 21:00 ,Group F,La Mosson,Montpellier ,Germany,2.0,0.0,Iran,H,Germany, ,8767.0,GER,IRN,32,9.0,19.0,9.0
+444,1954.0,27 Jun 1954 - 17:00 ,Quarter-finals,Charmilles,Geneva ,Germany,2.0,0.0,Yugoslavia,H,Germany, ,1285.0,FRG,YUG,23,9.0,8.9,9.0
+445,1958.0,19 Jun 1958 - 19:00 ,Quarter-finals,Malmo Stadion,Malm� ,Germany,1.0,0.0,Yugoslavia,H,Germany, ,1392.0,FRG,YUG,21,9.0,8.9,9.0
+446,1990.0,10 Jun 1990 - 21:00 ,Group D,Giuseppe Meazza,Milan ,Germany,4.0,1.0,Yugoslavia,H,Germany, ,201.0,FRG,YUG,29,9.0,8.9,9.0
+447,2006.0,08 Jul 2006 - 21:00 ,Third place,Gottlieb-Daimler-Stadion,Stuttgart ,Germany,3.0,1.0,Portugal,H,Germany, ,97410063.0,GER,POR,22,9.0,15.0,9.0
+448,2014.0,16 Jun 2014 - 13:00 ,Group G,Arena Fonte Nova,Salvador ,Germany,4.0,0.0,Portugal,H,Germany, ,300186475.0,GER,POR,25,9.0,15.0,9.0
+449,2014.0,30 Jun 2014 - 17:00 ,Round of 16,Estadio Beira-Rio,Porto Alegre ,Germany,2.0,1.0,Algeria,H,Germany,Germany win after extra time ,300186460.0,GER,ALG,21,9.0,24.0,9.0
+450,1994.0,17 Jun 1994 - 15:00 ,Group C,Soldier Field,Chicago ,Germany,1.0,0.0,Bolivia,H,Germany, ,3049.0,GER,BOL,30,9.0,21.0,9.0
+451,1990.0,15 Jun 1990 - 21:00 ,Group D,Giuseppe Meazza,Milan ,Germany,5.0,1.0,United Arab Emirates,H,Germany, ,198.0,FRG,UAE,29,9.0,29.0,9.0
+452,1990.0,08 Jul 1990 - 20:00 ,Final,Stadio Olimpico,Rome ,Germany,1.0,0.0,Argentina,H,Germany, ,27.0,FRG,ARG,29,9.0,15.0,9.0
+453,2014.0,13 Jul 2014 - 16:00 ,Final,Estadio do Maracana,Rio De Janeiro ,Germany,1.0,0.0,Argentina,H,Germany,Germany win after extra time ,300186501.0,GER,ARG,30,9.0,15.0,9.0
+454,1970.0,10 Jun 1970 - 16:00 ,Group 4,Nou Camp - Estadio Le�n,Leon ,Germany,3.0,1.0,Peru,H,Germany, ,1840.0,FRG,PER,28,9.0,20.0,9.0
+455,1934.0,31 May 1934 - 16:30 ,Quarter-finals,San Siro,Milan ,Germany,2.0,1.0,Sweden,H,Germany, ,1129.0,GER,SWE,29,9.0,3.0,9.0
+456,1974.0,30 Jun 1974 - 19:30 ,Group B,Rheinstadion,D�Sseldorf ,Germany,4.0,2.0,Sweden,H,Germany, ,2065.0,FRG,SWE,29,9.0,3.0,9.0
+457,2006.0,24 Jun 2006 - 17:00 ,Round of 16,"FIFA World Cup Stadium, Munich",Munich ,Germany,2.0,0.0,Sweden,H,Germany, ,97410049.0,GER,SWE,20,9.0,3.0,9.0
+458,1962.0,06 Jun 1962 - 15:00 ,Group 2,Nacional,Santiago De Chile ,Germany,2.0,0.0,Chile,H,Germany, ,1471.0,FRG,CHI,32,9.0,9.0,9.0
+459,1974.0,14 Jun 1974 - 16:00 ,Group 1,Olympiastadion,Berlin West ,Germany,1.0,0.0,Chile,H,Germany, ,2003.0,FRG,CHI,26,9.0,9.0,9.0
+460,1982.0,20 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany,4.0,1.0,Chile,H,Germany, ,813.0,FRG,CHI,23,9.0,9.0,9.0
+461,1998.0,15 Jun 1998 - 21:00 ,Group F,Parc des Princes,Paris ,Germany,2.0,0.0,USA,H,Germany, ,8738.0,GER,USA,25,9.0,8.55,9.0
+462,2002.0,21 Jun 2002 - 20:30 ,Quarter-finals,Munsu Football Stadium,Ulsan ,Germany,1.0,0.0,USA,H,Germany, ,43950058.0,GER,USA,25,9.0,8.55,9.0
+463,1970.0,07 Jun 1970 - 12:00 ,Group 4,Nou Camp - Estadio Le�n,Leon ,Germany,5.0,2.0,Bulgaria,H,Germany, ,1774.0,FRG,BUL,28,9.0,11.0,9.0
+464,1966.0,20 Jul 1966 - 19:30 ,Group 2,Villa Park,Birmingham ,Germany,2.0,1.0,Spain,H,Germany, ,1637.0,FRG,ESP,21,9.0,14.0,9.0
+465,1982.0,02 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany,2.0,1.0,Spain,H,Germany, ,900.0,FRG,ESP,34,9.0,14.0,9.0
+466,2006.0,14 Jun 2006 - 21:00 ,Group A,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,1.0,0.0,Poland,H,Germany, ,97410017.0,GER,POL,22,9.0,8.0,9.0
+467,1990.0,24 Jun 1990 - 21:00 ,Round of 16,Giuseppe Meazza,Milan ,Germany,2.0,1.0,Netherlands,H,Germany, ,196.0,FRG,NED,29,9.0,10.0,9.0
+468,1934.0,07 Jun 1934 - 18:00 ,Match for third place,Giorgio Ascarelli,Naples ,Germany,3.0,2.0,Austria,H,Germany, ,1105.0,GER,AUT,29,9.0,7.0,9.0
+469,1954.0,30 Jun 1954 - 18:00 ,Semi-finals,St. Jakob,Basel ,Germany,6.0,1.0,Austria,H,Germany, ,1233.0,FRG,AUT,23,9.0,7.0,9.0
+470,1982.0,25 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany,1.0,0.0,Austria,H,Germany, ,770.0,FRG,AUT,23,9.0,7.0,9.0
+471,1974.0,14 Jun 1974 - 19:30 ,Group 1,Volksparkstadion,Hamburg ,Germany,2.0,0.0,Australia,H,Germany, ,1955.0,GDR,AUS,22,9.0,22.0,9.0
+472,2010.0,13 Jun 2010 - 20:30 ,Group D,Durban Stadium,Durban ,Germany,4.0,0.0,Australia,H,Germany, ,300111116.0,GER,AUS,22,9.0,22.0,9.0
+473,2006.0,09 Jun 2006 - 18:00 ,Group A,"FIFA World Cup Stadium, Munich",Munich ,Germany,4.0,2.0,Costa Rica,H,Germany, ,97410001.0,GER,CRC,20,9.0,26.0,9.0
+474,1970.0,03 Jun 1970 - 16:00 ,Group 4,Nou Camp - Estadio Le�n,Leon ,Germany,2.0,1.0,Morocco,H,Germany, ,1839.0,FRG,MAR,28,9.0,18.0,9.0
+475,1954.0,17 Jun 1954 - 18:00 ,Group 2,Wankdorf Stadium,Berne ,Germany,4.0,1.0,Turkey,H,Germany, ,1283.0,FRG,TUR,23,9.0,12.0,9.0
+476,1954.0,23 Jun 1954 - 18:00 ,Group 2,Hardturm,Zurich ,Germany,7.0,2.0,Turkey,H,Germany, ,1284.0,FRG,TUR,23,9.0,12.0,9.0
+477,1962.0,03 Jun 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Spain,1.0,0.0,Mexico,H,Spain, ,1497.0,ESP,MEX,17,14.0,21.0,14.0
+478,2002.0,07 June 2002 - 18:00 ,Group B,Jeonju World Cup Stadium,Jeonju ,Spain,3.0,1.0,Paraguay,H,Spain, ,43950022.0,ESP,PAR,27,14.0,23.0,14.0
+479,1966.0,15 Jul 1966 - 19:30 ,Group 2,Hillsborough,Sheffield ,Spain,2.0,1.0,Switzerland,H,Spain, ,1641.0,ESP,SUI,19,14.0,8.0,14.0
+480,1994.0,02 Jul 1994 - 16:30 ,Round of 16,RFK Stadium,Washington Dc ,Spain,3.0,0.0,Switzerland,H,Spain, ,3086.0,ESP,SUI,36,14.0,8.0,14.0
+481,2010.0,21 Jun 2010 - 20:30 ,Group H,Ellis Park Stadium,Johannesburg ,Spain,2.0,0.0,Honduras,H,Spain, ,300061494.0,ESP,HON,22,14.0,25.0,14.0
+482,1950.0,02 Jul 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,1.0,0.0,England,H,Spain, ,1199.0,ESP,ENG,30,14.0,8.45,14.0
+483,1982.0,20 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,2.0,1.0,Yugoslavia,H,Spain, ,903.0,ESP,YUG,27,14.0,8.9,14.0
+484,2010.0,29 Jun 2010 - 20:30 ,Round of 16,Cape Town Stadium,Cape Town ,Spain,1.0,0.0,Portugal,H,Spain, ,300061498.0,ESP,POR,19,14.0,15.0,14.0
+485,1934.0,27 May 1934 - 16:30 ,Preliminary round,Luigi Ferraris,Genoa ,Spain,3.0,1.0,Brazil,H,Spain, ,1111.0,ESP,BRA,30,14.0,25.0,14.0
+486,1978.0,11 Jun 1978 - 13:45 ,Group 3,Jose Amalfitani,Buenos Aires ,Spain,1.0,0.0,Sweden,H,Spain, ,2337.0,ESP,SWE,19,14.0,3.0,14.0
+487,2006.0,19 Jun 2006 - 21:00 ,Group H,Gottlieb-Daimler-Stadion,Stuttgart ,Spain,3.0,1.0,Tunisia,H,Spain, ,97410031.0,ESP,TUN,22,14.0,21.0,14.0
+488,1950.0,29 Jun 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,2.0,0.0,Chile,H,Spain, ,1193.0,ESP,CHI,30,14.0,9.0,14.0
+489,1950.0,25 Jun 1950 - 15:00 ,Group 2,Durival de Brito,Curitiba ,Spain,3.0,1.0,USA,H,Spain, ,1208.0,ESP,USA,23,14.0,8.55,14.0
+490,1998.0,24 Jun 1998 - 21:00 ,Group D,Stade Felix Bollaert,Lens ,Spain,6.0,1.0,Bulgaria,H,Spain, ,8761.0,ESP,BUL,22,14.0,11.0,14.0
+491,2010.0,25 Jun 2010 - 20:30 ,Group H,Loftus Versfeld Stadium,Tshwane/Pretoria ,Chile,1.0,2.0,Spain,A,Spain, ,300061491.0,CHI,ESP,26,9.0,14.0,14.0
+492,2010.0,03 Jul 2010 - 20:30 ,Quarter-finals,Ellis Park Stadium,Johannesburg ,Paraguay,0.0,1.0,Spain,A,Spain, ,300061506.0,PAR,ESP,22,23.0,14.0,14.0
+493,2010.0,07 Jul 2010 - 20:30 ,Semi-finals,Durban Stadium,Durban ,Germany,0.0,1.0,Spain,A,Spain, ,300111114.0,GER,ESP,22,9.0,14.0,14.0
+494,1986.0,07 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Northern Ireland,1.0,2.0,Spain,A,Spain, ,551.0,NIR,ESP,28,9.3,14.0,14.0
+495,1990.0,17 Jun 1990 - 21:00 ,Group E,Dacia Arena,Udine ,Korea Republic,1.0,3.0,Spain,A,Spain, ,175.0,KOR,ESP,24,11.5,14.0,14.0
+496,1990.0,21 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,1.0,2.0,Spain,A,Spain, ,56.0,BEL,ESP,25,10.0,14.0,14.0
+497,2014.0,23 Jun 2014 - 13:00 ,Group B,Arena da Baixada,Curitiba ,Australia,0.0,3.0,Spain,A,Spain, ,300186467.0,AUS,ESP,23,22.0,14.0,14.0
+498,2010.0,11 Jul 2010 - 20:30 ,Final,Soccer City Stadium,Johannesburg ,Netherlands,0.0,1.0,Spain,A,Spain,Spain win after extra time ,300061509.0,NED,ESP,22,10.0,14.0,14.0
+499,1986.0,12 Jun 1986 - 12:00 ,Group D,Tecnologico,Monterrey ,Algeria,0.0,3.0,Spain,A,Spain, ,378.0,ALG,ESP,36,24.0,14.0,14.0
+500,1986.0,18 Jun 1986 - 16:00 ,Round of 16,Estadio Corregidora,Queretaro ,Denmark,1.0,5.0,Spain,A,Spain, ,511.0,DEN,ESP,24,-16.0,14.0,14.0
+501,2006.0,23 Jun 2006 - 16:00 ,Group H,Fritz-Walter-Stadion,Kaiserslautern ,Saudi Arabia,0.0,1.0,Spain,A,Spain, ,97410047.0,KSA,ESP,21,26.0,14.0,14.0
+502,1994.0,27 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Bolivia,1.0,3.0,Spain,A,Spain, ,3075.0,BOL,ESP,30,21.0,14.0,14.0
+503,2002.0,12 Jun 2002 - 20:30 ,Group B,Daejeon World Cup Stadium,Daejeon ,South Africa,2.0,3.0,Spain,A,Spain, ,43950039.0,RSA,ESP,23,17.0,14.0,14.0
+504,2006.0,14 Jun 2006 - 15:00 ,Group H,Zentralstadion,Leipzig ,Spain,4.0,0.0,Ukraine,H,Spain, ,97410015.0,ESP,UKR,22,14.0,9.0,14.0
+505,2002.0,02 Jun 2002 - 20:30 ,Group B,Gwangju World Cup Stadium,Gwangju ,Spain,3.0,1.0,Slovenia,H,Spain, ,43950008.0,ESP,SVN,27,14.0,10.0,14.0
+506,1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Luis Dosal,Toluca ,Italy,4.0,1.0,Mexico,H,Italy, ,1882.0,ITA,MEX,19,13.0,21.0,13.0
+507,1954.0,20 Jun 1954 - 17:00 ,Group 4,Comunale di Cornaredo,Lugano ,Italy,4.0,1.0,Belgium,H,Italy, ,1243.0,ITA,BEL,29,13.0,10.0,13.0
+508,1950.0,02 Jul 1950 - 15:00 ,Group 3,Pacaembu,Sao Paulo ,Italy,2.0,0.0,Paraguay,H,Italy, ,1218.0,ITA,PAR,26,13.0,23.0,13.0
+509,1970.0,17 June 1970 - 16:00 ,Semi-finals,Estadio Azteca,Mexico City ,Italy,4.0,3.0,Germany,H,Italy,Italy win after extra time ,1838.0,ITA,FRG,25,13.0,9.0,13.0
+510,1982.0,11 Jul 1982 - 20:00 ,Final,Santiago Bernabeu,Madrid ,Italy,3.0,1.0,Germany,H,Italy, ,923.0,ITA,FRG,34,13.0,9.0,13.0
+511,1938.0,19 Jun 1938 - 17:00 ,Final,Stade Olympique,Colombes ,Italy,4.0,2.0,Hungary,H,Italy, ,1174.0,ITA,HUN,25,13.0,11.0,13.0
+512,1978.0,06 Jun 1978 - 13:45 ,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata ,Italy,3.0,1.0,Hungary,H,Italy, ,2396.0,ITA,HUN,12,13.0,11.0,13.0
+513,1934.0,10 Jun 1934 - 17:30 ,Final,Nazionale PNF,Rome ,Italy,2.0,1.0,Czech Republic,H,Italy,Italy win after extra time ,1134.0,ITA,TCH,29,13.0,8.0,13.0
+514,1990.0,19 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,2.0,0.0,Czech Republic,H,Italy, ,263.0,ITA,TCH,29,13.0,8.0,13.0
+515,1990.0,25 Jun 1990 - 21:00 ,Round of 16,Stadio Olimpico,Rome ,Italy,2.0,0.0,Uruguay,H,Italy, ,264.0,ITA,URU,29,13.0,17.0,13.0
+516,1962.0,07 Jun 1962 - 15:00 ,Group 2,Nacional,Santiago De Chile ,Italy,3.0,0.0,Switzerland,H,Italy, ,1532.0,ITA,SUI,32,13.0,8.0,13.0
+517,1990.0,07 Jul 1990 - 20:00 ,Match for third place,Stadio San Nicola,Bari ,Italy,2.0,1.0,England,H,Italy, ,162.0,ITA,ENG,29,13.0,8.45,13.0
+518,2006.0,12 Jun 2006 - 21:00 ,Group E,"FIFA World Cup Stadium, Hanover",Hanover ,Italy,2.0,0.0,Ghana,H,Italy, ,97410009.0,ITA,GHA,21,13.0,27.0,13.0
+519,1938.0,16 Jun 1938 - 18:00 ,Semi-finals,Stade V�lodrome,Marseilles ,Italy,2.0,1.0,Brazil,H,Italy, ,1149.0,ITA,BRA,25,13.0,25.0,13.0
+520,1982.0,05 Jul 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,3.0,2.0,Brazil,H,Italy, ,788.0,ITA,BRA,30,13.0,25.0,13.0
+521,1938.0,12 Jun 1938 - 17:00 ,Quarter-finals,Stade Olympique,Colombes ,Italy,3.0,1.0,France,H,Italy, ,1164.0,ITA,FRA,25,13.0,13.0,13.0
+522,1978.0,02 Jun 1978 - 13:45 ,Group 1,Estadio Jos� Mar�a Minella,Mar Del Plata ,Italy,2.0,1.0,France,H,Italy, ,2347.0,ITA,FRA,12,13.0,13.0,13.0
+523,1978.0,10 Jun 1978 - 19:15 ,Group 1,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Italy,1.0,0.0,Argentina,H,Italy, ,2200.0,ITA,ARG,19,13.0,15.0,13.0
+524,1982.0,29 Jun 1982 - 17:15 ,Group 3,Sarria,Barcelona ,Italy,2.0,1.0,Argentina,H,Italy, ,753.0,ITA,ARG,30,13.0,15.0,13.0
+525,1970.0,03 Jun 1970 - 16:00 ,Group 2,Luis Dosal,Toluca ,Italy,1.0,0.0,Sweden,H,Italy, ,1883.0,ITA,SWE,19,13.0,3.0,13.0
+526,1966.0,13 Jul 1966 - 19:30 ,Group 4,Roker Park Ground,Sunderland ,Italy,2.0,0.0,Chile,H,Italy, ,1608.0,ITA,CHI,18,13.0,9.0,13.0
+527,1934.0,27 May 1934 - 16:30 ,Preliminary round,Nazionale PNF,Rome ,Italy,7.0,1.0,USA,H,Italy, ,1135.0,ITA,USA,29,13.0,8.55,13.0
+528,1990.0,14 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,1.0,0.0,USA,H,Italy, ,265.0,ITA,USA,29,13.0,8.55,13.0
+529,1934.0,01 Jun 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1.0,0.0,Spain,H,Italy, ,1123.0,ITA,ESP,33,13.0,14.0,13.0
+530,1994.0,09 Jul 1994 - 12:00 ,Quarter-finals,Foxboro Stadium,Boston ,Italy,2.0,1.0,Spain,H,Italy, ,3097.0,ITA,ESP,32,13.0,14.0,13.0
+531,2006.0,04 Jul 2006 - 21:00 ,Semi-finals,"FIFA World Cup Stadium, Dortmund",Dortmund ,Germany,0.0,2.0,Italy,A,Italy,Italy win after extra time ,97410061.0,GER,ITA,22,9.0,13.0,13.0
+532,2006.0,22 Jun 2006 - 16:00 ,Group E,"FIFA World Cup Stadium, Hamburg",Hamburg ,Czech Republic,0.0,2.0,Italy,A,Italy, ,97410041.0,CZE,ITA,22,8.0,13.0,13.0
+533,2014.0,14 Jun 2014 - 18:00 ,Group D,Arena Amazonia,Manaus ,England,1.0,2.0,Italy,A,Italy, ,300186513.0,ENG,ITA,31,8.45,13.0,13.0
+534,1986.0,10 Jun 1986 - 12:00 ,Group A,Cuauhtemoc,Puebla ,Korea Republic,2.0,3.0,Italy,A,Italy, ,643.0,KOR,ITA,24,11.5,13.0,13.0
+535,1994.0,13 Jul 1994 - 16:00 ,Semi-finals,Giants Stadium,New York/New Jersey ,Bulgaria,1.0,2.0,Italy,A,Italy, ,3100.0,BUL,ITA,34,11.0,13.0,13.0
+536,1982.0,08 Jul 1982 - 17:15 ,Semi-finals,Camp Nou,Barcelona ,Poland,0.0,2.0,Italy,A,Italy, ,996.0,POL,ITA,30,8.0,13.0,13.0
+537,1994.0,05 Jul 1994 - 13:00 ,Round of 16,Foxboro Stadium,Boston ,Nigeria,1.0,2.0,Italy,A,Italy,Italy win after extra time ,3091.0,NGA,ITA,32,27.0,13.0,13.0
+538,1974.0,15 Jun 1974 - 18:00 ,Group 4,Olympiastadion,Munich ,Italy,3.0,1.0,Haiti,H,Italy, ,2083.0,ITA,HAI,20,13.0,27.0,13.0
+539,1998.0,17 Jun 1998 - 21:00 ,Group B,La Mosson,Montpellier ,Italy,3.0,0.0,Cameroon,H,Italy, ,8744.0,ITA,CMR,32,13.0,25.0,13.0
+540,1934.0,03 Jun 1934 - 16:30 ,Semi-finals,San Siro,Milan ,Italy,1.0,0.0,Austria,H,Italy, ,1107.0,ITA,AUT,29,13.0,7.0,13.0
+541,1978.0,18 Jun 1978 - 16:45 ,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Italy,1.0,0.0,Austria,H,Italy, ,2221.0,ITA,AUT,19,13.0,7.0,13.0
+542,1990.0,09 Jun 1990 - 21:00 ,Group A,Stadio Olimpico,Rome ,Italy,1.0,0.0,Austria,H,Italy, ,42.0,ITA,AUT,29,13.0,7.0,13.0
+543,1998.0,23 Jun 1998 - 16:00 ,Group B,Stade de France,Saint-Denis ,Italy,2.0,1.0,Austria,H,Italy, ,8757.0,ITA,AUT,22,13.0,7.0,13.0
+544,2006.0,26 Jun 2006 - 17:00 ,Round of 16,Fritz-Walter-Stadion,Kaiserslautern ,Italy,1.0,0.0,Australia,H,Italy, ,97410053.0,ITA,AUS,21,13.0,22.0,13.0
+545,1938.0,05 Jun 1938 - 17:00 ,First round,Stade V�lodrome,Marseilles ,Italy,2.0,1.0,Norway,H,Italy,Italy win after extra time ,1179.0,ITA,NOR,25,13.0,1.0,13.0
+546,1994.0,23 Jun 1994 - 16:00 ,Group E,Giants Stadium,New York/New Jersey ,Italy,1.0,0.0,Norway,H,Italy, ,3064.0,ITA,NOR,34,13.0,1.0,13.0
+547,1998.0,27 Jun 1998 - 16:30 ,Round of 16,Stade V�lodrome,Marseilles ,Italy,1.0,0.0,Norway,H,Italy, ,8774.0,ITA,NOR,25,13.0,1.0,13.0
+548,2006.0,30 Jun 2006 - 21:00 ,Quarter-finals,"FIFA World Cup Stadium, Hamburg",Hamburg ,Italy,3.0,0.0,Ukraine,H,Italy, ,97410058.0,ITA,UKR,22,13.0,9.0,13.0
+549,2002.0,03 Jun 2002 - 20:30 ,Group G,Sapporo Dome,Sapporo ,Italy,2.0,0.0,Ecuador,H,Italy, ,43950011.0,ITA,ECU,21,13.0,22.0,13.0
+550,1990.0,30 Jun 1990 - 21:00 ,Quarter-finals,Stadio Olimpico,Rome ,Italy,1.0,0.0,Republic of Ireland,H,Italy, ,243.0,ITA,IRL,29,13.0,9.3,13.0
+551,1966.0,16 Jul 1966 - 19:30 ,Group 1,Wembley Stadium,London ,England,2.0,0.0,Mexico,H,England, ,1634.0,ENG,MEX,24,8.45,21.0,8.45
+552,1990.0,26 Jun 1990 - 21:00 ,Round of 16,Renato Dall Ara,Bologna ,England,1.0,0.0,Belgium,H,England,England win after extra time ,55.0,ENG,BEL,26,8.45,10.0,8.45
+553,1986.0,18 Jun 1986 - 12:00 ,Round of 16,Estadio Azteca,Mexico City ,England,3.0,0.0,Paraguay,H,England, ,536.0,ENG,PAR,25,8.45,23.0,8.45
+554,2006.0,10 Jun 2006 - 15:00 ,Group B,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,England,1.0,0.0,Paraguay,H,England, ,97410003.0,ENG,PAR,23,8.45,23.0,8.45
+555,1966.0,30 Jul 1966 - 15:00 ,Final,Wembley Stadium,London ,England,4.0,2.0,Germany,H,England,England win after extra time ,1633.0,ENG,FRG,24,8.45,9.0,8.45
+556,1982.0,25 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,1.0,0.0,Kuwait,H,England, ,882.0,ENG,KUW,26,8.45,26.0,8.45
+557,1970.0,11 Jun 1970 - 16:00 ,Group 3,Jalisco,Guadalajara ,England,1.0,0.0,Czech Republic,H,England, ,1813.0,ENG,TCH,28,8.45,8.0,8.45
+558,1982.0,20 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,2.0,0.0,Czech Republic,H,England, ,889.0,ENG,TCH,26,8.45,8.0,8.45
+559,1954.0,20 Jun 1954 - 17:10 ,Group 4,Wankdorf Stadium,Berne ,England,2.0,0.0,Switzerland,H,England, ,1263.0,ENG,SUI,23,8.45,8.0,8.45
+560,2002.0,07 Jun 2002 - 20:30 ,Group F,Sapporo Dome,Sapporo ,Argentina,0.0,1.0,England,A,England, ,43950023.0,ARG,ENG,21,15.0,8.45,8.45
+561,2002.0,15 Jun 2002 - 20:30 ,Round of 16,Niigata Stadium Big Swan,Niigata ,Denmark,0.0,3.0,England,A,England, ,43950050.0,DEN,ENG,24,-16.0,8.45,8.45
+562,1998.0,26 Jun 1998 - 21:00 ,Group G,Stade Felix Bollaert,Lens ,Colombia,0.0,2.0,England,A,England, ,8770.0,COL,ENG,22,25.0,8.45,8.45
+563,2010.0,23 Jun 2010 - 16:00 ,Group C,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Slovenia,0.0,1.0,England,A,England, ,300061462.0,SVN,ENG,13,10.0,8.45,8.45
+564,1970.0,02 Jun 1970 - 16:00 ,Group 3,Jalisco,Guadalajara ,England,1.0,0.0,Romania,H,England, ,1812.0,ENG,ROU,28,8.45,10.0,8.45
+565,1966.0,26 Jul 1966 - 19:30 ,Semi-finals,Wembley Stadium,London ,England,2.0,1.0,Portugal,H,England, ,1635.0,ENG,POR,24,8.45,15.0,8.45
+566,1966.0,20 Jul 1966 - 19:30 ,Group 1,Wembley Stadium,London ,England,2.0,0.0,France,H,England, ,1632.0,ENG,FRA,24,8.45,13.0,8.45
+567,1982.0,16 Jun 1982 - 17:15 ,Group 4,San Mames,Bilbao ,England,3.0,1.0,France,H,England, ,878.0,ENG,FRA,26,8.45,13.0,8.45
+568,1962.0,02 Jun 1962 - 15:00 ,Group 4,Estadio El Teniente-Codelco,Rancagua ,England,3.0,1.0,Argentina,H,England, ,1450.0,ENG,ARG,15,8.45,15.0,8.45
+569,1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Wembley Stadium,London ,England,1.0,0.0,Argentina,H,England, ,1577.0,ENG,ARG,24,8.45,15.0,8.45
+570,1998.0,15 Jun 1998 - 14:30 ,Group G,Stade V�lodrome,Marseilles ,England,2.0,0.0,Tunisia,H,England, ,8740.0,ENG,TUN,25,8.45,21.0,8.45
+571,1950.0,25 Jun 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,England,2.0,0.0,Chile,H,England, ,1192.0,ENG,CHI,30,8.45,9.0,8.45
+572,1986.0,11 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,England,3.0,0.0,Poland,H,England, ,537.0,ENG,POL,36,8.45,8.0,8.45
+573,1990.0,01 Jul 1990 - 21:00 ,Quarter-finals,San Paolo,Naples ,England,3.0,2.0,Cameroon,H,England,England win after extra time ,103.0,ENG,CMR,29,8.45,25.0,8.45
+574,2006.0,15 Jun 2006 - 18:00 ,Group B,Franken-Stadion,Nuremberg ,England,2.0,0.0,Trinidad and Tobago,H,England, ,97410019.0,ENG,TRI,20,8.45,25.75,8.45
+575,1990.0,21 Jun 1990 - 21:00 ,Group F,Sant Elia,Cagliari ,England,1.0,0.0,Egypt,H,England, ,150.0,ENG,EGY,35,8.45,23.0,8.45
+576,2006.0,25 Jun 2006 - 17:00 ,Round of 16,Gottlieb-Daimler-Stadion,Stuttgart ,England,1.0,0.0,Ecuador,H,England, ,97410051.0,ENG,ECU,22,8.45,22.0,8.45
+577,2006.0,21 Jun 2006 - 16:00 ,Group D,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Portugal,2.0,1.0,Mexico,H,Portugal, ,97410039.0,POR,MEX,22,15.0,21.0,15.0
+578,1966.0,13 Jul 1966 - 19:30 ,Group 3,Old Trafford Stadium,Manchester ,Portugal,3.0,1.0,Hungary,H,Portugal, ,1675.0,POR,HUN,20,15.0,11.0,15.0
+579,1966.0,28 Jul 1966 - 19:30 ,Match for third place,Wembley Stadium,London ,Portugal,2.0,1.0,Russia,H,Portugal, ,1709.0,POR,URS,24,15.0,-3.0,15.0
+580,1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Goodison Park,Liverpool ,Portugal,5.0,3.0,Korea Republic,H,Portugal, ,1702.0,POR,PRK,18,15.0,11.5,15.0
+581,2010.0,21 Jun 2010 - 13:30 ,Group G,Cape Town Stadium,Cape Town ,Portugal,7.0,0.0,Korea Republic,H,Portugal, ,300061487.0,POR,PRK,19,15.0,11.5,15.0
+582,1986.0,03 Jun 1986 - 16:00 ,Group F,Tecnologico,Monterrey ,Portugal,1.0,0.0,England,H,Portugal, ,538.0,POR,ENG,36,15.0,8.45,15.0
+583,2006.0,17 Jun 2006 - 15:00 ,Group D,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Portugal,2.0,0.0,Iran,H,Portugal, ,97410024.0,POR,IRN,23,15.0,19.0,15.0
+584,2006.0,11 Jun 2006 - 21:00 ,Group D,"FIFA World Cup Stadium, Cologne",Cologne ,Angola,0.0,1.0,Portugal,A,Portugal, ,97410008.0,ANG,POR,24,22.0,15.0,15.0
+585,2014.0,26 Jun 2014 - 13:00 ,Group G,Estadio Nacional,Brasilia ,Portugal,2.0,1.0,Ghana,H,Portugal, ,300186476.0,POR,GHA,28,15.0,27.0,15.0
+586,1966.0,19 Jul 1966 - 19:30 ,Group 3,Goodison Park,Liverpool ,Portugal,3.0,1.0,Brazil,H,Portugal, ,1598.0,POR,BRA,18,15.0,25.0,15.0
+587,1966.0,16 Jul 1966 - 15:00 ,Group 3,Old Trafford Stadium,Manchester ,Portugal,3.0,0.0,Bulgaria,H,Portugal, ,1602.0,POR,BUL,20,15.0,11.0,15.0
+588,2002.0,10 Jun 2002 - 20:30 ,Group D,Jeonju World Cup Stadium,Jeonju ,Portugal,4.0,0.0,Poland,H,Portugal, ,43950032.0,POR,POL,27,15.0,8.0,15.0
+589,2006.0,25 Jun 2006 - 21:00 ,Round of 16,Franken-Stadion,Nuremberg ,Portugal,1.0,0.0,Netherlands,H,Portugal, ,97410052.0,POR,NED,20,15.0,10.0,15.0
+590,1978.0,10 Jun 1978 - 16:45 ,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Poland,3.0,1.0,Mexico,H,Poland, ,2431.0,POL,MEX,18,8.0,21.0,8.0
+591,1982.0,28 Jun 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Poland,3.0,0.0,Belgium,H,Poland, ,782.0,POL,BEL,30,8.0,10.0,8.0
+592,1974.0,30 Jun 1974 - 16:00 ,Group B,Waldstadion,Frankfurt/Main ,Poland,2.0,1.0,Yugoslavia,H,Poland, ,2170.0,POL,YUG,23,8.0,8.9,8.0
+593,1986.0,07 Jun 1986 - 16:00 ,Group F,Estadio Universitario,Monterrey ,Poland,1.0,0.0,Portugal,H,Poland, ,701.0,POL,POR,36,8.0,15.0,8.0
+594,1982.0,10 Jul 1982 - 20:00 ,Match for third place,Jose Rico Perez,Alicante ,Poland,3.0,2.0,France,H,Poland, ,921.0,POL,FRA,29,8.0,13.0,8.0
+595,1974.0,15 Jun 1974 - 18:00 ,Group 4,Neckarstadion,Stuttgart ,Poland,3.0,2.0,Argentina,H,Poland, ,1952.0,POL,ARG,22,8.0,15.0,8.0
+596,1978.0,18 Jun 1978 - 13:45 ,Group B,San Martin,Mendoza ,Poland,1.0,0.0,Peru,H,Poland, ,2450.0,POL,PER,13,8.0,20.0,8.0
+597,1982.0,22 Jun 1982 - 17:15 ,Group 1,Riazor,La Coru�A ,Poland,5.0,1.0,Peru,H,Poland, ,1055.0,POL,PER,23,8.0,20.0,8.0
+598,1978.0,06 Jun 1978 - 16:45 ,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Poland,1.0,0.0,Tunisia,H,Poland, ,2454.0,POL,TUN,18,8.0,21.0,8.0
+599,2002.0,14 Jun 2002 - 20:30 ,Group D,Daejeon World Cup Stadium,Daejeon ,Poland,3.0,1.0,USA,H,Poland, ,43950048.0,POL,USA,23,8.0,8.55,8.0
+600,1974.0,23 Jun 1974 - 16:00 ,Group 4,Neckarstadion,Stuttgart ,Poland,2.0,1.0,Italy,H,Poland, ,2129.0,POL,ITA,22,8.0,13.0,8.0
+601,1974.0,06 Jul 1974 - 16:00 ,Match for third place,Olympiastadion,Munich ,Brazil,0.0,1.0,Poland,A,Poland, ,1984.0,BRA,POL,20,25.0,8.0,8.0
+602,1974.0,26 Jun 1974 - 19:30 ,Group B,Neckarstadion,Stuttgart ,Sweden,0.0,1.0,Poland,A,Poland, ,2167.0,SWE,POL,22,3.0,8.0,8.0
+603,1974.0,19 Jun 1974 - 19:30 ,Group 4,Olympiastadion,Munich ,Haiti,0.0,7.0,Poland,A,Poland, ,2085.0,HAI,POL,20,27.0,8.0,8.0
+604,2006.0,20 Jun 2006 - 16:00 ,Group A,"FIFA World Cup Stadium, Hanover",Hanover ,Costa Rica,1.0,2.0,Poland,A,Poland, ,97410034.0,CRC,POL,21,26.0,8.0,8.0
+605,2014.0,29 Jun 2014 - 13:00 ,Round of 16,Estadio Castelao,Fortaleza ,Netherlands,2.0,1.0,Mexico,H,Netherlands, ,300186508.0,NED,MEX,28,10.0,21.0,10.0
+606,1994.0,20 Jun 1994 - 19:30 ,Group F,RFK Stadium,Washington Dc ,Netherlands,2.0,1.0,Saudi Arabia,H,Netherlands, ,3058.0,NED,KSA,36,10.0,26.0,10.0
+607,2010.0,14 Jun 2010 - 13:30 ,Group E,Soccer City Stadium,Johannesburg ,Netherlands,2.0,0.0,Denmark,H,Netherlands, ,300061478.0,NED,DEN,22,10.0,-16.0,10.0
+608,1998.0,20 Jun 1998 - 21:00 ,Group E,Stade V�lodrome,Marseilles ,Netherlands,5.0,0.0,Korea Republic,H,Netherlands, ,8749.0,NED,KOR,25,10.0,11.5,10.0
+609,1978.0,03 Jun 1978 - 16:45 ,Group 4,San Martin,Mendoza ,Netherlands,3.0,0.0,Iran,H,Netherlands, ,2388.0,NED,IRN,13,10.0,19.0,10.0
+610,1998.0,29 Jun 1998 - 21:00 ,Round of 16,Stade Municipal,Toulouse ,Netherlands,2.0,1.0,Yugoslavia,H,Netherlands, ,8778.0,NED,YUG,30,10.0,8.9,10.0
+611,1974.0,03 Jul 1974 - 19:30 ,Group A,Westfalenstadion,Dortmund ,Netherlands,2.0,0.0,Brazil,H,Netherlands, ,1983.0,NED,BRA,22,10.0,25.0,10.0
+612,2010.0,02 Jul 2010 - 16:00 ,Quarter-finals,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Netherlands,2.0,1.0,Brazil,H,Netherlands, ,300061507.0,NED,BRA,13,10.0,25.0,10.0
+613,1974.0,26 Jun 1974 - 19:30 ,Group A,Parkstadion,Gelsenkirchen ,Netherlands,4.0,0.0,Argentina,H,Netherlands, ,1948.0,NED,ARG,22,10.0,15.0,10.0
+614,1998.0,04 Jul 1998 - 16:30 ,Quarter-finals,Stade V�lodrome,Marseilles ,Netherlands,2.0,1.0,Argentina,H,Netherlands, ,8784.0,NED,ARG,25,10.0,15.0,10.0
+615,2014.0,23 Jun 2014 - 13:00 ,Group B,Arena de Sao Paulo,Sao Paulo ,Netherlands,2.0,0.0,Chile,H,Netherlands, ,300186470.0,NED,CHI,26,10.0,9.0,10.0
+616,1978.0,21 Jun 1978 - 13:45 ,Group A,El Monumental - Estadio Monumental Antonio Vespuci,Buenos Aires ,Netherlands,2.0,1.0,Italy,H,Netherlands, ,2391.0,NED,ITA,19,10.0,13.0,10.0
+617,1974.0,15 Jun 1974 - 16:00 ,Group 3,Niedersachsenstadion,Hanover ,Uruguay,0.0,2.0,Netherlands,A,Netherlands, ,2098.0,URU,NED,21,17.0,10.0,10.0
+618,2010.0,06 Jul 2010 - 20:30 ,Semi-finals,Cape Town Stadium,Cape Town ,Uruguay,2.0,3.0,Netherlands,A,Netherlands, ,300061512.0,URU,NED,19,17.0,10.0,10.0
+619,2014.0,12 Jul 2014 - 17:00 ,Play-off for third place,Estadio Nacional,Brasilia ,Brazil,0.0,3.0,Netherlands,A,Netherlands, ,300186502.0,BRA,NED,28,25.0,10.0,10.0
+620,1974.0,30 Jun 1974 - 16:00 ,Group A,Parkstadion,Gelsenkirchen ,Germany,0.0,2.0,Netherlands,A,Netherlands, ,2067.0,GDR,NED,22,9.0,10.0,10.0
+621,2014.0,13 Jun 2014 - 16:00 ,Group B,Arena Fonte Nova,Salvador ,Spain,1.0,5.0,Netherlands,A,Netherlands, ,300186510.0,ESP,NED,25,14.0,10.0,10.0
+622,1974.0,23 Jun 1974 - 16:00 ,Group 3,Westfalenstadion,Dortmund ,Bulgaria,1.0,4.0,Netherlands,A,Netherlands, ,1990.0,BUL,NED,22,11.0,10.0,10.0
+623,2014.0,18 Jun 2014 - 13:00 ,Group B,Estadio Beira-Rio,Porto Alegre ,Australia,2.0,3.0,Netherlands,A,Netherlands, ,300186478.0,AUS,NED,21,22.0,10.0,10.0
+624,1994.0,29 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Morocco,1.0,2.0,Netherlands,A,Netherlands, ,3081.0,MAR,NED,35,18.0,10.0,10.0
+625,2010.0,24 Jun 2010 - 20:30 ,Group E,Cape Town Stadium,Cape Town ,Cameroon,1.0,2.0,Netherlands,A,Netherlands, ,300061473.0,CMR,NED,19,25.0,10.0,10.0
+626,2006.0,11 Jun 2006 - 15:00 ,Group C,Zentralstadion,Leipzig ,Serbia,0.0,1.0,Netherlands,A,Netherlands, ,97410006.0,SCG,NED,22,11.0,10.0,10.0
+627,2010.0,19 Jun 2010 - 13:30 ,Group E,Durban Stadium,Durban ,Netherlands,1.0,0.0,Japan,H,Netherlands, ,300111117.0,NED,JPN,22,10.0,12.0,10.0
+628,2006.0,16 Jun 2006 - 18:00 ,Group C,Gottlieb-Daimler-Stadion,Stuttgart ,Netherlands,2.0,1.0,Ivory Coast,H,Netherlands, ,97410022.0,NED,CIV,22,10.0,26.35,10.0
+629,1978.0,14 Jun 1978 - 13:45 ,Group A,Estadio Ol�mpico Chateau Carreras,Cordoba ,Netherlands,5.0,1.0,Austria,H,Netherlands, ,2220.0,NED,AUT,16,10.0,7.0,10.0
+630,1994.0,04 Jul 1994 - 12:00 ,Round of 16,Citrus Bowl,Orlando ,Netherlands,2.0,0.0,Republic of Ireland,H,Netherlands, ,3089.0,NED,IRL,35,10.0,9.3,10.0
+631,2010.0,28 Jun 2010 - 16:00 ,Round of 16,Durban Stadium,Durban ,Netherlands,2.0,1.0,Slovakia,H,Netherlands, ,300111113.0,NED,SVK,22,10.0,8.0,10.0
+632,1978.0,02 Jun 1978 - 16:45 ,Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,Rosario ,Tunisia,3.0,1.0,Mexico,H,Tunisia, ,2433.0,TUN,MEX,18,21.0,21.0,21.0
+633,1994.0,19 Jun 1994 - 16:00 ,Group E,RFK Stadium,Washington Dc ,Norway,1.0,0.0,Mexico,H,Norway, ,3055.0,NOR,MEX,36,1.0,21.0,1.0
+634,1998.0,23 Jun 1998 - 21:00 ,Group A,Stade V�lodrome,Marseilles ,Brazil,1.0,2.0,Norway,A,Norway, ,8759.0,BRA,NOR,25,25.0,1.0,1.0
+635,1930.0,13 Jul 1930 - 15:00 ,Group 4,Parque Central,Montevideo ,USA,3.0,0.0,Belgium,H,USA, ,1090.0,USA,BEL,11,8.55,10.0,8.55
+636,1930.0,17 Jul 1930 - 14:45 ,Group 4,Parque Central,Montevideo ,USA,3.0,0.0,Paraguay,H,USA, ,1097.0,USA,PAR,11,8.55,23.0,8.55
+637,1950.0,29 Jun 1950 - 15:00 ,Group 2,Independencia,Belo Horizonte ,USA,1.0,0.0,England,H,USA, ,1202.0,USA,ENG,28,8.55,8.45,8.55
+638,1994.0,22 Jun 1994 - 19:30 ,Group A,Rose Bowl,Los Angeles ,USA,2.0,1.0,Colombia,H,USA, ,3063.0,USA,COL,33,8.55,25.0,8.55
+639,2002.0,05 Jun 2002 - 18:00 ,Group D,Suwon World Cup Stadium,Suwon ,USA,3.0,2.0,Portugal,H,USA, ,43950016.0,USA,POR,22,8.55,15.0,8.55
+640,2010.0,23 Jun 2010 - 16:00 ,Group C,Loftus Versfeld Stadium,Tshwane/Pretoria ,USA,1.0,0.0,Algeria,H,USA, ,300061461.0,USA,ALG,26,8.55,24.0,8.55
+641,2002.0,17 June 2002 - 15:30 ,Round of 16,Jeonju World Cup Stadium,Jeonju ,Mexico,0.0,2.0,USA,A,USA, ,43950053.0,MEX,USA,27,21.0,8.55,8.55
+642,2014.0,16 Jun 2014 - 19:00 ,Group G,Estadio das Dunas,Natal ,Ghana,1.0,2.0,USA,A,USA, ,300186512.0,GHA,USA,29,27.0,8.55,8.55
+643,1982.0,13 Jun 1982 - 20:00 ,Group 3,Camp Nou,Barcelona ,Argentina,0.0,1.0,Belgium,A,Belgium, ,749.0,ARG,BEL,30,15.0,10.0,10.0
+644,1986.0,15 Jun 1986 - 16:00 ,Round of 16,Nou Camp - Estadio Le�n,Leon ,Russia,3.0,4.0,Belgium,A,Belgium,Belgium win after extra time ,432.0,URS,BEL,28,-3.0,10.0,10.0
+645,2014.0,26 Jun 2014 - 17:00 ,Group H,Arena de Sao Paulo,Sao Paulo ,Korea Republic,0.0,1.0,Belgium,A,Belgium, ,300186480.0,KOR,BEL,26,11.5,10.0,10.0
+646,1986.0,08 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Iraq,1.0,2.0,Belgium,A,Belgium, ,427.0,IRQ,BEL,19,23.0,10.0,10.0
+647,2002.0,14 Jun 2002 - 15:30 ,Group H,Shizuoka Stadium Ecopa,Shizuoka ,Belgium,3.0,2.0,Russia,H,Belgium, ,43950046.0,BEL,RUS,26,10.0,-3.0,10.0
+648,2014.0,22 Jun 2014 - 13:00 ,Group H,Estadio do Maracana,Rio De Janeiro ,Belgium,1.0,0.0,Russia,H,Belgium, ,300186481.0,BEL,RUS,30,10.0,-3.0,10.0
+649,1990.0,17 Jun 1990 - 21:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,3.0,1.0,Uruguay,H,Belgium, ,66.0,BEL,URU,25,10.0,17.0,10.0
+650,1990.0,12 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,2.0,0.0,Korea Republic,H,Belgium, ,57.0,BEL,KOR,25,10.0,11.5,10.0
+651,2014.0,17 Jun 2014 - 13:00 ,Group H,Estadio Mineirao,Belo Horizonte ,Belgium,2.0,1.0,Algeria,H,Belgium, ,300186479.0,BEL,ALG,28,10.0,24.0,10.0
+652,2014.0,01 Jul 2014 - 17:00 ,Round of 16,Arena Fonte Nova,Salvador ,Belgium,2.0,1.0,USA,H,Belgium,Belgium win after extra time ,300186497.0,BEL,USA,25,10.0,8.55,10.0
+653,1994.0,25 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Belgium,1.0,0.0,Netherlands,H,Belgium, ,3069.0,BEL,NED,35,10.0,10.0,10.0
+654,1970.0,03 Jun 1970 - 16:00 ,Group 1,Estadio Azteca,Mexico City ,Belgium,3.0,0.0,El Salvador,H,Belgium, ,1747.0,BEL,SLV,25,10.0,25.0,10.0
+655,1982.0,19 Jun 1982 - 21:00 ,Group 3,Nuevo Estadio,Elche ,Belgium,1.0,0.0,El Salvador,H,Belgium, ,774.0,BEL,SLV,31,10.0,25.0,10.0
+656,1994.0,19 Jun 1994 - 12:30 ,Group F,Citrus Bowl,Orlando ,Belgium,1.0,0.0,Morocco,H,Belgium, ,3054.0,BEL,MAR,35,10.0,18.0,10.0
+657,1930.0,20 Jul 1930 - 15:00 ,Group 4,Estadio Centenario,Montevideo ,Paraguay,1.0,0.0,Belgium,H,Paraguay, ,1089.0,PAR,BEL,11,23.0,10.0,23.0
+658,1998.0,24 Jun 1998 - 21:00 ,Group D,Stade Municipal,Toulouse ,Nigeria,1.0,3.0,Paraguay,A,Paraguay, ,8763.0,NGA,PAR,30,27.0,23.0,23.0
+659,2002.0,12 Jun 2002 - 20:30 ,Group B,Jeju World Cup Stadium,Jeju ,Slovenia,1.0,3.0,Paraguay,A,Paraguay, ,43950040.0,SVN,PAR,28,10.0,23.0,23.0
+660,2010.0,20 Jun 2010 - 13:30 ,Group F,Free State Stadium,Mangaung/Bloemfontein ,Slovakia,0.0,2.0,Paraguay,A,Paraguay, ,300061481.0,SVK,PAR,22,8.0,23.0,23.0
+661,1958.0,11 Jun 1958 - 19:00 ,Group 2,Idrottsparken,Norrk�Ping ,Paraguay,3.0,2.0,Scotland,H,Paraguay, ,1423.0,PAR,SCO,29,23.0,8.45,23.0
+662,1986.0,04 Jun 1986 - 12:00 ,Group B,Bombonera - Estadio Nemesio Diez,Toluca ,Paraguay,1.0,0.0,Iraq,H,Paraguay, ,628.0,PAR,IRQ,19,23.0,23.0,23.0
+663,2006.0,20 Jun 2006 - 21:00 ,Group B,Fritz-Walter-Stadion,Kaiserslautern ,Paraguay,2.0,0.0,Trinidad and Tobago,H,Paraguay, ,97410036.0,PAR,TRI,21,23.0,25.75,23.0
+664,1970.0,06 Jun 1970 - 16:00 ,Group 1,Estadio Azteca,Mexico City ,Russia,4.0,1.0,Belgium,H,Russia, ,1753.0,URS,BEL,25,-3.0,10.0,-3.0
+665,1966.0,23 Jul 1966 - 15:00 ,Quarter-finals,Roker Park Ground,Sunderland ,Russia,2.0,1.0,Hungary,H,Russia, ,1676.0,URS,HUN,18,-3.0,11.0,-3.0
+666,1986.0,02 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Russia,6.0,0.0,Hungary,H,Russia, ,610.0,URS,HUN,31,-3.0,11.0,-3.0
+667,1982.0,01 Jul 1982 - 21:00 ,Group 1,Camp Nou,Barcelona ,Belgium,0.0,1.0,Russia,A,Russia, ,783.0,BEL,URS,30,10.0,-3.0,-3.0
+668,1990.0,18 Jun 1990 - 21:00 ,Group B,Stadio San Nicola,Bari ,Cameroon,0.0,4.0,Russia,A,Russia, ,111.0,CMR,URS,29,25.0,-3.0,-3.0
+669,1962.0,06 Jun 1962 - 15:00 ,Group 1,Carlos Dittborn,Arica ,Russia,2.0,1.0,Uruguay,H,Russia, ,1562.0,URS,URU,17,-3.0,17.0,-3.0
+670,1966.0,12 Jul 1966 - 19:30 ,Group 4,Ayresome Park,Middlesbrough ,Russia,3.0,0.0,Korea Republic,H,Russia, ,1710.0,URS,PRK,17,-3.0,11.5,-3.0
+671,1958.0,17 Jun 1958 - 19:00 ,Group 4,Nya Ullevi,Gothenburg ,Russia,1.0,0.0,England,H,Russia, ,1373.0,URS,ENG,21,-3.0,8.45,-3.0
+672,1962.0,31 May 1962 - 15:00 ,Group 1,Carlos Dittborn,Arica ,Russia,2.0,0.0,Yugoslavia,H,Russia, ,1563.0,URS,YUG,17,-3.0,8.9,-3.0
+673,2002.0,05 Jun 2002 - 15:30 ,Group H,Kobe Wing Stadium,Kobe ,Russia,2.0,0.0,Tunisia,H,Russia, ,43950015.0,RUS,TUN,25,-3.0,21.0,-3.0
+674,1966.0,20 Jul 1966 - 19:30 ,Group 4,Roker Park Ground,Sunderland ,Russia,2.0,1.0,Chile,H,Russia, ,1610.0,URS,CHI,18,-3.0,9.0,-3.0
+675,1966.0,16 Jul 1966 - 15:00 ,Group 4,Roker Park Ground,Sunderland ,Russia,1.0,0.0,Italy,H,Russia, ,1682.0,URS,ITA,18,-3.0,13.0,-3.0
+676,1970.0,10 Jun 1970 - 16:00 ,Group 1,Estadio Azteca,Mexico City ,Russia,2.0,0.0,El Salvador,H,Russia, ,1823.0,URS,SLV,25,-3.0,25.0,-3.0
+677,1994.0,28 Jun 1994 - 16:00 ,Group B,Stanford Stadium,San Francisco ,Russia,6.0,1.0,Cameroon,H,Russia, ,3079.0,RUS,CMR,23,-3.0,25.0,-3.0
+678,1958.0,11 Jun 1958 - 19:00 ,Group 4,Ryavallen,Boras ,Russia,2.0,0.0,Austria,H,Russia, ,1332.0,URS,AUT,24,-3.0,7.0,-3.0
+679,1982.0,19 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Russia,3.0,0.0,New Zealand,H,Russia, ,1054.0,URS,NZL,32,-3.0,10.0,-3.0
+680,1986.0,09 Jun 1986 - 12:00 ,Group C,Estadio Irapuato,Irapuato ,Russia,2.0,0.0,Canada,H,Russia, ,476.0,URS,CAN,31,-3.0,-3.0,-3.0
+681,1954.0,19 Jun 1954 - 16:50 ,Group 3,St. Jakob,Basel ,Uruguay,7.0,0.0,Scotland,H,Uruguay, ,1313.0,URU,SCO,23,17.0,8.45,17.0
+682,1954.0,16 Jun 1954 - 18:00 ,Group 3,Wankdorf Stadium,Berne ,Uruguay,2.0,0.0,Czech Republic,H,Uruguay, ,1315.0,URU,TCH,23,17.0,8.0,17.0
+683,1970.0,14 Jun 1970 - 12:00 ,Quarter-finals,Estadio Azteca,Mexico City ,Uruguay,1.0,0.0,Russia,H,Uruguay,Uruguay win after extra time ,1925.0,URU,URS,25,17.0,-3.0,17.0
+684,2014.0,24 Jun 2014 - 13:00 ,Group D,Estadio das Dunas,Natal ,Italy,0.0,1.0,Uruguay,A,Uruguay, ,300186465.0,ITA,URU,29,13.0,17.0,17.0
+685,2010.0,22 Jun 2010 - 16:00 ,Group A,Royal Bafokeng Sports Palace,Phokeng ,Mexico,0.0,1.0,Uruguay,A,Uruguay, ,300061450.0,MEX,URU,23,21.0,17.0,17.0
+686,1990.0,21 Jun 1990 - 17:00 ,Group E,Friuli,Udine ,Korea Republic,0.0,1.0,Uruguay,A,Uruguay, ,290.0,KOR,URU,24,11.5,17.0,17.0
+687,2010.0,16 Jun 2010 - 20:30 ,Group A,Loftus Versfeld Stadium,Tshwane/Pretoria ,South Africa,0.0,3.0,Uruguay,A,Uruguay, ,300061452.0,RSA,URU,26,17.0,17.0,17.0
+688,2010.0,26 Jun 2010 - 16:00 ,Round of 16,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Uruguay,2.0,1.0,Korea Republic,H,Uruguay, ,300061504.0,URU,KOR,13,17.0,11.5,17.0
+689,1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,St. Jakob,Basel ,Uruguay,4.0,2.0,England,H,Uruguay, ,1264.0,URU,ENG,23,17.0,8.45,17.0
+690,2014.0,19 Jun 2014 - 16:00 ,Group D,Arena de Sao Paulo,Sao Paulo ,Uruguay,2.0,1.0,England,H,Uruguay, ,300186486.0,URU,ENG,26,17.0,8.45,17.0
+691,1962.0,30 May 1962 - 15:00 ,Group 1,Carlos Dittborn,Arica ,Uruguay,2.0,1.0,Colombia,H,Uruguay, ,1479.0,URU,COL,17,17.0,25.0,17.0
+692,1930.0,21 Jul 1930 - 14:50 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,4.0,0.0,Romania,H,Uruguay, ,1100.0,URU,ROU,11,17.0,10.0,17.0
+693,1930.0,27 Jul 1930 - 14:45 ,Semi-finals,Estadio Centenario,Montevideo ,Uruguay,6.0,1.0,Yugoslavia,H,Uruguay, ,1101.0,URU,YUG,11,17.0,8.9,17.0
+694,1950.0,16 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Uruguay,2.0,1.0,Brazil,H,Uruguay, ,1190.0,URU,BRA,30,17.0,25.0,17.0
+695,1950.0,02 Jul 1950 - 15:00 ,Group 4,Independencia,Belo Horizonte ,Uruguay,8.0,0.0,Bolivia,H,Uruguay, ,1185.0,URU,BOL,28,17.0,21.0,17.0
+696,1966.0,15 Jul 1966 - 19:30 ,Group 1,White City,London ,Uruguay,2.0,1.0,France,H,Uruguay, ,1653.0,URU,FRA,24,17.0,13.0,17.0
+697,1930.0,30 Jul 1930 - 14:15 ,Final,Estadio Centenario,Montevideo ,Uruguay,4.0,2.0,Argentina,H,Uruguay, ,1087.0,URU,ARG,11,17.0,15.0,17.0
+698,1930.0,18 Jul 1930 - 14:30 ,Group 3,Estadio Centenario,Montevideo ,Uruguay,1.0,0.0,Peru,H,Uruguay, ,1099.0,URU,PER,11,17.0,20.0,17.0
+699,1950.0,13 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Uruguay,3.0,2.0,Sweden,H,Uruguay, ,1231.0,URU,SWE,26,17.0,3.0,17.0
+700,1970.0,02 Jun 1970 - 16:00 ,Group 2,Cuauhtemoc,Puebla ,Uruguay,2.0,0.0,Israel,H,Uruguay, ,1881.0,URU,ISR,24,17.0,20.0,17.0
+701,1954.0,16 Jun 1954 - 18:00 ,Group 3,Hardturm,Zurich ,Austria,1.0,0.0,Scotland,H,Austria, ,1236.0,AUT,SCO,23,7.0,8.45,7.0
+702,1978.0,21 Jun 1978 - 13:45 ,Group A,Estadio Ol�mpico Chateau Carreras,Cordoba ,Austria,3.0,2.0,Germany,H,Austria, ,2217.0,AUT,FRG,16,7.0,9.0,7.0
+703,1934.0,31 May 1934 - 16:30 ,Quarter-finals,Littorale,Bologna ,Austria,2.0,1.0,Hungary,H,Austria, ,1106.0,AUT,HUN,26,7.0,11.0,7.0
+704,1954.0,19 Jun 1954 - 17:00 ,Group 3,Hardturm,Zurich ,Austria,5.0,0.0,Czech Republic,H,Austria, ,1238.0,AUT,TCH,23,7.0,8.0,7.0
+705,1954.0,03 Jul 1954 - 17:00 ,Match for third place,Hardturm,Zurich ,Austria,3.0,1.0,Uruguay,H,Austria, ,1239.0,AUT,URU,23,7.0,17.0,7.0
+706,1954.0,26 Jun 1954 - 17:00 ,Quarter-finals,La Pontaise,Lausanne ,Austria,7.0,5.0,Switzerland,H,Austria, ,1237.0,AUT,SUI,22,7.0,8.0,7.0
+707,1934.0,27 May 1934 - 16:30 ,Preliminary round,Stadio Benito Mussolini,Turin ,Austria,3.0,2.0,France,H,Austria,Austria win after extra time ,1104.0,AUT,FRA,31,7.0,13.0,7.0
+708,1978.0,07 Jun 1978 - 13:45 ,Group 3,Jose Amalfitani,Buenos Aires ,Austria,1.0,0.0,Sweden,H,Austria, ,2224.0,AUT,SWE,19,7.0,3.0,7.0
+709,1990.0,19 Jun 1990 - 21:00 ,Group A,Comunale,Florence ,Austria,2.0,1.0,USA,H,Austria, ,48.0,AUT,USA,33,7.0,8.55,7.0
+710,1978.0,03 Jun 1978 - 13:45 ,Group 3,Jose Amalfitani,Buenos Aires ,Austria,2.0,1.0,Spain,H,Austria, ,2216.0,AUT,ESP,19,7.0,14.0,7.0
+711,1982.0,17 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Chile,0.0,1.0,Austria,A,Austria, ,764.0,CHI,AUT,24,9.0,7.0,7.0
+712,1982.0,21 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,0.0,2.0,Austria,A,Austria, ,739.0,ALG,AUT,24,24.0,7.0,7.0
+713,1990.0,16 Jun 1990 - 21:00 ,Group C,Luigi Ferraris,Genoa ,Sweden,1.0,2.0,Scotland,A,Scotland, ,348.0,SWE,SCO,30,3.0,8.45,8.45
+714,1974.0,14 Jun 1974 - 19:30 ,Group 2,Westfalenstadion,Dortmund ,Zaire,0.0,2.0,Scotland,A,Scotland, ,2176.0,ZAI,SCO,22,21.4,8.45,8.45
+715,1978.0,11 Jun 1978 - 16:45 ,Group 4,San Martin,Mendoza ,Scotland,3.0,2.0,Netherlands,H,Scotland, ,2395.0,SCO,NED,13,8.45,10.0,8.45
+716,1982.0,15 Jun 1982 - 21:00 ,Group 6,La Rosaleda,Malaga ,Scotland,5.0,2.0,New Zealand,H,Scotland, ,1051.0,SCO,NZL,32,8.45,10.0,8.45
+717,1978.0,03 Jun 1978 - 16:45 ,Group 4,Estadio Ol�mpico Chateau Carreras,Cordoba ,Peru,3.0,1.0,Scotland,H,Peru, ,2451.0,PER,SCO,16,20.0,8.45,20.0
+718,1978.0,11 Jun 1978 - 16:45 ,Group 4,Estadio Ol�mpico Chateau Carreras,Cordoba ,Peru,4.0,1.0,Iran,H,Peru, ,2405.0,PER,IRN,16,20.0,19.0,20.0
+719,1970.0,02 Jun 1970 - 16:00 ,Group 4,Nou Camp - Estadio Le�n,Leon ,Peru,3.0,2.0,Bulgaria,H,Peru, ,1780.0,PER,BUL,28,20.0,11.0,20.0
+720,1970.0,06 Jun 1970 - 16:00 ,Group 4,Nou Camp - Estadio Le�n,Leon ,Peru,3.0,0.0,Morocco,H,Peru, ,1893.0,PER,MAR,28,20.0,18.0,20.0
+721,1990.0,11 Jun 1990 - 17:00 ,Group C,Luigi Ferraris,Genoa ,Costa Rica,1.0,0.0,Scotland,H,Costa Rica, ,127.0,CRC,SCO,30,26.0,8.45,26.0
+722,2014.0,14 Jun 2014 - 16:00 ,Group D,Estadio Castelao,Fortaleza ,Uruguay,1.0,3.0,Costa Rica,A,Costa Rica, ,300186489.0,URU,CRC,28,17.0,26.0,26.0
+723,1990.0,20 Jun 1990 - 21:00 ,Group C,Luigi Ferraris,Genoa ,Sweden,1.0,2.0,Costa Rica,A,Costa Rica, ,128.0,SWE,CRC,30,3.0,26.0,26.0
+724,2014.0,20 Jun 2014 - 13:00 ,Group D,Arena Pernambuco,Recife ,Italy,0.0,1.0,Costa Rica,A,Costa Rica, ,300186500.0,ITA,CRC,28,13.0,26.0,26.0
+725,2002.0,04 June 2002 - 15:30 ,Group C,Gwangju World Cup Stadium,Gwangju ,China PR,0.0,2.0,Costa Rica,A,Costa Rica, ,43950012.0,CHN,CRC,27,6.95,26.0,26.0
+726,1934.0,03 Jun 1934 - 16:30 ,Semi-finals,Nazionale PNF,Rome ,Czech Republic,3.0,1.0,Germany,H,Czech Republic, ,1130.0,TCH,GER,29,8.0,9.0,8.0
+727,1962.0,10 Jun 1962 - 14:30 ,Quarter-finals,Estadio El Teniente-Codelco,Rancagua ,Czech Republic,1.0,0.0,Hungary,H,Czech Republic, ,1525.0,TCH,HUN,15,8.0,11.0,8.0
+728,1990.0,10 Jun 1990 - 17:00 ,Group A,Comunale,Florence ,USA,1.0,5.0,Czech Republic,A,Czech Republic, ,355.0,USA,TCH,33,8.55,8.0,8.0
+729,2006.0,12 Jun 2006 - 18:00 ,Group E,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,USA,0.0,3.0,Czech Republic,A,Czech Republic, ,97410010.0,USA,CZE,22,8.55,8.0,8.0
+730,1990.0,15 Jun 1990 - 17:00 ,Group A,Comunale,Florence ,Austria,0.0,1.0,Czech Republic,A,Czech Republic, ,43.0,AUT,TCH,33,7.0,8.0,8.0
+731,1934.0,31 May 1934 - 16:30 ,Quarter-finals,Stadio Benito Mussolini,Turin ,Czech Republic,3.0,2.0,Switzerland,H,Czech Republic, ,1143.0,TCH,SUI,31,8.0,8.0,8.0
+732,1934.0,27 May 1934 - 16:30 ,Preliminary round,Littorio,Trieste ,Czech Republic,2.0,1.0,Romania,H,Czech Republic, ,1141.0,TCH,ROU,26,8.0,10.0,8.0
+733,1962.0,13 Jun 1962 - 14:30 ,Semi-finals,Estadio Sausalito,Vina Del Mar ,Czech Republic,3.0,1.0,Yugoslavia,H,Czech Republic, ,1559.0,TCH,YUG,17,8.0,8.9,8.0
+734,1958.0,15 Jun 1958 - 19:00 ,Group 1,Olympia Stadium,Helsingborg ,Czech Republic,6.0,1.0,Argentina,H,Czech Republic, ,1325.0,TCH,ARG,21,8.0,15.0,8.0
+735,1962.0,31 May 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Czech Republic,1.0,0.0,Spain,H,Czech Republic, ,1498.0,TCH,ESP,17,8.0,14.0,8.0
+736,1938.0,05 Jun 1938 - 18:30 ,First round,Cavee Verte,Le Havre ,Czech Republic,3.0,0.0,Netherlands,H,Czech Republic,Czech Republic win after extra time ,1172.0,TCH,NED,18,8.0,10.0,8.0
+737,1990.0,23 Jun 1990 - 21:00 ,Round of 16,Stadio San Nicola,Bari ,Czech Republic,4.0,1.0,Costa Rica,H,Czech Republic, ,129.0,TCH,CRC,29,8.0,26.0,8.0
+738,1994.0,10 Jul 1994 - 12:00 ,Quarter-finals,Giants Stadium,New York/New Jersey ,Bulgaria,2.0,1.0,Germany,H,Bulgaria, ,3096.0,BUL,GER,34,11.0,9.0,11.0
+739,1994.0,30 Jun 1994 - 19:30 ,Group D,Cotton Bowl,Dallas ,Argentina,0.0,2.0,Bulgaria,A,Bulgaria, ,3084.0,ARG,BUL,34,15.0,11.0,11.0
+740,1994.0,26 Jun 1994 - 12:30 ,Group D,Soldier Field,Chicago ,Bulgaria,4.0,0.0,Greece,H,Bulgaria, ,3072.0,BUL,GRE,30,11.0,15.0,11.0
+741,1986.0,13 Jun 1986 - 12:00 ,Group E,Estadio Corregidora,Queretaro ,Denmark,2.0,0.0,Germany,H,Denmark, ,512.0,DEN,FRG,24,-16.0,9.0,-16.0
+742,2002.0,01 Jun 2002 - 18:00 ,Group A,Munsu Football Stadium,Ulsan ,Uruguay,1.0,2.0,Denmark,A,Denmark, ,43950003.0,URU,DEN,25,17.0,-16.0,-16.0
+743,1986.0,04 Jun 1986 - 16:00 ,Group E,Neza,Nezahualcoyotl ,Scotland,0.0,1.0,Denmark,A,Denmark, ,517.0,SCO,DEN,25,8.45,-16.0,-16.0
+744,2010.0,19 Jun 2010 - 20:30 ,Group E,Loftus Versfeld Stadium,Tshwane/Pretoria ,Cameroon,1.0,2.0,Denmark,A,Denmark, ,300061475.0,CMR,DEN,26,25.0,-16.0,-16.0
+745,1998.0,28 Jun 1998 - 21:00 ,Round of 16,Stade de France,Saint-Denis ,Nigeria,1.0,4.0,Denmark,A,Denmark, ,8775.0,NGA,DEN,22,27.0,-16.0,-16.0
+746,1998.0,12 Jun 1998 - 17:30 ,Group C,Stade Felix Bollaert,Lens ,Saudi Arabia,0.0,1.0,Denmark,A,Denmark, ,8729.0,KSA,DEN,22,26.0,-16.0,-16.0
+747,1986.0,08 Jun 1986 - 16:00 ,Group E,Neza,Nezahualcoyotl ,Denmark,6.0,1.0,Uruguay,H,Denmark, ,522.0,DEN,URU,25,-16.0,17.0,-16.0
+748,2002.0,11 Jun 2002 - 15:30 ,Group A,Incheon Football Stadium,Incheon ,Denmark,2.0,0.0,France,H,Denmark, ,43950033.0,DEN,FRA,27,-16.0,13.0,-16.0
+749,1958.0,17 Jun 1958 - 19:00 ,Group 3,Rasunda Stadium,Solna ,Wales,2.0,1.0,Hungary,H,Wales, ,1408.0,WAL,HUN,21,8.45,11.0,8.45
+750,1970.0,06 Jun 1970 - 16:00 ,Group 3,Jalisco,Guadalajara ,Romania,2.0,1.0,Czech Republic,H,Romania, ,1919.0,ROU,TCH,28,10.0,8.0,10.0
+751,1998.0,22 Jun 1998 - 21:00 ,Group G,Stade Municipal,Toulouse ,Romania,2.0,1.0,England,H,Romania, ,8756.0,ROU,ENG,30,10.0,8.45,10.0
+752,1998.0,15 Jun 1998 - 17:30 ,Group G,Stade de Gerland,Lyon ,Romania,1.0,0.0,Colombia,H,Romania, ,8739.0,ROU,COL,26,10.0,25.0,10.0
+753,1994.0,26 Jun 1994 - 16:00 ,Group A,Rose Bowl,Los Angeles ,USA,0.0,1.0,Romania,A,Romania, ,3073.0,USA,ROU,33,8.55,10.0,10.0
+754,1990.0,09 Jun 1990 - 17:00 ,Group B,Stadio San Nicola,Bari ,Russia,0.0,2.0,Romania,A,Romania, ,342.0,URS,ROU,29,-3.0,10.0,10.0
+755,1994.0,18 Jun 1994 - 19:30 ,Group A,Rose Bowl,Los Angeles ,Colombia,1.0,3.0,Romania,A,Romania, ,3053.0,COL,ROU,33,25.0,10.0,10.0
+756,1994.0,03 Jul 1994 - 13:30 ,Round of 16,Rose Bowl,Los Angeles ,Romania,3.0,2.0,Argentina,H,Romania, ,3088.0,ROU,ARG,33,10.0,15.0,10.0
+757,1930.0,14 Jul 1930 - 14:50 ,Group 3,Pocitos,Montevideo ,Romania,3.0,1.0,Peru,H,Romania, ,1098.0,ROU,PER,11,10.0,20.0,10.0
+758,1958.0,08 Jun 1958 - 19:00 ,Group 1,Orjans Vall,Halmstad ,Northern Ireland,1.0,0.0,Czech Republic,H,Northern Ireland, ,1421.0,NIR,TCH,20,9.3,8.0,9.3
+759,1958.0,17 Jun 1958 - 19:00 ,Group 1,Malmo Stadion,Malm� ,Northern Ireland,2.0,1.0,Czech Republic,H,Northern Ireland,Northern Ireland win after extra time ,1422.0,NIR,TCH,21,9.3,8.0,9.3
+760,1982.0,25 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Northern Ireland,1.0,0.0,Spain,H,Northern Ireland, ,902.0,NIR,ESP,27,9.3,14.0,9.3
+761,2002.0,09 Jun 2002 - 20:30 ,Group H,International Stadium Yokohama,Yokohama ,Japan,1.0,0.0,Russia,H,Japan, ,43950029.0,JPN,RUS,25,12.0,-3.0,12.0
+762,2010.0,14 Jun 2010 - 16:00 ,Group E,Free State Stadium,Mangaung/Bloemfontein ,Japan,1.0,0.0,Cameroon,H,Japan, ,300061477.0,JPN,CMR,22,12.0,25.0,12.0
+763,2002.0,14 Jun 2002 - 15:30 ,Group H,Osaka Nagai Stadium,Osaka ,Tunisia,0.0,2.0,Japan,A,Japan, ,43950045.0,TUN,JPN,27,21.0,12.0,12.0
+764,2010.0,24 Jun 2010 - 20:30 ,Group E,Royal Bafokeng Sports Palace,Phokeng ,Denmark,1.0,3.0,Japan,A,Japan, ,300061474.0,DEN,JPN,23,-16.0,12.0,12.0
+765,2010.0,22 Jun 2010 - 16:00 ,Group A,Free State Stadium,Mangaung/Bloemfontein ,France,1.0,2.0,South Africa,A,South Africa, ,300061449.0,FRA,RSA,22,13.0,17.0,17.0
+766,2002.0,08 Jun 2002 - 15:30 ,Group B,Daegu World Cup Stadium,Daegu ,South Africa,1.0,0.0,Slovenia,H,South Africa, ,43950024.0,RSA,SVN,28,17.0,10.0,17.0
+767,1994.0,29 Jun 1994 - 12:30 ,Group F,RFK Stadium,Washington Dc ,Belgium,0.0,1.0,Saudi Arabia,A,Saudi Arabia, ,3082.0,BEL,KSA,36,10.0,26.0,26.0
+768,1994.0,25 Jun 1994 - 12:30 ,Group F,Giants Stadium,New York/New Jersey ,Saudi Arabia,2.0,1.0,Morocco,H,Saudi Arabia, ,3070.0,KSA,MAR,34,26.0,18.0,26.0
+769,2002.0,06 Jun 2002 - 18:00 ,Group E,Saitama Stadium 2002,Saitama ,Cameroon,1.0,0.0,Saudi Arabia,H,Cameroon, ,43950019.0,CMR,KSA,29,25.0,26.0,25.0
+770,1990.0,23 Jun 1990 - 17:00 ,Round of 16,San Paolo,Naples ,Cameroon,2.0,1.0,Colombia,H,Cameroon,Cameroon win after extra time ,102.0,CMR,COL,29,25.0,25.0,25.0
+771,1990.0,14 Jun 1990 - 17:00 ,Group B,Stadio San Nicola,Bari ,Cameroon,2.0,1.0,Romania,H,Cameroon, ,108.0,CMR,ROU,29,25.0,10.0,25.0
+772,1990.0,08 Jun 1990 - 18:00 ,Group B,Giuseppe Meazza,Milan ,Argentina,0.0,1.0,Cameroon,A,Cameroon, ,26.0,ARG,CMR,29,15.0,25.0,25.0
+773,1998.0,30 Jun 1998 - 16:30 ,Round of 16,Stade du Parc Lescure,Bordeaux ,Romania,0.0,1.0,Croatia,A,Croatia, ,8780.0,ROU,CRO,32,10.0,12.0,12.0
+774,1998.0,04 Jul 1998 - 21:00 ,Quarter-finals,Stade de Gerland,Lyon ,Germany,0.0,3.0,Croatia,A,Croatia, ,8783.0,GER,CRO,26,9.0,12.0,12.0
+775,2002.0,08 June 2002 - 18:00 ,Group G,Kashima Stadium,Ibaraki ,Italy,1.0,2.0,Croatia,A,Croatia, ,43950025.0,ITA,CRO,26,13.0,12.0,12.0
+776,1998.0,11 Jul 1998 - 21:00 ,Match for third place,Parc des Princes,Paris ,Netherlands,1.0,2.0,Croatia,A,Croatia, ,8787.0,NED,CRO,25,10.0,12.0,12.0
+777,2014.0,18 Jun 2014 - 18:00 ,Group A,Arena Amazonia,Manaus ,Cameroon,0.0,4.0,Croatia,A,Croatia, ,300186453.0,CMR,CRO,31,25.0,12.0,12.0
+778,1998.0,14 Jun 1998 - 21:00 ,Group H,Stade Felix Bollaert,Lens ,Jamaica,1.0,3.0,Croatia,A,Croatia, ,8736.0,JAM,CRO,22,26.0,12.0,12.0
+779,1998.0,20 Jun 1998 - 14:30 ,Group H,La Beaujoire,Nantes ,Japan,0.0,1.0,Croatia,A,Croatia, ,8751.0,JPN,CRO,28,12.0,12.0,12.0
+780,2002.0,13 Jun 2002 - 20:30 ,Group G,International Stadium Yokohama,Yokohama ,Ecuador,1.0,0.0,Croatia,H,Ecuador, ,43950044.0,ECU,CRO,25,22.0,12.0,22.0
+781,2006.0,15 Jun 2006 - 15:00 ,Group A,"FIFA World Cup Stadium, Hamburg",Hamburg ,Ecuador,3.0,0.0,Costa Rica,H,Ecuador, ,97410018.0,ECU,CRC,22,22.0,26.0,22.0
+782,2006.0,09 Jun 2006 - 21:00 ,Group A,"FIFA World Cup Stadium, Gelsenkirchen",Gelsenkirchen ,Poland,0.0,2.0,Ecuador,A,Ecuador, ,97410002.0,POL,ECU,22,8.0,22.0,22.0
+783,2014.0,20 Jun 2014 - 19:00 ,Group E,Arena da Baixada,Curitiba ,Honduras,1.0,2.0,Ecuador,A,Ecuador, ,300186463.0,HON,ECU,23,25.0,22.0,22.0
+784,2002.0,31 May 2002 - 20:30 ,Group A,Seoul World Cup Stadium,Seoul ,France,0.0,1.0,Senegal,A,Senegal, ,43950001.0,FRA,SEN,29,13.0,28.0,28.0
+785,2002.0,16 Jun 2002 - 15:30 ,Round of 16,Oita Stadium Big Eye,Oita ,Sweden,1.0,2.0,Senegal,A,Senegal,Win on Golden Goal ,43950051.0,SWE,SEN,21,3.0,28.0,28.0
+786,2014.0,28 Jun 2014 - 17:00 ,Round of 16,Estadio do Maracana,Rio De Janeiro ,Colombia,2.0,0.0,Uruguay,H,Colombia, ,300186491.0,COL,URU,30,25.0,17.0,25.0
+787,1994.0,26 Jun 1994 - 16:00 ,Group A,Stanford Stadium,San Francisco ,Switzerland,0.0,2.0,Colombia,A,Colombia, ,3074.0,SUI,COL,23,8.0,25.0,25.0
+788,1990.0,09 Jun 1990 - 17:00 ,Group D,Renato Dall Ara,Bologna ,United Arab Emirates,0.0,2.0,Colombia,A,Colombia, ,119.0,UAE,COL,26,29.0,25.0,25.0
+789,2014.0,24 Jun 2014 - 16:00 ,Group C,Arena Pantanal,Cuiaba ,Japan,1.0,4.0,Colombia,A,Colombia, ,300186457.0,JPN,COL,36,12.0,25.0,25.0
+790,1998.0,22 Jun 1998 - 17:30 ,Group G,La Mosson,Montpellier ,Colombia,1.0,0.0,Tunisia,H,Colombia, ,8755.0,COL,TUN,32,25.0,21.0,25.0
+791,2014.0,14 Jun 2014 - 13:00 ,Group C,Estadio Mineirao,Belo Horizonte ,Colombia,3.0,0.0,Greece,H,Colombia, ,300186471.0,COL,GRE,28,25.0,15.0,25.0
+792,2014.0,19 Jun 2014 - 13:00 ,Group C,Estadio Nacional,Brasilia ,Colombia,2.0,1.0,Ivory Coast,H,Colombia, ,300186468.0,COL,CIV,28,25.0,26.35,25.0
+793,1954.0,20 Jun 1954 - 17:00 ,Group 2,Charmilles,Geneva ,Turkey,7.0,0.0,Korea Republic,H,Turkey, ,1304.0,TUR,KOR,23,12.0,11.5,12.0
+794,2002.0,29 Jun 2002 - 20:00 ,Third place,Daegu World Cup Stadium,Daegu ,Korea Republic,2.0,3.0,Turkey,A,Turkey, ,43950063.0,KOR,TUR,28,11.5,12.0,12.0
+795,2002.0,18 Jun 2002 - 15:30 ,Round of 16,Miyagi Stadium,Rifu ,Japan,0.0,1.0,Turkey,A,Turkey, ,43950055.0,JPN,TUR,26,12.0,12.0,12.0
+796,2002.0,22 Jun 2002 - 20:30 ,Quarter-finals,Osaka Nagai Stadium,Osaka ,Senegal,0.0,1.0,Turkey,A,Turkey,Win on Golden Goal ,43950060.0,SEN,TUR,27,28.0,12.0,12.0
+797,2002.0,13 Jun 2002 - 15:30 ,Group C,Seoul World Cup Stadium,Seoul ,Turkey,3.0,0.0,China PR,H,Turkey, ,43950042.0,TUR,CHN,29,12.0,6.95,12.0
+798,2002.0,14 Jun 2002 - 20:30 ,Group D,Incheon Football Stadium,Incheon ,Portugal,0.0,1.0,Korea Republic,A,Korea Republic, ,43950047.0,POR,KOR,27,15.0,11.5,11.5
+799,1966.0,19 Jul 1966 - 19:30 ,Group 4,Ayresome Park,Middlesbrough ,Korea Republic,1.0,0.0,Italy,H,Korea Republic, ,1679.0,PRK,ITA,17,11.5,13.0,11.5
+800,2002.0,18 Jun 2002 - 20:30 ,Round of 16,Daejeon World Cup Stadium,Daejeon ,Korea Republic,2.0,1.0,Italy,H,Korea Republic,Win on Golden Goal ,43950056.0,KOR,ITA,23,11.5,13.0,11.5
+801,2002.0,04 Jun 2002 - 20:30 ,Group D,Busan Asiad Main Stadium,Busan ,Korea Republic,2.0,0.0,Poland,H,Korea Republic, ,43950014.0,KOR,POL,48,11.5,8.0,11.5
+802,2010.0,12 Jun 2010 - 13:30 ,Group B,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,2.0,0.0,Greece,H,Korea Republic, ,300061459.0,KOR,GRE,13,11.5,15.0,11.5
+803,2006.0,13 Jun 2006 - 15:00 ,Group G,"FIFA World Cup Stadium, Frankfurt",Frankfurt/Main ,Korea Republic,2.0,1.0,Togo,H,Korea Republic, ,97410014.0,KOR,TOG,23,11.5,27.0,11.5
+804,1998.0,13 Jun 1998 - 14:30 ,Group D,La Beaujoire,Nantes ,Spain,2.0,3.0,Nigeria,A,Nigeria, ,8731.0,ESP,NGA,28,14.0,27.0,27.0
+805,1994.0,30 Jun 1994 - 19:30 ,Group D,Foxboro Stadium,Boston ,Greece,0.0,2.0,Nigeria,A,Nigeria, ,3083.0,GRE,NGA,32,15.0,27.0,27.0
+806,1994.0,21 Jun 1994 - 19:30 ,Group D,Cotton Bowl,Dallas ,Nigeria,3.0,0.0,Bulgaria,H,Nigeria, ,3061.0,NGA,BUL,34,27.0,11.0,27.0
+807,1998.0,19 Jun 1998 - 17:30 ,Group D,Parc des Princes,Paris ,Nigeria,1.0,0.0,Bulgaria,H,Nigeria, ,8747.0,NGA,BUL,25,27.0,11.0,27.0
+808,2014.0,21 Jun 2014 - 18:00 ,Group F,Arena Pantanal,Cuiaba ,Nigeria,1.0,0.0,Bosnia and Herzegovina,H,Nigeria, ,300186511.0,NGA,BIH,36,27.0,9.85,27.0
+809,2010.0,17 Jun 2010 - 16:00 ,Group B,Free State Stadium,Mangaung/Bloemfontein ,Greece,2.0,1.0,Nigeria,H,Greece, ,300061457.0,GRE,NGA,22,15.0,27.0,15.0
+810,2014.0,24 Jun 2014 - 17:00 ,Group C,Estadio Castelao,Fortaleza ,Greece,2.0,1.0,Ivory Coast,H,Greece, ,300186455.0,GRE,CIV,28,15.0,26.35,15.0
+811,1938.0,09 Jun 1938 - 18:00 ,First round,Stade Municipal,Toulouse ,Cuba,2.0,1.0,Romania,H,Cuba, ,1157.0,CUB,ROU,30,26.0,10.0,26.0
+812,1998.0,21 Jun 1998 - 21:00 ,Group F,Stade de Gerland,Lyon ,USA,1.0,2.0,Iran,A,Iran, ,8754.0,USA,IRN,26,8.55,19.0,19.0
+813,2014.0,25 Jun 2014 - 13:00 ,Group F,Arena Fonte Nova,Salvador ,Bosnia and Herzegovina,3.0,1.0,Iran,H,Bosnia and Herzegovina, ,300186464.0,BIH,IRN,25,9.85,19.0,9.85
+814,1982.0,16 Jun 1982 - 17:15 ,Group 2,El Molinon,Gijon ,Germany,1.0,2.0,Algeria,A,Algeria, ,741.0,FRG,ALG,23,9.0,24.0,24.0
+815,2014.0,22 Jun 2014 - 16:00 ,Group H,Estadio Beira-Rio,Porto Alegre ,Korea Republic,2.0,4.0,Algeria,A,Algeria, ,300186495.0,KOR,ALG,21,11.5,24.0,24.0
+816,1982.0,24 Jun 1982 - 17:15 ,Group 2,Carlos Tartiere,Oviedo ,Algeria,3.0,2.0,Chile,H,Algeria, ,740.0,ALG,CHI,24,24.0,9.0,24.0
+817,2010.0,26 Jun 2010 - 20:30 ,Round of 16,Royal Bafokeng Sports Palace,Phokeng ,USA,1.0,2.0,Ghana,A,Ghana,Ghana win after extra time ,300061503.0,USA,GHA,23,8.55,27.0,27.0
+818,2006.0,17 Jun 2006 - 18:00 ,Group E,"FIFA World Cup Stadium, Cologne",Cologne ,Czech Republic,0.0,2.0,Ghana,A,Ghana, ,97410026.0,CZE,GHA,24,8.0,27.0,27.0
+819,2010.0,13 Jun 2010 - 16:00 ,Group D,Loftus Versfeld Stadium,Tshwane/Pretoria ,Serbia,0.0,1.0,Ghana,A,Ghana, ,300061471.0,SRB,GHA,26,11.0,27.0,27.0
+820,2006.0,22 Jun 2006 - 16:00 ,Group E,Franken-Stadion,Nuremberg ,Ghana,2.0,1.0,USA,H,Ghana, ,97410042.0,GHA,USA,20,27.0,8.55,27.0
+821,2006.0,23 Jun 2006 - 16:00 ,Group H,Olympiastadion,Berlin ,Ukraine,1.0,0.0,Tunisia,H,Ukraine, ,97410048.0,UKR,TUN,26,9.0,21.0,9.0
+822,2006.0,19 Jun 2006 - 18:00 ,Group H,"FIFA World Cup Stadium, Hamburg",Hamburg ,Saudi Arabia,0.0,4.0,Ukraine,A,Ukraine, ,97410032.0,KSA,UKR,22,26.0,9.0,9.0
+823,2010.0,24 Jun 2010 - 16:00 ,Group F,Ellis Park Stadium,Johannesburg ,Slovakia,3.0,2.0,Italy,H,Slovakia, ,300061480.0,SVK,ITA,22,8.0,13.0,8.0
+824,2006.0,12 Jun 2006 - 15:00 ,Group F,Fritz-Walter-Stadion,Kaiserslautern ,Australia,3.0,1.0,Japan,H,Australia, ,97410012.0,AUS,JPN,21,22.0,12.0,22.0
+825,2010.0,23 Jun 2010 - 20:30 ,Group D,Mbombela Stadium,Nelspruit ,Australia,2.0,1.0,Serbia,H,Australia, ,300061467.0,AUS,SRB,23,22.0,11.0,22.0
+826,2014.0,14 Jun 2014 - 22:00 ,Group C,Arena Pernambuco,Recife ,Ivory Coast,2.0,1.0,Japan,H,Ivory Coast, ,300186507.0,CIV,JPN,28,26.35,12.0,26.35
+827,2010.0,25 Jun 2010 - 16:00 ,Group G,Mbombela Stadium,Nelspruit ,Korea Republic,0.0,3.0,Ivory Coast,A,Ivory Coast, ,300061486.0,PRK,CIV,23,11.5,26.35,26.35
+828,2006.0,21 Jun 2006 - 21:00 ,Group C,"FIFA World Cup Stadium, Munich",Munich ,Ivory Coast,3.0,2.0,Serbia,H,Ivory Coast, ,97410038.0,CIV,SCG,20,26.35,11.0,26.35
+829,1998.0,26 Jun 1998 - 16:00 ,Group H,Stade de Gerland,Lyon ,Japan,1.0,2.0,Jamaica,A,Jamaica, ,8771.0,JPN,JAM,26,12.0,26.0,26.0
+830,2010.0,18 Jun 2010 - 13:30 ,Group D,Port Elizabeth Stadium,Nelson Mandela Bay/Port Elizabeth ,Germany,0.0,1.0,Serbia,A,Serbia, ,300061470.0,GER,SRB,13,9.0,11.0,11.0
+831,1986.0,11 Jun 1986 - 16:00 ,Group F,Tres de Marzo,Guadalajara ,Portugal,1.0,3.0,Morocco,A,Morocco, ,675.0,POR,MAR,28,15.0,18.0,18.0
+832,1998.0,23 Jun 1998 - 21:00 ,Group A,Stade Geoffroy Guichard,Saint-Etienne ,Scotland,0.0,3.0,Morocco,A,Morocco, ,8758.0,SCO,MAR,24,8.45,18.0,18.0
+833,1994.0,18 Jun 1994 - 16:00 ,Group E,Giants Stadium,New York/New Jersey ,Italy,0.0,1.0,Republic of Ireland,A,Republic of Ireland, ,3052.0,ITA,IRL,34,13.0,9.3,9.3
+834,2002.0,11 Jun 2002 - 20:30 ,Group E,International Stadium Yokohama,Yokohama ,Saudi Arabia,0.0,3.0,Republic of Ireland,A,Republic of Ireland, ,43950036.0,KSA,IRL,25,26.0,9.3,9.3
+835,2010.0,13 Jun 2010 - 13:30 ,Group C,Peter Mokaba Stadium,Polokwane ,Algeria,0.0,1.0,Slovenia,A,Slovenia, ,300061465.0,ALG,SVN,21,24.0,10.0,10.0
+836,,,,,,Dutch East Indies,,,,,,,,,,,23.65,,
+837,,,,,,Egypt,,,,,,,,,,,23.0,,
+838,,,,,,El Salvador,,,,,,,,,,,25.0,,
+839,,,,,,Israel,,,,,,,,,,,20.0,,
+840,,,,,,Kuwait,,,,,,,,,,,26.0,,
+841,,,,,,,,,,,Angola,,,,,,,,22.0
+842,,,,,,,,,,,Bolivia,,,,,,,,21.0
+843,,,,,,,,,,,Canada,,,,,,,,-3.0
+844,,,,,,,,,,,China PR,,,,,,,,6.95
+845,,,,,,,,,,,Dutch East Indies,,,,,,,,23.65
+846,,,,,,,,,,,Egypt,,,,,,,,23.0
+847,,,,,,,,,,,El Salvador,,,,,,,,25.0
+848,,,,,,,,,,,Haiti,,,,,,,,27.0
+849,,,,,,,,,,,Honduras,,,,,,,,25.0
+850,,,,,,,,,,,Iraq,,,,,,,,23.0
+851,,,,,,,,,,,Israel,,,,,,,,20.0
+852,,,,,,,,,,,Kuwait,,,,,,,,26.0
+853,,,,,,,,,,,New Zealand,,,,,,,,10.0
+854,,,,,,,,,,,Togo,,,,,,,,27.0
+855,,,,,,,,,,,Trinidad and Tobago,,,,,,,,25.75
+856,,,,,,,,,,,United Arab Emirates,,,,,,,,29.0
+857,,,,,,,,,,,Zaire,,,,,,,,21.4
